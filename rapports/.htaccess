@@ -1,0 +1,9 @@
+#require all granted
+#Order allow,deny
+#Allow from all
+Options +Indexes
+
+AuthType Basic
+AuthName "Authentification requise"
+Require valid-user
+AuthUserFile /home/mdnproductions/.htpasswd

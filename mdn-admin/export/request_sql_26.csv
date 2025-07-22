@@ -1,0 +1,706 @@
+id_order;reference;total_paid_tax_incl;payment;date_add;id_currency;id_pdf;customer;osname;color;new;cname;badge_success;carrier;shop_name
+10294;RBCIZBLKF;51.090000;"Card via Stripe";"2022-11-30 23:04:35";1;10294;"B. Cardin";Livré;#108510;1;Canada;1;"Colissimo à domicile";MDN-Productions
+10293;KPZRPLJAU;129.000000;"Card via Stripe";"2022-11-30 21:30:29";1;10293;"m. fonteny";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10292;HDHZANTDM;57.500000;"Card via Stripe";"2022-11-30 20:15:57";1;10292;"S. Selleron";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10291;YIQTIEDFS;10.950000;"Card via Stripe";"2022-11-30 19:10:13";1;10291;"M. Bocquier ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10290;XBJRTOMFQ;20.450000;"Card via Stripe";"2022-11-30 14:25:35";1;10290;"J. Renou";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10289;VMBUNHASU;10.000000;Chèque;"2022-11-30 13:28:18";1;10289;"C. CHEREL DE SEZE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10288;WKELZLNCW;30.000000;Espèces;"2022-11-30 13:15:00";1;10288;"J. TORIKIAN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10287;DOOXXQGPB;15.950000;Chèque;"2022-11-30 12:50:24";1;10287;"S. Chevrier";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10286;MHYDUPMYB;29.950000;"Card via Stripe";"2022-11-30 12:50:14";1;10286;"E. BROCHET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10285;KPFMFYPYT;56.800000;Chèque;"2022-11-30 12:48:44";1;10285;"F. JOURDAIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10284;OFROXSNBX;43.750000;Chèque;"2022-11-30 12:45:38";1;10284;"F. TEREYGEOL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10283;BTVKXICGM;53.000000;Chèque;"2022-11-30 12:35:38";1;10283;"c. garcia soucille";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10282;PZCEPAJRV;50.000000;Chèque;"2022-11-30 12:33:45";1;10282;"J. DURIEZ";Livré;#108510;1;France;1;;MDN-Productions
+10281;BXHWTWFMH;80.000000;Chèque;"2022-11-30 12:31:01";1;10281;"M. MERLET";Livré;#108510;0;France;1;;MDN-Productions
+10280;UMSLNSSET;15.950000;Chèque;"2022-11-30 12:29:13";1;10280;"S. Marie France";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10279;VFXYEXXVZ;52.500000;Chèque;"2022-11-30 12:27:32";1;10279;"T. BERGER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10278;PNIIYTTDI;47.450000;"Card via Stripe";"2022-11-30 12:23:12";1;10278;"A. NGUYEN DUY ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10277;ZZYMHXKFL;34.950000;"Card via Stripe";"2022-11-30 12:14:06";1;10277;"M. LEFEUVRE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10276;CTDCRWHKW;19.950000;"Card via Stripe";"2022-11-30 12:03:23";1;10276;"M. Joseph";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10275;HXJUJOROJ;20.450000;"Card via Stripe";"2022-11-30 11:13:09";1;10275;"C. COURTINE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10274;ORKAZOQRN;34.950000;"Card via Stripe";"2022-11-30 11:02:23";1;10274;"D. CHASTEL";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10273;MWHQKSJVW;25.450000;PayPal;"2022-11-30 08:19:02";1;10273;"F. Bonvarlet";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10272;LFFEFDVOA;48.450000;"Card via Stripe";"2022-11-30 00:53:10";1;10272;"P. Gaullier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10271;HVCDKPLQP;10.950000;"Card via Stripe";"2022-11-29 22:44:38";1;10271;"B. Parizet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10270;MTVTQJHGH;15.950000;Virement;"2022-11-29 19:37:40";1;10270;"J. Coupet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10269;EDSFSYWRD;53.000000;"Card via Stripe";"2022-11-29 18:15:39";1;10269;"M. ALBERT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10268;VTZMGBZOH;24.740000;"Card via Stripe";"2022-11-29 18:05:08";1;10268;"E. Ruzibiza ";Livré;#108510;1;Canada;1;"Colissimo à domicile";MDN-Productions
+10267;VSXGGEYNV;53.950000;"Card via Stripe";"2022-11-29 17:50:07";1;10267;"x. NOURY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10266;CJOQKBYVM;158.650000;"Card via Stripe";"2022-11-29 17:04:02";1;10266;"B. RONDET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10265;YAQKALXJC;50.400000;"Card via Stripe";"2022-11-29 17:00:19";1;10265;"F. Sevez d'Alzon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10264;EDJWFPJIT;52.800000;"Card via Stripe";"2022-11-29 16:54:39";1;10264;"S. Galland";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10263;MCFLKPXRD;8583.640000;Virement;"2022-11-29 16:18:08";1;10263;"E. YVES BRIEND EDITEUR SA";Livré;#108510;0;France;1;Salvatore;MDN-Productions
+10262;CWZFYIZVK;17.450000;"Card via Stripe";"2022-11-29 16:10:54";1;10262;"M. NDJEKA DJEMBA";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+10261;GDTGBCIXH;33.750000;"Card via Stripe";"2022-11-29 16:09:19";1;10261;"V. Bampassy";Livré;#108510;1;Canada;1;"Colissimo à domicile";MDN-Productions
+10260;CLMMUCNAX;20.450000;"Card via Stripe";"2022-11-29 15:59:40";1;10260;"M. Debonnet";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10259;SZNGNEVXD;14.750000;"Card via Stripe";"2022-11-29 15:24:18";1;10259;"J. de Feraudy";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10258;TMZNTVSQG;52.800000;"Card via Stripe";"2022-11-29 14:53:45";1;10258;"R. Pecorari ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10257;AUVJEBASR;43.950000;"Card via Stripe";"2022-11-29 14:43:43";1;10257;"C. Mulone";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+10256;VFJDNNXEM;31.450000;PayPal;"2022-11-29 14:40:32";1;10256;"F. SCHEUREN";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+10255;SULCJHSHO;33.450000;"Card via Stripe";"2022-11-29 14:37:57";1;10255;"M. de Cibeins";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10254;OMVAKCFFU;29.750000;PayPal;"2022-11-29 14:35:44";1;10254;"L. PRIGENT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10253;XZFNHJZGK;0.000000;Chèque;"2022-11-29 14:13:06";1;10253;"P. ST URBAIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10252;KRMXTEGAM;0.000000;Chèque;"2022-11-29 14:07:42";1;10252;"C. LOUF";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10251;XHVGHOGAQ;0.000000;Chèque;"2022-11-29 14:05:06";1;10251;"F. DAZAN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10250;PAXDPMKZQ;78.400000;"Card via Stripe";"2022-11-29 13:38:41";1;10250;"E. de Feydeau";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10249;CWSDLOQWA;75.830000;"Card via Stripe";"2022-11-29 13:30:39";1;10249;"A. Vignon";Livré;#108510;1;Switzerland;1;"Colissimo à domicile";MDN-Productions
+10248;HQUNHIDUH;29.950000;"Card via Stripe";"2022-11-29 12:49:40";1;10248;"A. CLEMENT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10247;GFBZSABRJ;58.000000;Chèque;"2022-11-29 12:45:05";1;10247;"M. GAVOUYERE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10246;CSRFHHPOE;67.500000;Chèque;"2022-11-29 11:38:26";1;10246;"J. PECQUEUR";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10245;BHAGVXOST;91.200000;Chèque;"2022-11-29 11:33:03";1;10245;"J. MEURICE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10244;SDQGMQYTN;44.450000;Chèque;"2022-11-29 11:25:40";1;10244;"P. DECHY";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10243;EWIZWNFPU;29.950000;Chèque;"2022-11-29 11:21:10";1;10243;"A. DE POMYERS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10242;DDFGZQCEE;34.250000;Chèque;"2022-11-29 11:12:58";1;10242;"G. BERTRAND";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10241;HMEOZCJJG;4.950000;"Card via Stripe";"2022-11-29 10:52:29";1;10241;"C. Dauguet";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10240;ABASQGTLJ;50.000000;"Card via Stripe";"2022-11-29 10:35:37";1;10240;"M. Dusseaux";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10239;DJBSRYWSL;52.500000;"Card via Stripe";"2022-11-29 10:14:06";1;10239;"R. PAYET-GEISLER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10238;QHRFIUZWE;75.000000;PayPal;"2022-11-29 10:02:12";1;10238;"C. Levavasseur";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10237;SGSEBLJBT;73.000000;"Card via Stripe";"2022-11-29 09:42:23";1;10237;"M. Barillet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10236;WKVZVMIDY;102.000000;"Card via Stripe";"2022-11-28 21:10:28";1;10236;"W. de MADRE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10235;TSCALYVHL;43.750000;"Card via Stripe";"2022-11-28 19:36:13";1;10235;"D. BECH";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10234;WHYOIUKGN;29.950000;"Card via Stripe";"2022-11-28 19:20:32";1;10234;"D. CHASTEL";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10233;MFCUVGBGZ;53.950000;"Card via Stripe";"2022-11-28 15:21:58";1;10233;"A. VACHER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10232;IRJZOAFVD;33.450000;"Card via Stripe";"2022-11-28 14:42:05";1;10232;"C. MERMET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10231;ZJMDEHGTD;36.000000;Chèque;"2022-11-28 13:29:27";1;10231;"M. PAJOT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10230;LZCBALQHM;28.300000;Chèque;"2022-11-28 13:23:49";1;10230;"M. DUSSAUT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10229;OIFDSWRLA;67.500000;Chèque;"2022-11-28 13:20:50";1;10229;"M. TILLIE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10228;AGMXQBCZZ;44.450000;Chèque;"2022-11-28 13:16:42";1;10228;"J. ALLIOT";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10227;MQBPBLMIH;29.950000;Chèque;"2022-11-28 13:13:43";1;10227;"A. HIVERT";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10226;FEKSWEJQM;19.500000;Chèque;"2022-11-28 13:12:07";1;10226;"H. DELRIEU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10225;JNVXNUIFE;20.000000;Chèque;"2022-11-28 13:04:41";1;10225;"R. FAUBOURG";Livré;#108510;1;"Reunion Island";1;"Colissimo à domicile";MDN-Productions
+10224;CUOKMBSAH;5.950000;Chèque;"2022-11-28 12:43:18";1;10224;"F. MORIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10223;FQULJFMRA;4.950000;"Card via Stripe";"2022-11-28 11:59:21";1;10223;"E. AUDOUIN";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10222;GCWOHPPUU;70.450000;Chèque;"2022-11-28 11:33:38";1;10222;"M. VERSEPUECH";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10221;JZDNNZSUC;100.000000;Chèque;"2022-11-28 11:27:27";1;10221;"R. BOUVIGNIES";Livré;#108510;1;France;1;;MDN-Productions
+10220;LGUOOAYTW;70.000000;Chèque;"2022-11-28 11:24:58";1;10220;"A. HUBER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10219;KRVLRPIBQ;1500.000000;Chèque;"2022-11-28 10:50:04";1;10219;"C. GAILLIARD";Livré;#108510;1;France;1;;MDN-Productions
+10218;OUXRVVYKU;29.550000;Chèque;"2022-11-28 09:57:40";1;10218;"C. FILHOL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10217;CHURTBFXW;29.950000;Chèque;"2022-11-28 09:54:07";1;10217;"S. ISIDRO CHAPADO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10216;XYUGEQALR;68.400000;Chèque;"2022-11-28 09:50:58";1;10216;"B. Juliette";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10215;UUTDEVTUP;19.750000;Chèque;"2022-11-28 09:47:29";1;10215;"C. AUBRY";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10214;RXSDKTZCC;29.950000;Chèque;"2022-11-28 09:45:31";1;10214;"B. Denoyelle";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10213;ICCNFBBFI;29.950000;Chèque;"2022-11-28 09:44:11";1;10213;"L. PUTINIER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10212;AMGDOVAJH;100.000000;Chèque;"2022-11-28 09:29:39";1;10212;"L. COUPET";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10211;CVVUKXHLH;20.450000;Chèque;"2022-11-28 09:22:14";1;10211;"C. DUFOURC";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10210;QPWTSDZZF;6.000000;Chèque;"2022-11-28 09:20:17";1;10210;"M. LEFEUVRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10209;BHUCGFEHF;6.000000;Chèque;"2022-11-28 09:16:24";1;10209;"C. HERIEAU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10208;FUBKWKWFL;68.400000;Chèque;"2022-11-28 09:12:50";1;10208;"G. PORMENTE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10207;VQVLALXJG;20.450000;Chèque;"2022-11-28 09:10:45";1;10207;"J. LAROZA";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10206;OUPZQGYYN;39.950000;Chèque;"2022-11-28 09:05:47";1;10206;"b. DESTREMAU";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10205;PKFANXOHW;91.200000;PayPal;"2022-11-27 21:04:48";1;10205;"P. Lavagna";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10204;WKZLGLHUC;72.500000;"Card via Stripe";"2022-11-27 20:44:59";1;10204;"M. DESGRANGES";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10203;LGUXVOKUQ;44.850000;"Card via Stripe";"2022-11-27 18:31:10";1;10203;"m. canto";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10202;FYRBJFSLM;32.950000;"Card via Stripe";"2022-11-27 18:10:53";1;10202;"R. SENTIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10201;DZWKSXYFF;57.500000;"Card via Stripe";"2022-11-27 17:29:06";1;10201;"P. GUERRE-BERT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10200;ZVMMIIFFI;12.250000;"Card via Stripe";"2022-11-27 16:37:52";1;10200;"L. Moreau";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10199;BTCXCUODQ;29.950000;"Card via Stripe";"2022-11-27 16:10:20";1;10199;"J. Pensec";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10198;FJEFOTKWF;14.950000;"Card via Stripe";"2022-11-27 11:16:50";1;10198;"M. Poinsinet de Sivry ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10197;EKNLVXWYS;93.300000;"Card via Stripe";"2022-11-27 10:02:58";1;10197;"M. Bocoum";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10196;PCIOGNGND;19.550000;PayPal;"2022-11-27 07:07:57";1;10196;"D. Crouzet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10195;MJVFEYMHK;50.800000;"Card via Stripe";"2022-11-27 05:04:00";1;10195;"C. Beaumont";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+10194;EXUUWVKXT;20.450000;"Card via Stripe";"2022-11-26 23:12:30";1;10194;"G. GUILLAUME";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10193;IEAIQVJBJ;5.950000;"Card via Stripe";"2022-11-26 19:12:58";1;10193;"B. de Chatillon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10192;PFZSFIHKK;93.000000;PayPal;"2022-11-26 19:11:46";1;10192;"S. Vergely";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10191;HENPWXRAK;38.950000;"Card via Stripe";"2022-11-26 16:01:52";1;10191;"M. Françoise";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10190;PNNCLRQJC;5.950000;"Card via Stripe";"2022-11-26 15:23:50";1;10190;"B. BILLIER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10189;JZQLWEJIG;58.000000;"Card via Stripe";"2022-11-26 10:49:39";1;10189;"J. Nicolas";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10188;NCJHTCQCI;14.750000;"Card via Stripe";"2022-11-25 23:11:40";1;10188;"M. Douence";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10187;KNIMPLNDN;13.450000;"Card via Stripe";"2022-11-25 18:09:38";1;10187;"G. Gazal Gowey";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10186;ULDGWGEVN;9.450000;Virement;"2022-11-25 16:49:14";1;10186;"G. SORIN";"En attente de virement bancaire";#4169E1;1;France;0;"Mondial Relay";MDN-Productions
+10185;HTYUSUSBS;52.800000;"Card via Stripe";"2022-11-25 15:45:31";1;10185;"H. Flouquet";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10184;XLAJLYCUK;20.450000;"Card via Stripe";"2022-11-25 14:10:16";1;10184;"M. Dumont";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10183;UHCXHUVQC;23.450000;"Card via Stripe";"2022-11-25 13:57:21";1;10183;"G. Jeunet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10182;OXARUKXDQ;14.750000;"Card via Stripe";"2022-11-25 13:37:55";1;10182;"L. KIFFEL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10181;RXLJBXGNM;29.490000;"Card via Stripe";"2022-11-25 13:22:56";1;10181;"M. ROUSSEL";Expédié;#8A2BE2;1;Mauritius;1;"Colissimo à domicile";MDN-Productions
+10180;EEWOSPYUU;22.550000;"Card via Stripe";"2022-11-25 12:54:21";1;10180;"H. Violette";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10179;ELHUMBYRO;19.450000;"Card via Stripe";"2022-11-25 12:48:33";1;10179;"R. Olive";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10178;KNUJZXNJA;50.000000;Chèque;"2022-11-25 12:13:25";1;10178;"C. DUBOIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10177;RRIJVMGRS;44.950000;"Card via Stripe";"2022-11-25 10:58:43";1;10177;"C. BLANC";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10176;BOQTCEUUJ;20.450000;"Card via Stripe";"2022-11-25 10:39:40";1;10176;"F. Amichia ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10175;MBJMPYFZN;69.000000;"Card via Stripe";"2022-11-25 10:23:14";1;10175;"M. DALLEAU - TOCCO";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10174;WTVHPOGGT;53.500000;"Card via Stripe";"2022-11-25 09:19:44";1;10174;"A. Buan ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10173;DYRPCKPZN;40.450000;"Card via Stripe";"2022-11-25 09:05:27";1;10173;"J. Matongo";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10172;RUIJLMSZS;68.000000;PayPal;"2022-11-24 22:12:04";1;10172;"M. MOISY";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10171;PZKDWREQL;52.100000;"Card via Stripe";"2022-11-24 20:47:35";1;10171;"M. Teyssere";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10170;HCOZQIIQQ;50.800000;PayPal;"2022-11-24 19:42:24";1;10170;"M. MEIGNEN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10169;IBRAXVHHA;59.000000;"Card via Stripe";"2022-11-24 18:59:44";1;10169;"S. Selleron";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10168;EBTNXKOPK;32.950000;"Card via Stripe";"2022-11-24 18:29:23";1;10168;"C. M'PIANA ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10167;VFOVPYIEM;16.950000;Virement;"2022-11-24 17:29:51";1;10167;"m. lozano";"En attente de virement bancaire";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+10166;MAYOHIGCM;51.900000;"Card via Stripe";"2022-11-24 16:36:30";1;10166;"A. Laurent";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10165;XNVMKMOZS;100.000000;Chèque;"2022-11-24 16:02:25";1;10165;"P. SUTTER";Livré;#108510;1;France;1;;MDN-Productions
+10164;VAQJJTGRY;11.950000;Chèque;"2022-11-24 15:59:00";1;10164;"T. PISTORESI";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10163;AGPAYDQVL;49.450000;Chèque;"2022-11-24 15:51:03";1;10163;"B. COROLLER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10162;BPMBIYJEZ;50.000000;Chèque;"2022-11-24 15:45:08";1;10162;"R. BERNARD SPERRY";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10161;ZFUIARDRC;15.950000;"Card via Stripe";"2022-11-24 15:41:43";1;10161;"G. Simon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10160;WWANYSJCO;12.050000;Chèque;"2022-11-24 15:41:18";1;10160;"M. PINAULT";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10159;EPTTLUXKG;12.050000;Chèque;"2022-11-24 15:35:16";1;10159;"G. GONSOLIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10158;VICZLXTRZ;13.050000;Chèque;"2022-11-24 15:30:53";1;10158;"G. MONIE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10157;IHVDFNQLU;17.950000;Chèque;"2022-11-24 15:21:39";1;10157;"J. HACAUT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10156;NCUACNIJZ;5.000000;Espèces;"2022-11-24 15:15:06";1;10156;"J. TORIKIAN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10155;UDZBAGDUT;10.000000;Virement;"2022-11-24 15:07:41";1;10155;"C. Régis";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10154;NLZHUJKQG;200.000000;Chèque;"2022-11-24 14:54:41";1;10154;"T. BURGAUD";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10153;EGZZBKOQT;50.000000;Chèque;"2022-11-24 14:43:46";1;10153;"C. BAUDRY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10152;ZGPEQYPJG;16.000000;Chèque;"2022-11-24 14:40:03";1;10152;"P. CAYOT";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10151;KCIVWIXTT;25.950000;Chèque;"2022-11-24 14:38:21";1;10151;"L. MORA";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10150;PDYRGSEJC;19.950000;Chèque;"2022-11-24 14:36:14";1;10150;"J. ESCALLON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10149;YJNJQCCOD;25.000000;Chèque;"2022-11-24 14:34:16";1;10149;"E. LYAUTEY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10148;GZBTJUCWY;5.950000;Chèque;"2022-11-24 14:32:51";1;10148;"M. Francoise";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10147;FGEKAXFWJ;5.950000;Chèque;"2022-11-24 14:31:47";1;10147;"H. JULIEN-ALEXIS";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10146;CYBNILEHZ;35.950000;Chèque;"2022-11-24 14:29:16";1;10146;"F. DELILLE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10145;QHXPQMXAV;10.950000;Chèque;"2022-11-24 14:22:49";1;10145;"J. DINIAKOS BEX";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10144;FFAOPTXDP;8.000000;Chèque;"2022-11-24 14:16:55";1;10144;"C. MARSY";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10143;VMSWQMFZB;5.950000;Chèque;"2022-11-24 14:15:13";1;10143;"c. merle";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10142;UDFGLBKZE;5.950000;Chèque;"2022-11-24 14:05:43";1;10142;"B. BOURGEON";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10141;BIVSDNPTE;6.000000;Chèque;"2022-11-24 14:03:53";1;10141;"R. BERNARD SPERRY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10140;LIMOWGTAC;5.950000;Chèque;"2022-11-24 13:55:51";1;10140;"V. POITAU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10139;VHQHDXYQV;5.950000;Chèque;"2022-11-24 13:51:34";1;10139;"R. CHAUVEAU";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10138;RVELAKRSB;80.000000;Chèque;"2022-11-24 11:29:08";1;10138;"F. BRENDLEN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10137;NLPCKTNED;10.950000;PayPal;"2022-11-24 10:57:57";1;10137;"D. Ruzé";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10136;FMXRDPCYJ;50.000000;PayPal;"2022-11-24 09:47:50";1;10136;"C. Aubanel";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10135;NYVEWGZQO;26.850000;"Card via Stripe";"2022-11-24 08:51:58";1;10135;"J. PAUL";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10134;LYTYHNLEI;53.450000;"Card via Stripe";"2022-11-24 08:27:02";1;10134;"M. Gallego";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10133;UIIVGHUUM;54.030000;"Card via Stripe";"2022-11-24 03:41:09";1;10133;"C. PORLIER";Expédié;#8A2BE2;1;"French Polynesia";1;"Colissimo à domicile";MDN-Productions
+10132;EUIJNHOWG;28.950000;"Card via Stripe";"2022-11-23 23:10:15";1;10132;"B. BOUVIER";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+10131;CYEEUVJRD;80.200000;"Card via Stripe";"2022-11-23 22:21:11";1;10131;"P. DELESTRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10130;YALVVECPB;5.950000;"Card via Stripe";"2022-11-23 20:31:03";1;10130;"G. Simon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10129;PRKBKAONE;5.950000;Virement;"2022-11-23 19:12:28";1;10129;"G. Simon";Annulé;#DC143C;1;France;0;"Colissimo à domicile";MDN-Productions
+10128;FNBFVWRVV;27.450000;Virement;"2022-11-23 18:50:19";1;10128;"G. Simon";Annulé;#DC143C;1;France;0;"Mondial Relay";MDN-Productions
+10127;BQUYXWGWQ;68.400000;"Card via Stripe";"2022-11-23 18:09:16";1;10127;"T. FEBVRE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10126;BQLWAGCJE;13.950000;PayPal;"2022-11-23 16:16:29";1;10126;"M. DE VILLEMANDY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10125;RENKZUEXW;35.950000;Virement;"2022-11-23 15:19:06";1;10125;"M. Guyomard";"En attente de virement bancaire";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+10124;FUWAVIUPA;4.950000;"Card via Stripe";"2022-11-23 15:12:44";1;10124;"v. Graffin";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10123;HJCSUCFTX;81.500000;"Card via Stripe";"2022-11-23 14:27:31";1;10123;"S. Pulver";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10122;JZYTULKBE;12.750000;"Card via Stripe";"2022-11-23 14:10:20";1;10122;"a. ollivier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10121;OJEJPXWQE;14.750000;Chèque;"2022-11-23 13:48:04";1;10121;"A. FERNANDES";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10120;KEIUNYNBX;20.450000;Chèque;"2022-11-23 13:44:50";1;10120;"F. ARMANGE CHOUIK";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10119;ITGKDAEKY;50.000000;Chèque;"2022-11-23 13:23:34";1;10119;"C. LACROIX";Expédié;#8A2BE2;0;France;1;"Colissimo à domicile";MDN-Productions
+10118;KTEOLZPGT;45.000000;Chèque;"2022-11-23 13:21:05";1;10118;"M. GURRET";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10117;JYOETCRZX;44.000000;Chèque;"2022-11-23 13:09:33";1;10117;"V. ORGEVAL";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10116;LSGRRVKCD;123.000000;Chèque;"2022-11-23 11:52:16";1;10116;"M. Guyomard";"En attente du paiement par chèque";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+10115;PXOSRUIXM;52.500000;"Card via Stripe";"2022-11-23 11:30:02";1;10115;"E. LACROIX";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10114;LEPHZBNKV;130.500000;"Card via Stripe";"2022-11-23 08:59:49";1;10114;"D. Riado";Expédié;#8A2BE2;0;France;1;"Colissimo à domicile";MDN-Productions
+10113;RIYQJCDHD;17.950000;"Card via Stripe";"2022-11-23 08:41:46";1;10113;"g. arnaud";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+10112;XNDBPMEZL;14.750000;"Card via Stripe";"2022-11-23 08:17:08";1;10112;"R. DEFONTAINE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10111;KDWBZNXIZ;63.200000;"Card via Stripe";"2022-11-23 06:07:06";1;10111;"R. Gouverneur ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10110;ROBDSVGFI;57.500000;PayPal;"2022-11-22 22:17:46";1;10110;"M. KRAMTI ";Expédié;#8A2BE2;0;France;1;"Colissimo à domicile";MDN-Productions
+10109;GSDWLHOTI;84.100000;"Card via Stripe";"2022-11-22 21:28:21";1;10109;"F. NORMAND";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10108;YCSJRLVSW;12.950000;"Card via Stripe";"2022-11-22 20:32:35";1;10108;"A. SIMON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10107;WORSZWOFW;14.750000;"Card via Stripe";"2022-11-22 19:44:16";1;10107;"A. Gestin";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10106;HPOZOFESZ;52.500000;"Card via Stripe";"2022-11-22 19:07:44";1;10106;"E. HOANG LITHAVONE";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10105;CNPWKYXXC;20.450000;"Card via Stripe";"2022-11-22 18:44:15";1;10105;"E. de Lencquesaing";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10104;RDICNWGEL;13.450000;"Card via Stripe";"2022-11-22 18:16:43";1;10104;"F. chevallier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10103;UGJRZIJNZ;19.450000;"Card via Stripe";"2022-11-22 17:02:34";1;10103;"M. ROY";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10102;SBILNQKHW;164.000000;"Card via Stripe";"2022-11-22 16:47:12";1;10102;"D. JACQUES";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10101;CVUTMUNLS;38.550000;"Card via Stripe";"2022-11-22 16:41:56";1;10101;"B. Mireille";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10100;MDYJAIDUR;19.450000;"Card via Stripe";"2022-11-22 15:18:19";1;10100;"M. Goffart ";Expédié;#8A2BE2;1;Belgium;1;"Mondial Relay";MDN-Productions
+10099;RLTSIZVUG;30.000000;Chèque;"2022-11-22 15:12:57";1;10099;"M. LEROY";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10098;NNKMEWPYI;50.600000;"Card via Stripe";"2022-11-22 14:52:15";1;10098;"M. DUBOIS";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10097;VHSRBOYAH;15.950000;"Card via Stripe";"2022-11-22 14:45:35";1;10097;"M. GAUMERAIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10096;GQTPBJDAF;29.950000;Chèque;"2022-11-22 14:32:56";1;10096;"J. HAUMESSER";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10095;WALQIXNIM;14.750000;"Card via Stripe";"2022-11-22 14:32:08";1;10095;"R. Actis-Datta";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10094;QOUEULDMR;29.950000;Chèque;"2022-11-22 14:29:04";1;10094;"M. D'OVIDIO";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10093;KLACVKTHH;50.000000;Chèque;"2022-11-22 14:15:34";1;10093;"M. HUCK";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10092;XZQZRZTHB;44.950000;Chèque;"2022-11-22 14:10:53";1;10092;"J. BEGUIN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10091;RZIPQJCBB;29.950000;Chèque;"2022-11-22 14:09:28";1;10091;"P. DENIER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10090;PDHCTUUNM;53.000000;Chèque;"2022-11-22 13:25:33";1;10090;"J. DUQUESNOY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10089;RQXBBEFYF;120.000000;Chèque;"2022-11-22 13:08:48";1;10089;"G. FAURE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10088;YXTETLIUD;64.500000;"Card via Stripe";"2022-11-22 13:07:48";1;10088;"C. Montagne";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10087;GPKXQMRXP;44.950000;"Card via Stripe";"2022-11-22 13:06:09";1;10087;"m. canto";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10086;YWODEVEBE;61.800000;"Card via Stripe";"2022-11-22 13:03:09";1;10086;"M. DONZEL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10085;HBQENPYGK;20.450000;Chèque;"2022-11-22 12:59:30";1;10085;"J. MARACHET";Expédié;#8A2BE2;0;France;1;"Colissimo à domicile";MDN-Productions
+10084;PPYNOKYCJ;20.450000;PayPal;"2022-11-22 12:58:16";1;10084;"B. TRIOEN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10083;OGFGVCOPT;29.250000;Chèque;"2022-11-22 12:58:06";1;10083;"D. DARNAULT-ALNET";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10082;XGOAWFWAS;52.300000;Chèque;"2022-11-22 12:53:45";1;10082;"A. BOUTS";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10081;DCZIZBYCL;20.000000;Chèque;"2022-11-22 12:46:58";1;10081;"B. DEPIROU";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10080;MNEMSJLCK;55.400000;"Card via Stripe";"2022-11-22 12:25:46";1;10080;"T. DELAFONTAINE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10079;ALORMECFB;29.950000;PayPal;"2022-11-22 12:25:32";1;10079;"M. SALLERON";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10078;ZLGKHCLCD;34.450000;PayPal;"2022-11-22 12:00:16";1;10078;"J. hamann";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10077;HOITVUCKK;27.950000;"Card via Stripe";"2022-11-22 11:29:49";1;10077;"J. CRESPO";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10076;TCYOAYCUZ;21.050000;Chèque;"2022-11-22 11:25:00";1;10076;"C. TRIQUET";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10075;AOAAYVRJT;19.250000;"Card via Stripe";"2022-11-22 11:24:49";1;10075;"J. DE BERGH";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10074;AFFYOUDCJ;86.300000;Virement;"2022-11-22 11:19:49";1;10074;"C. Mosser";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10073;DJOFLPCAA;34.950000;Chèque;"2022-11-22 11:05:29";1;10073;"S. Fayat";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10072;ASWTMMZMR;25.950000;"Card via Stripe";"2022-11-22 10:50:50";1;10072;"B. VALDENAIRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10071;YFSAOGEHY;85.300000;"Card via Stripe";"2022-11-22 10:49:20";1;10071;"D. SCHWALLER";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10070;OQZRFVYEF;33.150000;PayPal;"2022-11-22 10:41:13";1;10070;"D. Hermand";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+10069;WOPXCUZYQ;17.950000;"Card via Stripe";"2022-11-22 10:37:05";1;10069;"S. BEARZI ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10068;AOHFSLQRB;34.950000;"Card via Stripe";"2022-11-22 10:36:02";1;10068;"J. Meyer";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10067;JAMTBQNZD;52.300000;PayPal;"2022-11-22 10:35:43";1;10067;"C. du Ranquet ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10066;IHJCCQQNB;68.000000;PayPal;"2022-11-22 10:27:23";1;10066;"L. DENIS";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10065;JLFOKQWJB;28.950000;Chèque;"2022-11-22 10:19:30";1;10065;"S. Multigner";"En attente du paiement par chèque";#4169E1;1;France;0;"Mondial Relay";MDN-Productions
+10064;JKFNBKTCZ;63.000000;"Card via Stripe";"2022-11-22 10:17:44";1;10064;"N. Moinardeau ";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10063;HFQUWTGYJ;70.000000;"Card via Stripe";"2022-11-22 10:15:26";1;10063;"B. de LAPEYRIERE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10062;GBEHHQHAK;17.450000;"Card via Stripe";"2022-11-22 10:09:30";1;10062;"C. Sulkowski";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10061;YPNHLYNHQ;24.950000;"Card via Stripe";"2022-11-22 09:59:01";1;10061;"A. BRAZ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10060;WXYFDATCX;27.250000;"Card via Stripe";"2022-11-22 09:54:19";1;10060;"C. GRECO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10059;RDKNLBXJJ;37.250000;"Card via Stripe";"2022-11-22 09:49:03";1;10059;"M. Salaun de Kertanguy ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10058;ISXGXPFAE;121.800000;"Card via Stripe";"2022-11-22 09:44:30";1;10058;"C. DUBOIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10057;YRLKQVSSZ;30.950000;"Card via Stripe";"2022-11-22 09:31:39";1;10057;"A. Berteloot";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10056;QQRMMUQRK;59.300000;"Card via Stripe";"2022-11-22 09:28:51";1;10056;"M. Tichon";Livré;#108510;1;Belgium;1;"Colissimo à domicile";MDN-Productions
+10055;FVKHXPMPK;73.400000;"Card via Stripe";"2022-11-22 09:27:45";1;10055;"R. Vaquette";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10054;TUQOYCTHS;98.900000;"Card via Stripe";"2022-11-22 09:21:15";1;10054;"J. Cottet";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10053;BJAGFUGDD;52.800000;"Card via Stripe";"2022-11-22 09:20:01";1;10053;"E. Boutang";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10052;DSUCHWOIR;17.500000;Chèque;"2022-11-22 08:55:08";1;10052;"N. SUC";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10051;XBMUTDNFT;15.740000;PayPal;"2022-11-21 23:50:09";1;10051;"I. COULLERY";Livré;#108510;1;Switzerland;1;"Colissimo à domicile";MDN-Productions
+10050;WJTHTGSAA;19.450000;"Card via Stripe";"2022-11-21 21:31:53";1;10050;"C. Leveder Vitoux";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10049;SODHBWXPD;3.450000;Espèces;"2022-11-21 20:15:52";1;10049;"E. de Saintignon";"Payer en espèces";#9c7240;1;France;0;"Mondial Relay";MDN-Productions
+10048;UAZXAVOXF;52.000000;"Card via Stripe";"2022-11-21 19:21:14";1;10048;"C. BOURSANGE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10047;IVQYPQDHO;26.950000;"Card via Stripe";"2022-11-21 18:29:55";1;10047;"R. FOLIOT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10046;XPMCZPHYE;37.950000;"Card via Stripe";"2022-11-21 15:56:29";1;10046;"G. lacour";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10045;HTCAHYJSI;18.450000;"Card via Stripe";"2022-11-21 13:35:38";1;10045;"J. Fayette";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10044;GDZZWSQCQ;29.950000;Chèque;"2022-11-21 13:07:31";1;10044;"M. BERGEREAU";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+10043;CKIKNRBMM;25.000000;Chèque;"2022-11-21 13:06:36";1;10043;"F. BOURST";Livré;#108510;1;France;1;;MDN-Productions
+10042;AXGNQSIFW;29.950000;Chèque;"2022-11-21 13:04:43";1;10042;"M. FEUILLETTE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10041;SWHCIPPQR;50.000000;Chèque;"2022-11-21 12:53:30";1;10041;"E. DESRIVIERES";Livré;#108510;1;France;1;;MDN-Productions
+10040;GAAIZMXVV;40.000000;Espèces;"2022-11-21 12:41:50";1;10040;"E. ROUGIE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10039;DCQOQJFWJ;200.000000;Espèces;"2022-11-21 12:35:40";1;10039;"E. HULMANN";Livré;#108510;0;Switzerland;1;"Colissimo à domicile";MDN-Productions
+10038;BPYIVFSFQ;131.500000;"Card via Stripe";"2022-11-21 12:34:41";1;10038;"V. Buffet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10037;VMISRAYJT;5.950000;"Card via Stripe";"2022-11-21 11:55:54";1;10037;"V. Lasserre";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10036;MDXAKMDVC;5.950000;"Card via Stripe";"2022-11-21 11:51:24";1;10036;"P. Marnes-la-Coquette";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10035;XIUYHXVBI;34.950000;"Card via Stripe";"2022-11-21 11:46:14";1;10035;"A. Duché";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10034;LFSITZHFV;29.950000;"Card via Stripe";"2022-11-21 11:33:23";1;10034;"R. Lafontan";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+10033;HNYZHBGRI;5.950000;"Card via Stripe";"2022-11-21 11:16:00";1;10033;"c. MARTIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10032;BIPIWJLPC;11.000000;PayPal;"2022-11-21 10:17:26";1;10032;"P. Dacoury-Tabley ep Kouassi ";Expédié;#8A2BE2;1;"Ivory Coast";1;"Colissimo à domicile";MDN-Productions
+10031;NICYFKSOX;4.950000;"Card via Stripe";"2022-11-21 09:26:40";1;10031;"M. LOPEZ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10030;EJLDBCGXD;75.000000;"Card via Stripe";"2022-11-21 00:16:50";1;10030;"S. Champrobert ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10029;EVPVEQURR;18.450000;"Card via Stripe";"2022-11-20 23:14:36";1;10029;"R. MARIE-SAINTE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10028;LDILFOTZR;5.950000;Chèque;"2022-11-20 19:02:03";1;10028;"C. KOENIG";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10027;ZGAVLWAUU;30.950000;"Card via Stripe";"2022-11-20 18:39:50";1;10027;"L. Philippe";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10026;BKWIGNHQC;41.900000;"Card via Stripe";"2022-11-20 18:32:42";1;10026;"F. Salmon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10025;GNZHCCFON;40.950000;"Card via Stripe";"2022-11-20 17:41:48";1;10025;"M. Jeanne";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10024;GBNJRXLGV;19.950000;PayPal;"2022-11-20 17:17:17";1;10024;"C. CORNU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10023;KBUNOZABG;4.950000;PayPal;"2022-11-20 16:11:23";1;10023;"L. MABIRE";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+10022;DNGOINCST;4.950000;"Card via Stripe";"2022-11-20 15:44:11";1;10022;"P. DELHAYE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10021;HQZNWTTTZ;26.200000;PayPal;"2022-11-20 12:56:09";1;10021;"L. de Beauchesne";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10020;NCSBHOUHC;50.000000;"Card via Stripe";"2022-11-20 11:17:52";1;10020;"G. de la Ronde";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10019;FNAEMAOUK;22.450000;"Card via Stripe";"2022-11-20 08:02:58";1;10019;"M. GRONDIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10018;XOEQQZCJS;21.950000;"Card via Stripe";"2022-11-19 21:15:43";1;10018;"J. PAKEDOU ";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+10017;CKCFXGHGK;4.950000;"Card via Stripe";"2022-11-19 19:32:40";1;10017;"A. de Baudiniere";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10016;LKYIYEBVY;5.950000;"Card via Stripe";"2022-11-19 18:37:13";1;10016;"A. DELSENY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10015;RAIZIXAAF;13.450000;"Card via Stripe";"2022-11-19 17:39:35";1;10015;"A. INZERILLO";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10014;HCTQRMYYH;5.950000;"Card via Stripe";"2022-11-19 16:52:18";1;10014;"F. Carlier ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10013;EAUKGSJZI;4.950000;"Card via Stripe";"2022-11-19 16:37:20";1;10013;"G. jacqueline";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10012;GYIPEOPEP;17.950000;PayPal;"2022-11-19 16:26:19";1;10012;"L. MABIRE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10011;AFLOYMVMV;4.950000;"Card via Stripe";"2022-11-19 15:32:58";1;10011;"G. RISS";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+10010;NTPPJWOJS;22.000000;PayPal;"2022-11-19 15:25:37";1;10010;"D. Wongsokarto ";Remboursé;#ec2e15;0;"New Caledonia";1;"Colissimo à domicile";MDN-Productions
+10009;WWITMQBIX;29.950000;"Card via Stripe";"2022-11-19 15:22:39";1;10009;"G. LARRIEU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10008;EHNKBYWCQ;4.950000;Chèque;"2022-11-19 15:06:30";1;10008;"B. POIRIEUX";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10007;IQZJYQVJF;12.950000;PayPal;"2022-11-19 14:55:55";1;10007;"D. Legrand";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10006;VMWMKNCYA;10.950000;"Card via Stripe";"2022-11-19 14:51:08";1;10006;"G. SACHY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10005;EWNAPRWBG;50.000000;"Card via Stripe";"2022-11-19 12:59:37";1;10005;"m. LAGRANGE";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+10004;OVBWXBHLZ;4.950000;Chèque;"2022-11-19 12:17:48";1;10004;"V. LAURENT";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+10003;HRIWKCARZ;30.950000;"Card via Stripe";"2022-11-19 12:04:52";1;10003;"A. du Chene";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10002;BJOKFFQUC;30.950000;"Card via Stripe";"2022-11-19 11:26:53";1;10002;"C. Duguet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10001;WJNRWTLDR;68.000000;"Card via Stripe";"2022-11-19 11:24:07";1;10001;"A. LEVESQUE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+10000;FCXQNWBRX;5.950000;"Card via Stripe";"2022-11-19 10:21:14";1;10000;"A. FRAVAL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9999;CHFTFMWAY;38.400000;"Card via Stripe";"2022-11-19 10:16:24";1;9999;"M. Candido";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+9998;RDHDLLQGU;5.950000;"Card via Stripe";"2022-11-19 10:06:38";1;9998;"E. Bigot";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+9997;VXBZDMOQL;5.950000;"Card via Stripe";"2022-11-19 07:20:19";1;9997;"R. SERMET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9996;URKQGVKCX;30.950000;"Card via Stripe";"2022-11-18 22:02:59";1;9996;"P. Gabarrou";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9995;JSDASTHAR;15.950000;"Card via Stripe";"2022-11-18 19:59:58";1;9995;"A. DE L'EPREVIER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9994;SVQHYHZMC;25.500000;PayPal;"2022-11-18 19:59:42";1;9994;"C. Barbieri";Livré;#108510;1;Netherlands;1;"Colissimo à domicile";MDN-Productions
+9993;YGQPAPXZE;5.950000;"Card via Stripe";"2022-11-18 19:11:00";1;9993;"N. BARTHEZ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9992;QMIAWQTFG;5.950000;PayPal;"2022-11-18 18:57:25";1;9992;"M. COUPAS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9991;BFHFQVYWI;4.950000;"Card via Stripe";"2022-11-18 18:34:42";1;9991;"C. de Bodman";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9990;FXIJZLDAN;21.450000;"Card via Stripe";"2022-11-18 18:10:03";1;9990;"V. Lerosey";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9989;VKJVERQGI;15.950000;"Card via Stripe";"2022-11-18 17:32:00";1;9989;"M. MONGIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9988;DVNJOIXRS;4.950000;"Card via Stripe";"2022-11-18 17:17:30";1;9988;"D. Blondé";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9987;WMPCOCNCH;14.950000;Virement;"2022-11-18 16:48:34";1;9987;"A. Brunelle";Expédié;#8A2BE2;1;Belgium;1;"Mondial Relay";MDN-Productions
+9986;NOMAPGPXV;30.950000;"Card via Stripe";"2022-11-18 16:32:08";1;9986;"C. Jame";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9985;EBWAZKAEH;5.950000;Virement;"2022-11-18 14:00:52";1;9985;"C. Régis";Annulé;#DC143C;1;France;0;"Colissimo à domicile";MDN-Productions
+9984;EBFRZOFDK;5.950000;"Card via Stripe";"2022-11-18 12:13:17";1;9984;"M. SUINAT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9983;IZSRMWLVV;29.950000;PayPal;"2022-11-18 12:08:39";1;9983;"E. BENITO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9982;LWMEYEMAT;29.950000;"Card via Stripe";"2022-11-18 11:46:57";1;9982;"A. VACHER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9981;DIYIIXNFY;45.950000;"Card via Stripe";"2022-11-18 11:32:47";1;9981;"C. PLAISANCE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9980;JVSPKZQGN;4.950000;"Card via Stripe";"2022-11-18 11:00:24";1;9980;"J. GRAVIL";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9979;JAAZCOJTE;19.950000;"Card via Stripe";"2022-11-18 10:42:40";1;9979;"C. LEBRET";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9978;FGHMIXYKL;30.950000;"Card via Stripe";"2022-11-18 10:14:37";1;9978;"J. Pensec";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9977;AVKPDKCWU;65.300000;"Card via Stripe";"2022-11-18 09:54:03";1;9977;"S. Lagrange";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9976;IVLLGCPJJ;4.950000;"Card via Stripe";"2022-11-18 09:36:08";1;9976;"L. Chiriot ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9975;BOJIMWIAP;30.950000;"Card via Stripe";"2022-11-18 09:10:36";1;9975;"C. WENDER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9974;RBGBMJJTF;4.950000;"Card via Stripe";"2022-11-18 08:43:31";1;9974;"P. DELEVALLEE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9973;PURBOIQLL;0.000000;Chèque;"2022-11-18 08:17:21";1;9973;"G. LECLERC";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9972;KBQWJXGGS;0.000000;Chèque;"2022-11-18 08:14:04";1;9972;"V. BOTTIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9971;BUKGVKRCT;0.000000;Chèque;"2022-11-18 08:10:37";1;9971;"O. FOULON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9970;LLCILZSGT;0.000000;Chèque;"2022-11-18 08:06:05";1;9970;"J. KAAS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9969;ZCRJCHOIC;0.000000;Chèque;"2022-11-18 07:57:44";1;9969;"C. PACOTTE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9968;QFEFILCKX;0.000000;Chèque;"2022-11-18 07:53:37";1;9968;"M. CORBIN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9967;QLBZYSAIY;4.950000;"Card via Stripe";"2022-11-18 07:52:44";1;9967;"E. Vallade";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9966;RUQKJRFOT;5.950000;"Card via Stripe";"2022-11-18 07:51:08";1;9966;"L. Battistini ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9965;GUSCJKEYJ;5.950000;PayPal;"2022-11-18 05:51:03";1;9965;"A. Renouf";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9964;DNUGHYPSX;5.950000;"Card via Stripe";"2022-11-18 01:11:03";1;9964;"P. SALA";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9963;HSHIPIWNU;5.950000;"Card via Stripe";"2022-11-18 00:12:01";1;9963;"E. KOHLER DEBRAY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9962;USEZYSIYZ;5.950000;"Card via Stripe";"2022-11-17 21:29:32";1;9962;"H. RIMLINGER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9961;BPFYZSBZR;8.450000;PayPal;"2022-11-17 20:43:05";1;9961;"E. PORTENSEIGNE";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9960;NRJQMJZEM;52.500000;"Card via Stripe";"2022-11-17 20:06:20";1;9960;"J. HENRIQUES";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9959;JKOSBORJR;5.950000;"Card via Stripe";"2022-11-17 19:05:37";1;9959;"C. de Clercq";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9958;PJYHAKLJY;50.000000;"Card via Stripe";"2022-11-17 18:53:57";1;9958;"A. Vigier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9957;FIDVGGEOB;159.600000;"Card via Stripe";"2022-11-17 17:27:06";1;9957;"S. DEOUX";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9956;NHZJJVRCQ;29.950000;"Card via Stripe";"2022-11-17 17:15:24";1;9956;"f. burgalat";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9955;BHRCHIXDY;5.950000;"Card via Stripe";"2022-11-17 16:58:15";1;9955;"J. Duarte";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9954;PAHSKZTJC;5.950000;"Card via Stripe";"2022-11-17 16:49:45";1;9954;"I. Clement ";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9953;FKMXSUIWW;13.450000;Chèque;"2022-11-17 16:45:15";1;9953;"F. RUYER";"En attente du paiement par chèque";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+9952;ISMVXSCMO;4.950000;PayPal;"2022-11-17 16:35:20";1;9952;"M. Moreno";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9951;VYAZLOYUV;4.950000;"Card via Stripe";"2022-11-17 16:23:35";1;9951;"A. Cadour";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+9950;UTOIDMDBK;5.950000;"Card via Stripe";"2022-11-17 15:59:35";1;9950;"S. Chervy";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9949;AWNILCJBE;5.950000;Chèque;"2022-11-17 15:29:03";1;9949;"S. BRIERE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9948;NLZAJTLBE;4.950000;"Card via Stripe";"2022-11-17 14:59:28";1;9948;"G. Dejean de la Bâtie";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9947;OFROZCRME;5.950000;"Card via Stripe";"2022-11-17 14:42:27";1;9947;"C. Bacelos";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9946;HOZYVBIKS;38.900000;"Card via Stripe";"2022-11-17 14:29:07";1;9946;"S. Van der Veken ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9945;JUEZYQZMB;30.950000;Chèque;"2022-11-17 13:34:27";1;9945;"M. CRAMATTE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9944;COUADVUOQ;71.000000;PayPal;"2022-11-17 12:30:40";1;9944;"B. Grauer";Livré;#108510;1;Germany;1;"Colissimo à domicile";MDN-Productions
+9943;GWKENHJQD;20.950000;"Card via Stripe";"2022-11-17 12:10:37";1;9943;"G. Blum";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9942;IMLWTXEEI;4.950000;Espèces;"2022-11-17 11:47:40";1;9942;"J. Lahaille";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9941;JADWXJAZV;50.000000;PayPal;"2022-11-17 11:44:24";1;9941;"P. Decock";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9940;RHFZJHPYF;5.950000;"Card via Stripe";"2022-11-17 11:26:42";1;9940;"A. Soeurs de l'Enfant Jésus";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9939;NJXBWTMIB;10.950000;Chèque;"2022-11-17 11:17:35";1;9939;"A. HILL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9938;SBXEPDIVA;20.800000;Chèque;"2022-11-17 11:14:20";1;9938;"N. DELANERY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9937;RQAFNKAKZ;30.000000;Chèque;"2022-11-17 11:06:12";1;9937;"H. MARIOTTE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9936;YNIHMAIGM;32.150000;Chèque;"2022-11-17 10:57:54";1;9936;"M. WOLF";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9935;ZTRFJWGNS;116.150000;Chèque;"2022-11-17 10:52:50";1;9935;"E. COURCHINOUX";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9934;OLXBCHLRO;11.000000;"Card via Stripe";"2022-11-17 10:43:14";1;9934;"M. GALPIN";Livré;#108510;1;Guadeloupe;1;"Colissimo à domicile";MDN-Productions
+9933;BSSFDDJSA;28.800000;Chèque;"2022-11-17 10:28:50";1;9933;"M. DOLLE PERRIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9932;JXJRRLYHG;13.200000;Chèque;"2022-11-17 10:23:54";1;9932;"D. BRETON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9931;OHPUVARZO;5.950000;"Card via Stripe";"2022-11-17 10:20:06";1;9931;"P. De TRUCHIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9930;CCQSAARFH;18.050000;Chèque;"2022-11-17 10:19:12";1;9930;"J. MOUTOULATCHIMY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9929;OONWHGSHZ;5.950000;"Card via Stripe";"2022-11-17 09:59:47";1;9929;"N. BOUCZO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9928;HPLAHGFZK;101.550000;PayPal;"2022-11-17 07:11:16";1;9928;"M. GEULIN";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9927;XRKZBQSDD;49.950000;"Card via Stripe";"2022-11-17 06:04:54";1;9927;"L. LESUEUR";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9926;YQLYJFJSB;67.600000;"Card via Stripe";"2022-11-16 23:24:00";1;9926;"M. PARISON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9925;FFBSCJKJI;13.450000;"Card via Stripe";"2022-11-16 21:33:18";1;9925;"C. Mateus";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9924;YPOTURPFA;5.950000;"Card via Stripe";"2022-11-16 19:09:17";1;9924;"M. JOURDAIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9923;SFWBRKNCT;5.950000;PayPal;"2022-11-16 18:34:58";1;9923;"J. MANGAVEL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9922;CIELCRWUC;54.950000;"Card via Stripe";"2022-11-16 18:13:18";1;9922;"A. Tercelin ";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+9921;WPFPVCOUO;4.950000;"Card via Stripe";"2022-11-16 17:01:41";1;9921;"i. pandza";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9920;YAWRIKEMB;11.000000;"Card via Stripe";"2022-11-16 16:48:38";1;9920;"N. Sivatte";Livré;#108510;1;Martinique;1;"Colissimo à domicile";MDN-Productions
+9919;HHQCALFKF;15.950000;"Card via Stripe";"2022-11-16 16:15:05";1;9919;"P. Notre-Dame de Recouvrance";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9918;KVYLUMOZJ;51.450000;"Card via Stripe";"2022-11-16 16:11:50";1;9918;"C. HAULOT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9917;JVFWUCALB;25.450000;"Card via Stripe";"2022-11-16 15:21:44";1;9917;"C. Chatelet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9916;WOBZFVZXD;4.950000;"Card via Stripe";"2022-11-16 13:40:43";1;9916;"D. HENRYS D AUBIGNY";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9915;OWRWPEKTG;50.000000;Chèque;"2022-11-16 12:51:59";1;9915;"M. VANHEMS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9914;WOUSOQHTC;100.000000;"Card via Stripe";"2022-11-16 12:29:19";1;9914;"R. FOURCADE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9913;JFGUARPPX;5.950000;"Card via Stripe";"2022-11-16 12:21:49";1;9913;"N. Innocente ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9912;VUMQPAPZU;30.950000;"Card via Stripe";"2022-11-16 11:04:49";1;9912;"C. Deboisse";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9911;ASTCLVCGT;50.000000;Chèque;"2022-11-16 10:49:23";1;9911;"M. VULLIET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9910;WMMVQZEMO;80.000000;Chèque;"2022-11-16 10:45:45";1;9910;"F. FRIEH";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9909;GUKZDDPGR;5.950000;Chèque;"2022-11-16 10:15:04";1;9909;"A. ROESCH";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9908;OJJSLYBMT;52.500000;"Card via Stripe";"2022-11-16 09:00:25";1;9908;"J. Bouchereau";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9907;VKFZKJPOG;4.950000;"Card via Stripe";"2022-11-16 07:34:37";1;9907;"L. Beausire";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9906;UVCXIYMUJ;14.950000;Virement;"2022-11-15 21:23:30";1;9906;"C. Benaccolto";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+9905;CWMYTMFYV;26.700000;Virement;"2022-11-15 20:25:34";1;9905;"J. Lacroix";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+9904;GXREIVXPQ;41.000000;PayPal;"2022-11-15 20:19:05";1;9904;"G. Eury";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9903;OFVCHSANU;4.950000;Espèces;"2022-11-15 20:05:00";1;9903;"A. Kundid";"Payer en espèces";#9c7240;1;France;0;"Mondial Relay";MDN-Productions
+9902;CHBKDHVRI;29.950000;PayPal;"2022-11-15 19:32:55";1;9902;"V. DUTOIT";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9901;BOFWMOLTB;30.950000;"Card via Stripe";"2022-11-15 19:26:31";1;9901;"E. GIRAULT";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9900;ERCLRQCPR;4.950000;"Card via Stripe";"2022-11-15 19:21:06";1;9900;"Z. STARK";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9899;KLQLRAZFL;5.950000;"Card via Stripe";"2022-11-15 19:09:35";1;9899;"C. CUISINIER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9898;XDDBJRSWR;51.000000;"Card via Stripe";"2022-11-15 19:05:27";1;9898;"M. Simler";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9897;BDIBYJMQK;11.000000;"Card via Stripe";"2022-11-15 19:04:50";1;9897;"A. MAKAYA DANGUI ";Remboursé;#ec2e15;1;"Congo, Republic";1;"Colissimo à domicile";MDN-Productions
+9896;QKCTIRJSU;5.950000;"Card via Stripe";"2022-11-15 18:01:28";1;9896;"B. RENAUD";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9895;IETBJUBWA;46.450000;"Card via Stripe";"2022-11-15 16:22:06";1;9895;"S. Marquet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9894;CZZDWVVUD;52.800000;PayPal;"2022-11-15 16:18:28";1;9894;"I. MAUREL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9893;GFBFXYHRZ;5.950000;"Card via Stripe";"2022-11-15 15:23:15";1;9893;"M. BRIAND";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9892;DPCDEOBBL;5.950000;"Card via Stripe";"2022-11-15 15:14:06";1;9892;"D. de MEDLEGE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9891;HVSFUGPPU;52.500000;PayPal;"2022-11-15 14:05:56";1;9891;"M. Seitz";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9890;MIJWBVYYL;15.950000;"Card via Stripe";"2022-11-15 13:01:52";1;9890;"M. Rameaux";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9889;SLMSZSWCY;51.400000;"Card via Stripe";"2022-11-15 12:53:38";1;9889;"S. Sandou";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9888;GNRUJDBKK;29.950000;"Card via Stripe";"2022-11-15 12:53:22";1;9888;"M. Hatier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9887;CTMRVYCLB;53.900000;"Card via Stripe";"2022-11-15 11:56:08";1;9887;"N. Kamoo";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9886;SKSCNSNEE;4.950000;"Card via Stripe";"2022-11-15 11:46:44";1;9886;"G. DEMOLLIERE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9885;INLGTDHNC;29.950000;Virement;"2022-11-15 11:42:53";1;9885;"A. de Dianous";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9884;DXBBBVVJD;380.000000;"Card via Stripe";"2022-11-15 11:27:42";1;9884;"J. NARCISO ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9883;LJSJIFHXV;111.000000;PayPal;"2022-11-15 11:09:34";1;9883;"W. NEELIE";Livré;#108510;1;"French Polynesia";1;"Colissimo à domicile";MDN-Productions
+9882;VFNNTUMJN;4.950000;"Card via Stripe";"2022-11-15 10:27:10";1;9882;"B. Abekoi";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9881;MZFUEOHLS;62.750000;Chèque;"2022-11-15 10:25:20";1;9881;"A. BARREAU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9880;ASUXBESDK;4.950000;"Card via Stripe";"2022-11-15 10:11:24";1;9880;"M. MORILLE";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+9879;OBVYLOCWV;15.950000;"Card via Stripe";"2022-11-15 09:12:20";1;9879;"H. TRABUCCO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9878;HRHEOCZOT;24.900000;"Card via Stripe";"2022-11-15 08:33:09";1;9878;"A. Waeles";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9877;OFKCPDLHJ;5.950000;Chèque;"2022-11-14 23:30:45";1;9877;"V. Polidori";"En attente du paiement par chèque";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+9876;SRQPBGRBW;22.550000;"Card via Stripe";"2022-11-14 21:15:19";1;9876;"A. Havez";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9875;VEMZOHCVU;5.950000;"Card via Stripe";"2022-11-14 21:01:40";1;9875;"v. Bourillon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9874;DBTGILBFN;18.450000;PayPal;"2022-11-14 19:26:14";1;9874;"M. Ferron";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9873;XJUBRZBRD;5.950000;Chèque;"2022-11-14 18:32:03";1;9873;"J. Cambon";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9872;WOQLUSOZO;105.710000;"Card via Stripe";"2022-11-14 18:12:24";1;9872;"R. PAYET-GEISLER";Livré;#108510;1;"Reunion Island";1;"Colissimo à domicile";MDN-Productions
+9871;DVEAAISNG;27.950000;"Card via Stripe";"2022-11-14 17:59:40";1;9871;"J. De Faria";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9870;AMTZROFAT;5.950000;"Card via Stripe";"2022-11-14 17:58:36";1;9870;"K. JUBERT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9869;OYPGRSKCJ;61.000000;PayPal;"2022-11-14 17:48:03";1;9869;"A. DURANTET";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9868;OODZASXNJ;36.000000;"Card via Stripe";"2022-11-14 17:32:16";1;9868;"R. Dedeyne";Expédié;#8A2BE2;1;Martinique;1;"Colissimo à domicile";MDN-Productions
+9867;NQCJTEKNF;10.950000;"Card via Stripe";"2022-11-14 15:35:41";1;9867;"I. ROBIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9866;UOUGBDNYC;4.950000;PayPal;"2022-11-14 12:57:05";1;9866;"M. CAILLEUX";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9865;LLQDKMCJV;5.950000;"Card via Stripe";"2022-11-14 10:55:57";1;9865;"O. Bonnassies";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9864;NLVWQLQIZ;29.950000;Chèque;"2022-11-14 10:55:46";1;9864;"M. VUILLEMIN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9863;YGCRHCWGB;68.400000;Chèque;"2022-11-14 10:54:19";1;9863;"C. DESBENE";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9862;PDQMOOMDD;100.000000;Chèque;"2022-11-14 10:45:56";1;9862;"J. JURT";Livré;#108510;1;Monaco;1;;MDN-Productions
+9861;FKEKCOXAF;11.900000;PayPal;"2022-11-13 20:39:26";1;9861;"P. Dieudonné";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9860;UHBKYMKMW;5.950000;"Card via Stripe";"2022-11-13 19:36:05";1;9860;"M. Pourras";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9859;CYLCEVYCP;4.950000;"Card via Stripe";"2022-11-13 19:20:04";1;9859;"P. Noel";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9858;TUEEYPOUO;5.950000;Chèque;"2022-11-13 16:49:21";1;9858;"L. Bourget";"En attente du paiement par chèque";#4169E1;0;France;0;"Colissimo à domicile";MDN-Productions
+9857;ZVZNMWQQF;52.000000;PayPal;"2022-11-13 16:25:52";1;9857;"C. LUCIANI ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9856;FQYFGNGOD;80.000000;"Card via Stripe";"2022-11-13 15:09:46";1;9856;"P. Epiphanie";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9855;FMDCWEFYE;14.400000;"Card via Stripe";"2022-11-13 13:14:26";1;9855;"M. GRANGEAT";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9854;XREBBYKAP;5.950000;PayPal;"2022-11-13 13:03:22";1;9854;"Y. Bau";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9853;ATXUFQBEV;5.950000;"Card via Stripe";"2022-11-13 09:53:01";1;9853;"I. DUCATEZ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9852;VDINQHNBU;33.450000;PayPal;"2022-11-13 00:42:12";1;9852;"C. Ferro-Steyaert";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9851;ZVWTOGXFV;9.950000;"Card via Stripe";"2022-11-12 22:02:07";1;9851;"M. Pinard";Remboursé;#ec2e15;1;France;1;"Mondial Relay";MDN-Productions
+9850;RRBMLOZLL;55.600000;PayPal;"2022-11-12 17:20:09";1;9850;"M. LATRIGE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9849;LTUMMVURA;19.950000;"Card via Stripe";"2022-11-12 17:13:59";1;9849;"j. woody";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9848;UHHGTJYCV;19.950000;Virement;"2022-11-12 17:10:04";1;9848;"j. woody";"En attente de virement bancaire";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+9847;KRQUUWAZQ;113.200000;"Card via Stripe";"2022-11-12 15:39:07";1;9847;"S. RAJEZAKOWSKI";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9846;QHBNSQCVN;5.950000;"Card via Stripe";"2022-11-12 15:01:46";1;9846;"C. WENDEL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9845;DTKSVCGYD;50.000000;Chèque;"2022-11-12 14:31:46";1;9845;"E. HOANG LITHAVONE";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+9844;IYSCBDVCG;5.950000;"Card via Stripe";"2022-11-12 14:17:19";1;9844;"M. BOUDIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9843;UEHOOTBEF;50.000000;PayPal;"2022-11-12 11:59:51";1;9843;"M. CORBIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9842;HRXDIUFTR;4.950000;"Card via Stripe";"2022-11-12 11:26:21";1;9842;"c. augy";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9841;LHZJSGGCQ;25.950000;"Card via Stripe";"2022-11-12 11:13:13";1;9841;"D. Vicari ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9840;ZAPOEAAUH;16.450000;"Card via Stripe";"2022-11-12 08:59:06";1;9840;"C. Hounkonnou";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9839;TLUTGIEXR;5.950000;"Card via Stripe";"2022-11-12 08:51:25";1;9839;"S. Chansard";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9838;CDROMHUEI;5.950000;"Card via Stripe";"2022-11-11 20:42:15";1;9838;"c. parcé";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9837;WYVMVTGXV;5.950000;"Card via Stripe";"2022-11-11 19:10:18";1;9837;"J. ADOR";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9836;FJBJBATOB;19.950000;"Card via Stripe";"2022-11-11 15:20:38";1;9836;"B. Berdiel";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9835;SKWZBHOAC;8.450000;"Card via Stripe";"2022-11-11 14:45:38";1;9835;"L. JOST";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9834;TKITFQEGY;4.950000;"Card via Stripe";"2022-11-11 13:50:25";1;9834;"V. ISAAC";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9833;LFYNOMDZT;33.900000;"Card via Stripe";"2022-11-11 12:30:09";1;9833;"M. Penet ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9832;QDLXDCQQM;23.550000;"Card via Stripe";"2022-11-11 12:19:26";1;9832;"V. BIZOLLON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9831;UWNRBDVIM;4.950000;PayPal;"2022-11-11 12:18:23";1;9831;"s. Teuma";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9830;FWIQUYZKK;5.950000;"Card via Stripe";"2022-11-11 12:04:14";1;9830;"L. Liliane";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9829;PGCBUCECH;10.950000;"Card via Stripe";"2022-11-11 10:54:11";1;9829;"J. GAGNARD";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9828;GPJDWQRFK;30.950000;"Card via Stripe";"2022-11-11 10:46:43";1;9828;"S. SORO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9827;ZJZSNQRAG;5.950000;"Card via Stripe";"2022-11-11 09:49:44";1;9827;"L. GEORGES";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9826;FFQDXEXVT;40.400000;"Card via Stripe";"2022-11-11 09:44:50";1;9826;"S. Simon";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+9825;BWJUGDJEQ;5.950000;"Card via Stripe";"2022-11-11 07:36:29";1;9825;"J. GENCE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9824;UBSDYJKAE;11.000000;"Card via Stripe";"2022-11-11 07:21:36";1;9824;"M. Dijoux";Livré;#108510;1;"Reunion Island";1;"Colissimo à domicile";MDN-Productions
+9823;FDDSZIHZU;5.950000;"Card via Stripe";"2022-11-10 22:12:37";1;9823;"G. QUASHIE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9822;RKLCRJAGB;41.900000;"Card via Stripe";"2022-11-10 20:59:37";1;9822;"M. Malherbe";Expédié;#8A2BE2;1;Austria;1;"Colissimo à domicile";MDN-Productions
+9821;ICIAZLYOO;11.000000;"Card via Stripe";"2022-11-10 19:04:43";1;9821;"F. Baron";Livré;#108510;1;Canada;1;"Colissimo à domicile";MDN-Productions
+9820;WQJLTBKAS;30.950000;"Card via Stripe";"2022-11-10 18:06:50";1;9820;"A. MARY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9819;CLYVJLNNU;8.450000;"Card via Stripe";"2022-11-10 17:04:03";1;9819;"C. Lopes";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9818;KSFVZFEJC;11.000000;"Card via Stripe";"2022-11-10 16:36:33";1;9818;"S. NUMA";Livré;#108510;1;Guadeloupe;1;"Colissimo à domicile";MDN-Productions
+9817;WOFNCFGPN;6.000000;Chèque;"2022-11-10 15:08:56";1;9817;"M. MICHEL";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9816;RUVRXORMX;10.950000;"Card via Stripe";"2022-11-10 13:44:18";1;9816;"C. VAINQUEUR";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9815;WIYUOEYBE;12.750000;"Card via Stripe";"2022-11-10 11:46:33";1;9815;"P. BRIGONNET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9814;CWDFGOQFX;25.950000;"Card via Stripe";"2022-11-10 11:33:56";1;9814;"É. Kuhr";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9813;KGXSTAAOP;8.450000;"Card via Stripe";"2022-11-10 11:28:13";1;9813;"H. SICRE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9812;CYFCNZWRO;5.950000;Chèque;"2022-11-10 11:18:34";1;9812;"P. MOUREAUD";"En attente du paiement par chèque";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+9811;TSYYILFST;292.500000;"Card via Stripe";"2022-11-10 10:54:58";1;9811;"Y. Maumejean ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9810;CNNNFSORQ;5.950000;"Card via Stripe";"2022-11-10 10:09:29";1;9810;"C. DARVIOT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9809;VIUJVGXSK;5.950000;"Card via Stripe";"2022-11-10 10:08:14";1;9809;"M. DECROIX";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9808;PBOVHPMSM;4.950000;"Card via Stripe";"2022-11-10 09:41:55";1;9808;"P. PAROISSE SAINT MICHEL";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9807;DQQHCZRZZ;6855.120000;Virement;"2022-11-10 09:36:11";1;9807;"E. YVES BRIEND EDITEUR SA";Livré;#108510;0;France;1;Salvatore;MDN-Productions
+9806;XGVIAQRXT;5.950000;"Card via Stripe";"2022-11-10 09:18:26";1;9806;"A. Le Groumellec";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9805;QLTLVXWWQ;33.450000;"Card via Stripe";"2022-11-10 08:36:07";1;9805;"O. FOURNIER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9804;JBCKEPYON;24.950000;"Card via Stripe";"2022-11-10 08:35:53";1;9804;"M. PINARD MICHLIK";Remboursé;#ec2e15;1;France;1;"Mondial Relay";MDN-Productions
+9803;JAIACOXIZ;8.450000;"Card via Stripe";"2022-11-10 08:28:12";1;9803;"J. SCHELLENBAUM";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9802;HFRXMQFZF;11.000000;PayPal;"2022-11-10 06:47:08";1;9802;"G. COLLET";Expédié;#8A2BE2;1;"Reunion Island";1;"Colissimo à domicile";MDN-Productions
+9801;IJYROKCVA;34.900000;"Card via Stripe";"2022-11-10 00:27:06";1;9801;"G. DEMIGUEL";Expédié;#8A2BE2;1;France;1;"Mondial Relay";MDN-Productions
+9800;QGGKRWOOD;29.950000;"Card via Stripe";"2022-11-09 20:11:41";1;9800;"M. LEFEVRE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9799;EDTBUSBUN;77.500000;"Card via Stripe";"2022-11-09 20:07:46";1;9799;"A. de Peufeilhoux";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9798;KXHJUPCSZ;5.950000;"Card via Stripe";"2022-11-09 18:06:27";1;9798;"V. de Clermont-Tonnerre";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9797;DRCPIEKOL;0.000000;Chèque;"2022-11-09 17:03:27";1;9797;"F. JASMIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9796;ZJKGKIUJI;0.000000;Chèque;"2022-11-09 16:56:15";1;9796;"P. PAQUOT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9795;SHNQQOFFG;0.000000;Chèque;"2022-11-09 16:28:07";1;9795;"R. BOMPERIN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9794;OYOIMRWOM;0.000000;Chèque;"2022-11-09 16:27:13";1;9794;"R. BOMPERIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9793;ISYUYQAAA;0.000000;Chèque;"2022-11-09 16:23:16";1;9793;"C. CASTEX";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9792;UTHMCRZWP;0.000000;Chèque;"2022-11-09 16:21:53";1;9792;"C. CASTEX";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9791;XUSGQOAPK;50.800000;"Card via Stripe";"2022-11-09 16:16:08";1;9791;"G. YOUT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9790;PNCALTJEY;0.000000;Chèque;"2022-11-09 16:14:35";1;9790;"P. SAINT JEAN XXIII - NOTRE DAME DE ROUEN CENTRE";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9789;YNFBWKPGU;0.000000;Chèque;"2022-11-09 16:13:37";1;9789;"P. SAINT JEAN XXIII - NOTRE DAME DE ROUEN CENTRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9788;XWNIBDSQS;0.000000;Chèque;"2022-11-09 16:08:05";1;9788;"C. LANGLOIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9787;ZZDFHFIAR;0.000000;Virement;"2022-11-09 15:56:23";1;9787;"J. AFC";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9786;CMBFZFMQG;4.950000;"Card via Stripe";"2022-11-09 15:03:57";1;9786;"G. DELECLUSE ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9785;OMRDMJKJK;5.950000;"Card via Stripe";"2022-11-09 13:49:58";1;9785;"T. CHANCEREL";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9784;IOUWVUBTW;30.000000;Chèque;"2022-11-09 11:31:04";1;9784;"M. FAROUX";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9783;RKKCYXICR;5.950000;"Card via Stripe";"2022-11-09 11:03:10";1;9783;"P. KAROTSCH";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9782;NUPBTABDA;4.950000;"Card via Stripe";"2022-11-09 10:58:06";1;9782;"c. vasse";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9781;DPJQGNFEV;4.950000;"Card via Stripe";"2022-11-09 10:36:09";1;9781;"A. Perret";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9780;LXCYPERVJ;5.950000;PayPal;"2022-11-09 10:36:03";1;9780;"F. HOSTIER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9779;HMHRLCREX;5.950000;"Card via Stripe";"2022-11-09 10:29:06";1;9779;"C. MATHIAS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9778;UWBNGAMSW;136.000000;Chèque;"2022-11-09 10:23:28";1;9778;"Y. MAUMEJEAN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9777;TINTYSZWG;40.000000;Chèque;"2022-11-09 10:19:42";1;9777;"Y. MAUMEJEAN";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9776;FKOTELZDL;4.950000;"Card via Stripe";"2022-11-09 10:06:06";1;9776;"H. Appert";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9775;ZFCPCCVTW;15.950000;"Card via Stripe";"2022-11-09 10:02:38";1;9775;"D. Chollet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9774;KRJTTMNYG;4.950000;Chèque;"2022-11-09 09:04:42";1;9774;"c. lafolie";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9773;MWAEEKDKV;10.950000;"Card via Stripe";"2022-11-09 09:02:02";1;9773;"A. Assemien";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9772;NOJETLUGX;30.950000;"Card via Stripe";"2022-11-09 08:44:20";1;9772;"M. LOURENCO DE SOUSA";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9771;ZJINIOEEI;5.950000;"Card via Stripe";"2022-11-09 08:30:57";1;9771;"J. hatton";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9770;LMQXFUOJU;5.950000;"Card via Stripe";"2022-11-09 08:20:54";1;9770;"J. Piloquet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9769;OSVDNHCVY;5.950000;"Card via Stripe";"2022-11-09 08:11:19";1;9769;"C. de THEZY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9768;ELPPXZUOY;30.950000;PayPal;"2022-11-09 08:09:46";1;9768;"V. COURTINES";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9767;FJWCKZUZO;5.950000;PayPal;"2022-11-09 07:59:46";1;9767;"N. Pauchard";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9766;RMEKABPJV;5.950000;"Card via Stripe";"2022-11-09 07:16:11";1;9766;"A. Nevejans";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9765;WQJYKTBYB;50.000000;Chèque;"2022-11-09 07:01:53";1;9765;"r. bellembois ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9764;EIAZWMJZR;24.250000;"Card via Stripe";"2022-11-09 06:19:47";1;9764;"C. Rolland";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9763;VQHJERHMQ;61.000000;PayPal;"2022-11-09 06:18:16";1;9763;"L. de SAINT-QUENTIN";Livré;#108510;0;"New Caledonia";1;"Colissimo à domicile";MDN-Productions
+9762;DFIOLMUCB;36.000000;"Card via Stripe";"2022-11-09 03:50:10";1;9762;"M. Yaramis";Livré;#108510;1;Belgium;1;"Colissimo à domicile";MDN-Productions
+9761;XZEEUXYOR;4.950000;Espèces;"2022-11-08 23:35:54";1;9761;"L. BASILE";"Payer en espèces";#9c7240;1;France;0;"Mondial Relay";MDN-Productions
+9760;IOQCICXZS;30.950000;"Card via Stripe";"2022-11-08 21:11:24";1;9760;"c. Lezy";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9759;TFIUQRFWM;29.950000;PayPal;"2022-11-08 21:04:25";1;9759;"G. Francine";Livré;#108510;1;Belgium;1;"Colissimo à domicile";MDN-Productions
+9758;QFLWXBIPH;48.540000;"Card via Stripe";"2022-11-08 19:50:55";1;9758;"N. Bravard";Livré;#108510;1;Switzerland;1;"Colissimo à domicile";MDN-Productions
+9757;BCUFQUWEH;4.950000;"Card via Stripe";"2022-11-08 19:04:54";1;9757;"C. BAUCHET";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9756;MKPTCGBGN;4.950000;"Card via Stripe";"2022-11-08 18:58:08";1;9756;"M. JOURDAN";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9755;RGENIZIFN;10.950000;"Card via Stripe";"2022-11-08 18:39:27";1;9755;"J. Pontier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9754;ZKRZQGCNI;5.950000;"Card via Stripe";"2022-11-08 18:25:10";1;9754;"S. Cathédrale";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9753;QINKMMASD;30.950000;"Card via Stripe";"2022-11-08 15:34:58";1;9753;"c. Foueillassar";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9752;QUMGRIMHA;25.450000;"Card via Stripe";"2022-11-08 15:33:27";1;9752;"M. CHARPENTIER";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9751;DYZCDIIYI;5.950000;"Card via Stripe";"2022-11-08 15:19:38";1;9751;"C. Brayer";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9750;LLOQXLSDF;5.950000;"Card via Stripe";"2022-11-08 14:55:59";1;9750;"O. COANON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9749;NLPZQPUPS;30.950000;"Card via Stripe";"2022-11-08 13:10:09";1;9749;"j. tollet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9748;GRDGYMDON;50.000000;"Card via Stripe";"2022-11-08 12:27:45";1;9748;"C. LOUF";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9747;CYSISTVVA;15.950000;"Card via Stripe";"2022-11-08 12:05:02";1;9747;"v. taty";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9746;QKAHDNSKZ;15.450000;"Card via Stripe";"2022-11-08 11:58:45";1;9746;"p. lemonnier";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9745;ZENBGCVBO;50.000000;"Card via Stripe";"2022-11-08 11:47:25";1;9745;"E. FORTES";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9744;NPRMRSKBW;50.000000;"Card via Stripe";"2022-11-08 11:40:46";1;9744;"M. BROUJEAN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9743;PEACZPEAI;23.500000;"Card via Stripe";"2022-11-08 10:57:10";1;9743;"M. Molinie ";Livré;#108510;1;Guadeloupe;1;"Colissimo à domicile";MDN-Productions
+9742;FRGHCMSDW;80.050000;"Card via Stripe";"2022-11-08 10:47:41";1;9742;"O. Siegler";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9741;OAQWEWQGQ;4.950000;"Card via Stripe";"2022-11-08 10:22:35";1;9741;"I. GAGLIONE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9740;JFCFFWWCD;4.950000;"Card via Stripe";"2022-11-08 10:11:06";1;9740;"I. de Reboul";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9739;LGGMZZKJO;4.950000;"Card via Stripe";"2022-11-08 10:01:22";1;9739;"A. MENGARELLI";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9738;UKZLVCLDG;30.950000;"Card via Stripe";"2022-11-08 09:12:02";1;9738;"M. CAYETTE ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9737;VTSBDRTPD;4.950000;"Card via Stripe";"2022-11-08 08:23:33";1;9737;"N. Moinardeau ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9736;URZEBRRGC;32.400000;PayPal;"2022-11-08 07:11:37";1;9736;"A. Di Bartolomeo";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9735;BOPJSWHPL;4.950000;Virement;"2022-11-08 06:20:26";1;9735;"M.  Bertin";Annulé;#DC143C;1;Belgium;0;"Mondial Relay";MDN-Productions
+9734;HDSMYBBXG;59.400000;"Card via Stripe";"2022-11-07 23:01:04";1;9734;"P. Chéron";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9733;LOVOAXIMB;5.950000;PayPal;"2022-11-07 22:35:55";1;9733;"C. Guimbeau";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9732;KOGOOUUNG;29.950000;"Card via Stripe";"2022-11-07 20:46:23";1;9732;"M. TRAN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9731;EHZCTCEXY;28.950000;"Card via Stripe";"2022-11-07 20:39:22";1;9731;"F. Carton";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9730;FWNIZHJNY;25.900000;Chèque;"2022-11-07 20:24:59";1;9730;"C. Hasdenteufel";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9729;VOTUJDDEK;50.000000;"Card via Stripe";"2022-11-07 20:21:05";1;9729;"M. Lorne";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9728;YJIBGCHVN;25.950000;"Card via Stripe";"2022-11-07 19:58:23";1;9728;"S. Pereira";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9727;VNUCMQMAG;5.950000;"Card via Stripe";"2022-11-07 19:33:31";1;9727;"A. Brenner ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9726;JLJJTCDNW;5.950000;"Card via Stripe";"2022-11-07 19:06:02";1;9726;"G. De La Debutrie";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9725;CCGSUZWYS;5.950000;"Card via Stripe";"2022-11-07 18:04:49";1;9725;"J. FLEURY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9724;NRQJHOAYC;4.950000;"Card via Stripe";"2022-11-07 17:28:35";1;9724;"C. PLANCON";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9723;PDJIRFSUB;5.950000;"Card via Stripe";"2022-11-07 17:22:17";1;9723;"S. Marchand";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9722;RTJQKKKCK;5.950000;Chèque;"2022-11-07 16:40:56";1;9722;"P. GAIGEARD";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9721;GKSXYKDBI;5.950000;PayPal;"2022-11-07 16:16:49";1;9721;"C. NEGRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9720;RXAEBXKUA;11.000000;PayPal;"2022-11-07 16:12:51";1;9720;"A. Tostée";Remboursé;#ec2e15;1;Mauritius;1;"Colissimo à domicile";MDN-Productions
+9719;KNHEPSVKF;5.950000;"Card via Stripe";"2022-11-07 16:09:03";1;9719;"D. Riado";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9718;KZZEJQXAM;55.950000;Chèque;"2022-11-07 15:39:48";1;9718;"M. SIMON";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9717;LLNUAGOLD;17.250000;"Card via Stripe";"2022-11-07 15:16:43";1;9717;"K. ULYS";Livré;#108510;0;Guadeloupe;1;"Colissimo à domicile";MDN-Productions
+9716;KJACFWBKD;113.410000;PayPal;"2022-11-07 15:07:09";1;9716;"M. Nohel";Livré;#108510;1;Canada;1;"Colissimo à domicile";MDN-Productions
+9715;TWUJBKSBV;20.010000;"Card via Stripe";"2022-11-07 15:06:16";1;9715;"K. ULYS";Livré;#108510;1;Guadeloupe;1;"Colissimo à domicile";MDN-Productions
+9714;ITWATYKQB;4.950000;PayPal;"2022-11-07 14:55:32";1;9714;"c. CHALET";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9713;GBGULKIVQ;19.400000;"Card via Stripe";"2022-11-07 14:50:22";1;9713;"N. SIMORRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9712;LHFOYNMFQ;5.950000;"Card via Stripe";"2022-11-07 14:43:50";1;9712;"M. de La Laurencie";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9711;BUSGMJHOC;20.950000;"Card via Stripe";"2022-11-07 14:24:43";1;9711;"H. Idomenee";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9710;PGHYMYPWP;5.950000;"Card via Stripe";"2022-11-07 14:24:00";1;9710;"M. Sarrazin";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9709;MVTLPJINB;5.950000;"Card via Stripe";"2022-11-07 14:20:20";1;9709;"A. Ristroph ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9708;SOVILPUIO;5.950000;Virement;"2022-11-07 14:18:16";1;9708;"m. mohandi";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9707;PJVJNSFFC;20.950000;Virement;"2022-11-07 14:04:39";1;9707;"J. Sarrazin";Annulé;#DC143C;1;France;0;"Colissimo à domicile";MDN-Productions
+9706;OANNUOFQJ;4.950000;"Card via Stripe";"2022-11-07 13:40:14";1;9706;"T. ALIMA BOULI ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9705;GNLCWEPBK;30.950000;"Card via Stripe";"2022-11-07 13:33:08";1;9705;"R. FOLIOT";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9704;LOGQKAEKD;4.950000;"Card via Stripe";"2022-11-07 13:09:15";1;9704;"S. APPERT";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9703;KOYLJYMJQ;30.950000;"Card via Stripe";"2022-11-07 12:59:33";1;9703;"B. Peter";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9702;HYOTWEWQY;13.950000;"Card via Stripe";"2022-11-07 12:46:11";1;9702;"A. de Boisgrollier";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9701;ARPDSUNRY;50.800000;Chèque;"2022-11-07 12:34:15";1;9701;"M. LAMBLIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9700;XIDGFJNED;50.000000;"Card via Stripe";"2022-11-07 12:29:35";1;9700;"A. ZITTE ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9699;FJYVSBQRE;41.700000;Chèque;"2022-11-07 12:26:38";1;9699;"M. PAGES";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9698;OYKLNRGCF;30.950000;"Card via Stripe";"2022-11-07 11:53:10";1;9698;"E. TRIJOL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9697;LVXRWHJZF;5.950000;Chèque;"2022-11-07 11:48:53";1;9697;"L. ACCUEIL JEUNES";"En attente du paiement par chèque";#4169E1;1;France;0;"Colissimo à domicile";MDN-Productions
+9696;OEFUGXQQW;100.000000;Chèque;"2022-11-07 11:41:40";1;9696;"M. BOIDIN PAU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9695;RAHWNJWGM;5.950000;"Card via Stripe";"2022-11-07 11:02:27";1;9695;"E. d'ESCAYRAC";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9694;TPVILZZJE;15.950000;PayPal;"2022-11-07 11:01:26";1;9694;"M. LACASSIN";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9693;GUPADTLGL;52.500000;Virement;"2022-11-07 10:52:46";1;9693;"B. GRANDOU";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9692;DCXBVKBES;5.950000;PayPal;"2022-11-07 10:46:49";1;9692;"V. Loisillier ";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9691;XEPDBCCWZ;5.950000;"Card via Stripe";"2022-11-07 10:45:39";1;9691;"G. Delerue";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9690;UEMFBESVM;4.950000;"Card via Stripe";"2022-11-07 10:40:57";1;9690;"P. Jacquemin";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9689;GVTRSGHVS;55.900000;PayPal;"2022-11-07 10:33:45";1;9689;"V. Loisillier ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9688;AIIGYFCXU;18.400000;"Card via Stripe";"2022-11-07 10:33:14";1;9688;"k. NIVAULT-HACCART";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9687;CYIXPDTQS;4.950000;"Card via Stripe";"2022-11-07 10:22:45";1;9687;"P. COUTURIER";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9686;IHHHZVXTD;4.950000;PayPal;"2022-11-07 10:02:50";1;9686;"P. Korval";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9685;YCJGGFUQD;5.950000;"Card via Stripe";"2022-11-07 09:37:16";1;9685;"E. WEBER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9684;TIAIYXMHD;4.950000;"Card via Stripe";"2022-11-07 09:14:04";1;9684;"G. DUROVRAY ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9683;LBIBFQSBV;5.950000;Virement;"2022-11-07 09:09:13";1;9683;"P. Gaigeard";Annulé;#DC143C;1;France;0;"Colissimo à domicile";MDN-Productions
+9682;AVOWIWKNA;36.400000;"Card via Stripe";"2022-11-07 08:56:02";1;9682;"C. HASDENTEUFEL";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9681;ZNDHOKURY;15.950000;"Card via Stripe";"2022-11-07 08:47:30";1;9681;"V. Fraïssé ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9680;KBPOAOGTL;14.950000;PayPal;"2022-11-07 08:33:43";1;9680;"b. Lambert";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9679;BKIPHKSXA;20.950000;"Card via Stripe";"2022-11-07 08:31:39";1;9679;"D. HEBRARD";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9678;RLROFKRRR;4.950000;"Card via Stripe";"2022-11-07 08:25:30";1;9678;"A. DEMAILLY";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9677;KBSDQQJBO;5.950000;"Card via Stripe";"2022-11-07 08:20:56";1;9677;"S. MARIE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9676;XNOXQQRCS;5.950000;PayPal;"2022-11-07 08:18:48";1;9676;"c. Gissinger";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9675;ZWOBVBHKB;4.950000;"Card via Stripe";"2022-11-07 08:12:23";1;9675;"M. VERIN ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9674;DOXUWREDT;4.950000;"Card via Stripe";"2022-11-07 08:08:21";1;9674;"E. SABLERY";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9673;AHBWKYQUQ;8.250000;"Card via Stripe";"2022-11-07 07:58:24";1;9673;"M. Longuemare";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9672;SHMEWXEAJ;5.950000;"Card via Stripe";"2022-11-07 07:56:47";1;9672;"G. Rousselet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9671;APRAQMXBV;11.000000;Espèces;"2022-11-07 07:47:51";1;9671;"K. KOUADIO ";"Payer en espèces";#9c7240;1;"Ivory Coast";0;"Colissimo à domicile";MDN-Productions
+9670;RVTKTOGGR;4.950000;PayPal;"2022-11-07 07:46:03";1;9670;"G. FERULLA";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9669;JZIKQNWIH;31.000000;PayPal;"2022-11-07 07:45:05";1;9669;"D. Wongsokarto ";Livré;#108510;1;"New Caledonia";1;"Colissimo à domicile";MDN-Productions
+9668;FLDHWZKDR;19.340000;"Card via Stripe";"2022-11-07 07:01:23";1;9668;"S. Stéfanović";Livré;#108510;0;Martinique;1;"Colissimo à domicile";MDN-Productions
+9667;YUCTJAXPH;11.000000;"Card via Stripe";"2022-11-07 06:58:45";1;9667;"S. Stéfanović";Livré;#108510;1;Martinique;1;"Colissimo à domicile";MDN-Productions
+9666;NTSZBUEFE;17.480000;"Card via Stripe";"2022-11-07 06:27:03";1;9666;"S. CERVEAUX ";Expédié;#8A2BE2;1;"Reunion Island";1;"Colissimo à domicile";MDN-Productions
+9665;XMIIXRJAL;4.950000;"Card via Stripe";"2022-11-07 06:23:47";1;9665;"F. Colinet";Livré;#108510;1;Belgium;1;"Mondial Relay";MDN-Productions
+9664;KKPEXKMYB;5.950000;PayPal;"2022-11-07 06:17:40";1;9664;"N. CUCIUREANU";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+9663;NJDTDBPDL;29.950000;"Card via Stripe";"2022-11-07 06:15:46";1;9663;"P. VEINARDE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9662;QCCIQASFG;28.950000;"Card via Stripe";"2022-11-06 19:23:08";1;9662;"D. Carrière ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9661;HZEUCSZHM;5.950000;"Card via Stripe";"2022-11-06 18:37:43";1;9661;"S. Lamarre";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9660;YSYRCBJLV;5.950000;PayPal;"2022-11-06 15:41:49";1;9660;"P. TIfra";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9659;AUCJLVCSZ;5.950000;"Card via Stripe";"2022-11-06 10:01:49";1;9659;"M. CRUSSAIRE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9658;UGIJLJDBY;5.950000;"Card via Stripe";"2022-11-05 18:12:11";1;9658;"D. Malmezat";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9657;LHFVVBZDM;20.950000;"Card via Stripe";"2022-11-05 15:42:29";1;9657;"S. GUILLON";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9656;FLHIIPAMG;50.300000;"Card via Stripe";"2022-11-05 15:14:48";1;9656;"E. BLANQUER";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9655;IEXGAPZPI;4.950000;"Card via Stripe";"2022-11-05 13:17:10";1;9655;"P. Leglise";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9654;OPCIELJMU;5.950000;"Card via Stripe";"2022-11-05 10:49:49";1;9654;"S. Soeur Marie de St Etienne";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9653;ZDWZLSWVX;4.950000;PayPal;"2022-11-05 10:26:44";1;9653;"M. Peuvrier ";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9652;ZQOJGXCBE;29.950000;"Card via Stripe";"2022-11-05 00:19:57";1;9652;"J. LAFONT";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9651;MNFAYKYNW;5.950000;"Card via Stripe";"2022-11-04 23:14:53";1;9651;"B. Delaval";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9650;WNSMRXATI;5.950000;Virement;"2022-11-04 21:14:33";1;9650;"R. WITWICKI";Annulé;#DC143C;1;France;0;"Colissimo à domicile";MDN-Productions
+9649;ANTLTADNR;4.950000;PayPal;"2022-11-04 19:43:51";1;9649;"C. CASSAN";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9648;LZQNRORVG;76.800000;"Card via Stripe";"2022-11-04 18:47:58";1;9648;"Y. ALLENET";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9647;VMCJYIWGM;5.950000;"Card via Stripe";"2022-11-04 18:30:35";1;9647;"M. POLLET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9646;WHNOZZLCL;61.000000;"Card via Stripe";"2022-11-04 14:04:40";1;9646;"M. Gerarduzzi";Livré;#108510;1;"French Guiana";1;"Colissimo à domicile";MDN-Productions
+9645;FXJITOEQT;24.950000;Virement;"2022-11-04 13:33:12";1;9645;"C. CASTRO";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9644;KKKMRKJYB;4.950000;"Card via Stripe";"2022-11-04 11:47:58";1;9644;"F. THUILLIER";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9643;KFSGVHPEU;20.000000;Chèque;"2022-11-04 10:56:41";1;9643;"H. QUELLERY";Livré;#108510;1;Guadeloupe;1;"Colissimo à domicile";MDN-Productions
+9642;TBLDSDRMQ;15.000000;Chèque;"2022-11-04 10:48:21";1;9642;"A. ROMET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9641;MHVSMHUIM;5.950000;"Card via Stripe";"2022-11-04 10:45:03";1;9641;"L. Lurel";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9640;GYXJDNXHM;5.950000;PayPal;"2022-11-04 07:45:11";1;9640;"F. POPOVIC";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9639;BPHYQXRWN;5.950000;"Card via Stripe";"2022-11-03 22:39:46";1;9639;"e. vadaine";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9638;GZDTCRAZB;5.950000;"Card via Stripe";"2022-11-03 20:46:44";1;9638;"H. Mansuy";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9637;FNTMYLJKB;53.300000;Chèque;"2022-11-03 20:38:46";1;9637;"M. DEBROUX";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9636;FDJGUGPPV;30.950000;"Card via Stripe";"2022-11-03 19:42:22";1;9636;"V. DRENO";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9635;MXZVQSQQJ;19.950000;PayPal;"2022-11-03 19:27:16";1;9635;"E. Clavier";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9634;TFLVPRGWD;15.950000;"Card via Stripe";"2022-11-03 19:03:43";1;9634;"T. Marie christine";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9633;SJNDGESYY;22.400000;"Card via Stripe";"2022-11-03 17:57:30";1;9633;"D. DEMAILLY";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9632;EQLAGNINQ;5.950000;"Card via Stripe";"2022-11-03 17:45:44";1;9632;"M. Boreicha";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9631;OBFEMZDDV;11.000000;PayPal;"2022-11-03 17:45:13";1;9631;"N. Kamoo";Expédié;#8A2BE2;1;Switzerland;1;"Colissimo à domicile";MDN-Productions
+9630;OUSKIAXTO;4.950000;Chèque;"2022-11-03 17:26:39";1;9630;"c. lafolie";"En attente du paiement par chèque";#4169E1;1;France;0;"Mondial Relay";MDN-Productions
+9629;BLNNWQTTN;11.000000;PayPal;"2022-11-03 17:26:33";1;9629;"J. RÉZAIRE";Livré;#108510;1;"French Guiana";1;"Colissimo à domicile";MDN-Productions
+9628;PJDPCYSKW;11.000000;Virement;"2022-11-03 17:02:55";1;9628;"N. PIRLET";Livré;#108510;1;Belgium;1;"Colissimo à domicile";MDN-Productions
+9627;KBMUODGFA;11.000000;"Card via Stripe";"2022-11-03 16:56:30";1;9627;"A. Payet";Livré;#108510;1;"Reunion Island";1;"Colissimo à domicile";MDN-Productions
+9626;MJXYKXMOY;4.950000;"Card via Stripe";"2022-11-03 16:56:17";1;9626;"M. ROBIN";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9625;YKRSXHPRX;4.950000;Virement;"2022-11-03 16:49:18";1;9625;"I. Clement ";Annulé;#DC143C;1;France;0;"Mondial Relay";MDN-Productions
+9624;VGSRAIKHF;29.950000;"Card via Stripe";"2022-11-03 16:18:10";1;9624;"N. ALRIC ";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9623;CTHXNTAMT;5.950000;"Card via Stripe";"2022-11-03 16:07:07";1;9623;"J. BUONO";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+9622;OITYTROLR;5.950000;PayPal;"2022-11-03 16:04:13";1;9622;"J. Bouchereau";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9621;QWTGMOGVO;5.950000;"Card via Stripe";"2022-11-03 15:42:10";1;9621;"E. Houzet";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9620;QZZTHPSUX;4.950000;"Card via Stripe";"2022-11-03 15:31:10";1;9620;"J. SCHELLENBAUM";Livré;#108510;0;France;1;"Mondial Relay";MDN-Productions
+9619;KBKFWRTEG;5.950000;"Card via Stripe";"2022-11-03 15:25:17";1;9619;"P. LABOIS";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9618;PSXPVQUCT;5.950000;"Card via Stripe";"2022-11-03 15:24:36";1;9618;"O. Bonnassies";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9617;HHGDAWBYD;53.000000;"Card via Stripe";"2022-11-03 15:05:26";1;9617;"É. BELIMONT";Livré;#108510;0;France;1;"Colissimo à domicile";MDN-Productions
+9616;CVGYZGAAB;4.950000;Chèque;"2022-11-03 15:00:51";1;9616;"C. Veyssiere";"En attente du paiement par chèque";#4169E1;1;France;0;"Mondial Relay";MDN-Productions
+9615;AQFTNHQJG;34.950000;"Card via Stripe";"2022-11-03 14:49:36";1;9615;"C. ASSAOUI";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9614;YHXQOYGZF;9.900000;PayPal;"2022-11-03 14:36:00";1;9614;"L. Benard-Boutry";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9613;SCSKDWLKY;5.950000;"Card via Stripe";"2022-11-03 14:25:12";1;9613;"L. Cécile";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9612;OTSMTTKKO;15.750000;"Card via Stripe";"2022-11-03 14:22:25";1;9612;"c. pirazzi";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9611;XVJKFIWPA;57.400000;"Card via Stripe";"2022-11-03 14:03:56";1;9611;"G. RACINE";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9610;PHPSAZQPV;4.950000;PayPal;"2022-11-03 13:26:34";1;9610;"n. molodtzoff";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9609;CRZFAHMOG;30.000000;Chèque;"2022-11-03 10:22:24";1;9609;"J. DAUPHINE";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9608;YLAXQLCCK;61.600000;"Card via Stripe";"2022-11-02 22:44:33";1;9608;"F. VIVIER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9607;CFLYOVBTB;34.250000;"Card via Stripe";"2022-11-02 15:47:11";1;9607;"M. Pignatelli";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9606;LCPMFWGJY;50.000000;Espèces;"2022-11-02 13:59:19";1;9606;"P. MATHUES";Livré;#108510;0;Belgium;1;"Colissimo à domicile";MDN-Productions
+9605;YUYVXOHVF;29.950000;Chèque;"2022-11-02 13:46:02";1;9605;"M. OUSSET";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9604;NWANMLZBY;12.050000;Chèque;"2022-11-02 13:20:26";1;9604;"C. DE CLARENS";Livré;#108510;0;France;1;"Domicile sans suivi";MDN-Productions
+9603;DEMFBEQTY;28.300000;Chèque;"2022-11-02 13:16:13";1;9603;"O. GEISLER";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9602;AIQYYKZWU;5.800000;Chèque;"2022-11-02 13:09:58";1;9602;"C. ZIPPERLIN";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions
+9601;OTGREHWYN;41.300000;Chèque;"2022-11-02 13:03:57";1;9601;"M. NICOLAS BLANC";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9600;FPFVVPWIR;18.150000;Chèque;"2022-11-02 12:45:24";1;9600;"A. HOUDBINE";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions
+9599;FPGXTCECZ;17.500000;Chèque;"2022-11-02 12:40:56";1;9599;"L. ARFOUILLOUX";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions
+9598;OGTYITMAQ;18.150000;Chèque;"2022-11-02 12:36:34";1;9598;"M. LEPAGE";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions
+9597;BJUDGPQTV;15.000000;Chèque;"2022-11-02 12:24:48";1;9597;"G. GENTY";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions
+9596;EBEFUEKNW;9.950000;Chèque;"2022-11-02 12:19:43";1;9596;"M. LAUTIER";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions
+9595;VWFPFFGDT;18.000000;Chèque;"2022-11-02 12:15:07";1;9595;"J. MORATAL";Livré;#108510;0;France;1;"Domicile sans suivi";MDN-Productions
+9594;WGAYUGVXK;4.950000;"Card via Stripe";"2022-11-02 10:05:51";1;9594;"J. BUONO";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9593;NRARRESAR;4.950000;"Card via Stripe";"2022-11-02 09:01:32";1;9593;"e. vadaine";Livré;#108510;1;France;1;"Mondial Relay";MDN-Productions
+9592;DQRXXHGZG;39.350000;"Card via Stripe";"2022-11-01 23:27:01";1;9592;"C. VANDENBERGHE";Expédié;#8A2BE2;1;France;1;"Colissimo à domicile";MDN-Productions
+9591;JOHIYXPZL;19.950000;"Card via Stripe";"2022-11-01 21:16:31";1;9591;"L. Lurel";Livré;#108510;1;France;1;"Colissimo à domicile";MDN-Productions
+9590;DPFDPOURQ;14.250000;"Card via Stripe";"2022-11-01 10:32:24";1;9590;"E. HOBERG";Livré;#108510;1;France;1;"Domicile sans suivi";MDN-Productions

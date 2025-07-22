@@ -1,0 +1,224 @@
+Genre;Prénom;Nom;"Adresse 1";"Adresse 2";"Code postal";Ville;Etat-Pays
+M.;André;DEIS;"124 Rue du haut vinage";" ";59290;WASQUEHAL;France
+Mme;Marie-Thérèse;GAUTHIER;"55 Rue du Dr Fernand Clement";" ";83200;TOULON;France
+Mme;Marita;KLECKNER;"86 RUE DU LAVOIR";" ";57000;METZ;France
+M.;Michel;PELLENC;"4 Rue Maurice Savin";" ";07500;"GUILHERAND GRANGES";France
+M.;Marie-Christine;ROUX;"38 GRAND RIUE";" ";95630;MERIEL;France
+M.;Vincent;BLANDIN;"7 rue st-urbain";" ";67100;STRASBOURG;France
+Mme;Colette;ROCHOTTE;"93 ROUTE D'ARCHES";" ";88220;HADOL;France
+M.;Christian;PORRET;"16 RUE DE ROCHEBOURG";" ";73460;FRONTENEX;France
+M.;Jacques;RIVIERE;"12 RUE DES BUIS";" ";25220;THISSE;France
+M.;Christian;ARMAN;"39 Rue Charles Jules Vaillant";" ";95330;DOMONT;France
+M.;André;BRUNEAU;"1 Rue Arago";" ";44100;NANTES;France
+Mme;Micheline;VAL;"21 RUE DU PRESIDENT J.F KENNEDY";" ";02100;SAINT-QUENTIN;France
+M.;Jean-Pierre;PIGNOL;"8 RUE DES MARGUERITES";" ";92500;"RUEIL MALMAISON";France
+M.;Benoît;WACHÉ;"45 Avenue des Pyrénées";" ";31230;"L'ISLE EN DODON";France
+M.;Arnaud;MANCHON;"8 RUE MADAME DE MAINTENON";" ";78120;RAMBOUILLET;France
+Mme;Marie;"PLAUCHE GILLON";"10 Place de la carrière";" ";54000;NANCY;France
+M.;Jean-François;LEVIER;"7 ALLEE DES LAURIERS";" ";78290;"CROISSY SUR SEINE";France
+M.;Yannick;COTTENCEAU;"9 Impasse des corberies";" ";49320;"BRISSAC QUINCE";France
+Mme;Danielle;MAUCLAIR;"Le parc du belvedère B 43";"18 Rue du Forest d'Entrais ";05000;GAP;France
+M.;Christophe;DRANSART;"6 HAMEAU DES DURIEZ";"139 RUE DE ROUBAIX ";59420;MOUVAUX;France
+M.;Lucien;JOURDAN;"esc A bat 3";"16 rue du parc de noailles ";78100;"ST GERMAIN EN LAYE";France
+Mme;Yvette;BISARO;"RES. OLYMPIE";"2 IMPASSE OLYMPIE ";64000;PAU;France
+Mme;Michelle-Marie;MARCHAND;"Couvent des Dominicaines";"2 Chemin de Soum de Lanne ";65100;LOURDES;France
+M.;Joseph;SCHELLENBAUM;"33 RUE DE LA TUILERIE";" ";68200;MULHOUSE;France
+Mme;Martine;PINAULT;"15 Rue Henri LAVEDAN";" ";45000;ORLÉANS;France
+Mme;Mary;SCHLERET;"15 RUE WINSTON CHURCHILL";" ";54000;NANCY;France
+Mme;Rolande;POUTEAUX;"12 Rue de la Bourdonnais";" ";78960;"VOISINS LE BRETONNEUX";France
+M.;Lionel;HAMEL;"18 RUE DES GENETS";" ";95370;"MONTIGNY LES CORMEILLES";France
+Mme;Marie;COMTE;"15 Grande rue";" ";88700;NOSSONCOURT;France
+M.;Jean;MATHIOT;"Résidence d'automne - Chambre 309";"7 Rue Charles Peguy ";57570;CATTENOM;France
+Mme;Nicole;CARINCI;"RES. PAUL VALERY";"13 RUE N0TRE DAME DE BON SECOURS ";60200;COMPIEGNE;France
+Mme;Chantal;ROUYEZ;"96 Quai Béatrix de Gavre";" ";53000;LAVAL;France
+M.;Jacques;POIDEVINEAU;"23 RUE DU DEPOT A SEL";" ";79600;AIRVAULT;France
+M.;Christophe;LENGES;"21 Avenue Alexandre Dumas";" ";95170;"DEUIL LA BARRE";France
+M.;Rémy;KALCK;"55 RUE DES TILLEULS";" ";67440;THAL-MARMOUTIER;France
+M.;Jean-Marie;CHANET;"96 Route de Druyes";" ";37510;SAVONNIERES;France
+Mme;Danielle;MAGNIN;"3 RUE DES FRENES ";" ";74600;"SEYNOD - ANNECY";France
+Mme;Louise-Marie;VOLANTIN;"2 RUE DU CENTRE";" ";56310;BUBRY;France
+M.;Antoine;SPERTO;"12 AVENUE JEAN MERMOZ";" ";91170;"VIRY CHATILLON";France
+Mme;Danielle;COLNOT;"24 RUE MAROMME DUBUC";" ";76710;MONTVILLE;France
+Mme;Yves;TRIBAUDEAU;"34 A AVENUE ABBE BORDES";" ";40380;"MONTFORT EN CHALOSSE";France
+Mme;Micheline-Marie;PIRO;"LES TERRASSES DU PEYROU - BAT. 6";"781 AVENUE DE MONSIEUR TESTE ";34070;MONTPELLIER;France
+Mme;Rose-Marie;FONSIN;"11 chez Poineau";" ";17500;REAUX;France
+Mme;Marie-Françoise;BLEHAUT;"16 PLACE DU MARCHE";" ";92200;"NEUILLY SUR SEINE";France
+M.;Jean-Luc;DELUNSCH;"Chemin de St Pierre";"7 Impasse des Coqualins ";13330;PELISSANNE;France
+Mme;Anne;STOLYPINE;"LA TUILERIE DE PICQ";" ";87260;"VICQ SUR BREUILH";France
+Mme;Catherine;SICKERSEN;"36 Rue du moulin de grais";" ";91370;"VERRIERES LE BUISSON";France
+M.;Marcel;JEANNEROT;"20 C MONTEE GATHIER VILLARS";" ";39000;"LONS LE SAUNIER";France
+Mme;Sonia;CUCCHIARO;"148 Rue Vauban";" ";68100;MULHOUSE;France
+Mme;Bernadette;GENTILS;"4 RUE DU MOULIN";" ";55110;BANTHEVILLE;France
+Mme;Marie-Jeanne;NADAL;"24 Rue des bonnes gens";" ";67700;SAVERNE;France
+Mme;Colette;DAUPHINOT;"13 BOULEVARD DE STRASBOURG ";" ";61000;ALENCON;France
+M.;Christian;HODEE;"5 Avenue Aristide Briand";" ";35400;"St MALO";France
+M.;Clément;PILOT;"8 RUE DES ORMES";" ";56950;CRAC'H;France
+M.;André;DAVID;"160 RUE DU MARECHAL JOFFRE";" ";60150;MONTMACQ;France
+Mme;Geneviève;ROBIN;"25 chemin du tronqueyra";" ";33610;CESTAS;France
+M.;Joseph;VEYRET;"20 RUE JEAN-JACQUES ROUSSEAU";" ";38490;"ST ANDRE LE GAZ";France
+;Joseph;BERNAY;"633 ROUTE DU CERGNE";" ";42670;ECOCHE;France
+M.;Jean-Paul;BLAYAC;"2 IMPASSE DE LA MARINADE";"CAN GUILLAMOU ";66230;SERRALONGUE;France
+M.;Benoït;DERYCKERE;"35 ALLEE LEONIE VANHOUTTE";" ";59200;TOURCOING;France
+M.;Laurent;DOUFFET;"13 RUE DE L'EGLISE";" ";08000;"CHARLEVILLE MEZIERES";France
+M.;Paul;SPIESER;"11 RUE DE BRETAGNE";" ";67300;SCHILTIGHEIM;France
+Mme;Nicole;MORIN;"Résidence Jules Valles - Appt 1";"Rue Albert Camus ";02110;"BOHAIN EN VERMANDOIS";France
+Mme;Sylvie;DELAIR;"10  IMPASSE DU MARAIS";" ";02500;HIRSON;France
+Mme;Louise;DUCHEMIN;"51 RUE LAMENDIN";" ";62141;"EVIN MALMAISON";France
+M.;Richard;FLAMENT;"35 RUE BOURDAIS";" ";53800;RENAZE;France
+M.;Jean-François;PEROTEAU;"MAISON NOTRE DAME - PARC LEYSOTTE";"4 RUE EDMOND MICHELET ";33400;TALENCE;France
+Mme;Agnès;SAVIDAN;"354 B RUE DE VAUGIRARD";" ";75015;PARIS;France
+Mme;Joëlle;"FRAVAL DE COATPARQUET";"11 CHEMIN MONTRIGAUD";" ";38000;GRENOBLE;France
+M.;Franck;BOREL;"42 CHEMIN DE CANFIER";" ";84440;ROBION;France
+M.;Jacky;SAILLY;"8 RUE PIERRE CORNEILLE";" ";27700;"LES ANDELYS";France
+M.;Christian;LOISEAU;"38 RUE DU HAMEAU DE LA FONTAINE";" ";49000;ANGERS;France
+M.;Gérard;HUTIN;"6  RUE DES MESANGES";" ";86580;"VOUNEUIL SOUS BIARD";France
+M.;Michel;HECKING;"37 AVENUE DU CLOS TOUTAIN";" ";92420;VAUCRESSON;France
+M.;"Jean Bruno";TAILLANDIER;"38 RUE DELA REPUBLIQUE";" ";92190;MEUDON;France
+Mme;Leila;LACHACHI;"11 COURS DE LA LIBERTE";" ";69003;LYON;France
+M.;Alain;FRESIL;"12 RUE DE LA BELLE ECUELLE";" ";35760;"SAINT GREGOIRE";France
+M.;Louis;BONNAFFOUX;"FRONT DE NEIGE";"LE VAL BELLES CHALPS ";05600;RISOUL;France
+M.;Jean-Pierre;GAMEZ;"14 RUE HENRI BARBUSSE";" ";59224;THIANT;France
+M.;William;BRES;"420 RUE ANDRE MARQUES";" ";30000;NIMES;France
+M.;Yannick;LOUVEL;"4 AVENUE DES TULIPES";" ";44270;"MACHECOUL SAINT MEME";France
+Mme;Alexis;MASSARDIER;"51 RUE DESIREE CLAUDE";" ";42100;"SAINT ETIENNE";France
+Mme;Monique;FONTAINE;"2 RUE DE THIANCOURT";" ";90600;GRANDVILLARS;France
+M.;Dominique;HARDEL;"27 RUE JEAN DE LA BRUYERE";" ";78000;VERSAILLES;France
+M.;Gérard;MEROTTO;"17 ALLEE LE CORTIL";" ";74230;THONES;France
+Mme;Bernadette;"FOUQUES DUPARC";"8 BOULEVARD EMILE AUGIER";" ";75116;PARIS;France
+Mme;Karin;EITERER;"8 RUE DU CROISSANT";" ";60200;COMPIEGNE;France
+M.;Thierry;VERNHET;"8 GRANDE RUE JEAN MOULIN";" ";34000;MONTPELLIER;France
+Mme;Véronique;"GILLES CROQUET";"1292 RUE DE LA MARQUE";" ";59246;"MONS EN PEVELE";France
+M.;Philippe;TABARAUD;"4 RUE PETINIAUD BEAUPEYRAT";" ";87000;LIMOGES;France
+M.;Pascal;CAYOT;"LOU CIGALOUN apt 20";"54 CHEMIN DE SAINTE ANNETTE ";04800;"GREOUX LES BAINS";France
+Mme;Marie-José;GUÉRIN;"6 Rue d'Alsace-Lorraine";" ";92160;ANTONY;France
+Mme;Françoise;Chouik;"44 avenue Léon Cambillard";" ";92140;CLAMART;France
+Mme;DANIELLE;AUGIER;"9 impasse BORDE BASSE";" ";31130;"PIN BALMA";France
+M.;JEAN-CHRISTOPHE;NONY;"92 avenue des ternes";" ";75017;paris;France
+Mme;MARIE-DOMINIQUE;LECOMTE-DUQUESNOY;"4 ALLEE FELIX NADAR";" ";26120;CHABEUIL;France
+M.;MICHEL;RÉTAUX;"8 grande rue";" ";62170;"RECQUES SUR COURSE";France
+Mme;DOMINIQUE;FRICHET;"22 AVENUE DES ALLIÉS";" ";77320;"LA FERTE GAUCHER";France
+M.;JACQUES;CHAILLET;"3 RUE DU CIMETIERE";" ";39290;THERVAY;France
+M.;GERARD;CHEUTIN;"25 RUE DU NOYER DE LA PAVOTTE";" ";51210;MONTMIRAIL;France
+M.;François;PALLU;"5 rue marceau";" ";33220;"STE FOY LA GRANDE";France
+Mme;ROSE-MARIE;VALLET;"180 ROUTE DE MUZIN";" ";01300;MAGNIEU;France
+M.;JEAN;FOUQUÉ;"6 RUE DE LA PARRIERE";" ";28400;MARGON;France
+Mme;FRANCOISE;MISSEREY;"31 RUE JEAN BAPTISTE BAUDIN";" ";21000;DIJON;France
+M.;François;AUZEL;"11 Place Levitt";" ";78320;"LE MESNIL St DENIS";France
+M.;HERVÉ;OURSEL;"3 RUE DU LAVOIR";" ";21380;"MESSIGNY ET VANTOUX";France
+M.;JOSEPH;NGOU;"13 RUE JEAN ALLEMANE";" ";93110;"ROSNY SOUS BOIS";France
+Mme;MARIE-DOLORES;"DE GOROSTIDI MASSELIER";"3 BOULEVARD MARECHAL FOCH";"LE BONAPARTE ";06600;ANTIBES;France
+Mme;Monique;DEWITTE;"2201 rte de barbebelle";" ";83690;VILLECROZE;France
+Mme;Evelyne;KRAMMER;"1 Rue du mont";" ";52360;"NEUILLY L'EVEQUE";France
+Mme;EVELYNE;"BARREY LANDRY";"14 ALLEE DES CLOSES";" ";69200;VENISSIEUX;France
+M.;ANDRÉ;ROBIN;"45 RUE DES HAMEAUX DE LA PLAINE";" ";86000;POITIERS;France
+Mme;ADELE;GLAUDE;"12 RUE PAUL VERLAINE";" ";26100;"ROMANS SUR ISERE";France
+M.;SERGE;GARCIA;"3 CAMI DE FARRADJA";" ";66730;CAMPOUSSY;France
+Mme;"ASSOCIATION APOSTOLAT SAINTE THERESE";"CHEZ MR LUGAN FRANCOIS";"22 RUE POUTEIL NOBLE";"IMMEUBLE FURON ";38250;"VILLARD DE LANS";France
+M.;Frédéric;PLATET;"26 RUE DE NANTOUAR";" ";22660;TRELEVERN;France
+M.;lucien;dumont;"244 rue du faubourg saint martin";" ";75010;PARIS;France
+M.;Thierry;piccinelli;"1 rue robert";" ";13007;MARSEILLE;France
+Mme;Emmanuelle;GAMEL;"87 IMPASSE DE LA FREGATE";" ";83260;La-Crau;France
+M.;fra;"le bouteiller des haries";"bois fevrier";" ";35133;fleurigne;France
+M.;Yves;"le bourgeois";"9 rue valmy";" ";51500;"rilly la montagne ";France
+M.;ryszard;gorski;"9 rue du hohwald";" ";67000;STRASBOURG;France
+Mme;marie-jose;fabry;"4 chemin de bascogne";" ";31800;landorthe;France
+M.;Jacques;coudert;"9 impasse adjudant cheminade";" ";21600;"longvic ";France
+Mme;carole;croes;"21 allee saint hubert";" ";59910;bondues;France
+Mme;michele;henon-hilaire;"17 cite du stade";" ";79210;"ST HILAIRE LA PALUD";France
+Mme;chantal;georgler;"9 rue des canadiens";" ";27300;bernay;France
+Mme;Josiane;pradon;"34 rue guilloux allee 3 ( les allouettes)";" ";69230;"st genislaval";France
+Mme;Josselyne;"BARREY SAINT MARTIN";"23 Avenue Besques";" ";65400;ARGELES-GAZOST;France
+M.;jean;vergnais;"9 bis de l'ancienne eglise";" ";69250;"fleurieu sur saone";France
+M.;Georges;guiheneuc;"1101 chemin d embanay";" ";84200;carpentras;France
+Mme;marie-francoise;lhostis-gavard;"52 rue  doyens albert bouzat";" ";35700;RENNES;France
+Mme;ciryien;poirier-coutansais;"7 rue de sevigne";" ";44000;NANTES;France
+;"PERE ANTOINE";"MONASTERE SAINT GENIS";"B.P. 65";" ";32700;LECTOURE;France
+M.;laurent;perrenot;"453 rue des deux clochers";" ";26750;montmiral;France
+Mme;Paule;"DE NOBILI";"6 place Maurice de Fontenay";" ";75012;PARIS;France
+M.;Michel;BLANDINI;"169 RUE DU PRESIDENT FAURE";" ";74800;"LA ROCHE SUR FORON";France
+M.;Marc;MARIN;"37 RUE ANATOLE FRANCE";" ";69200;VENISSIEUX;France
+Mme;Geneviève;BERSOUX;"69 RUE DES PRES";" ";62920;GONNEHEM;France
+M.;Claude;LENNE;"11 RUE DE LA DUBOISERIE";" ";86190;QUINCAY;France
+Mme;Micheline;COULAREAU;"2 RUE DE LA GUILLERE";" ";91460;MARCOUSSIS;France
+M.;Joël;CONCHON;"4 RUE DES MOULINS A VENT";" ";92260;"FONTENAY AUX ROSES";France
+Mme;Isabelle;CRIEZ;"16 RUE DU BOIS D'AMOUR";" ";08000;"CHARLEVILLE MEZIERES";France
+Mme;Marie-Anne;CASAGRANDE;"5 AVENUE ELISEE RECLUS";" ";75007;PARIS;France
+Mme;Brigitte;JEANTET;"6 RUE EDOUARD NORTIER";" ";92200;"NEUILLY SUR SEINE";France
+M.;Guy;JAMOIS;"15 RUE LAGREGE FOISSAT";" ";82200;MOISSAC;France
+M.;Eric;MILLIOT;"LE GALLIEN";"46 B RUE MAGENTA ";86000;POITIERS;France
+M.;Yves;TISSOT;"19 T RUE DU REGARD";" ";92380;GARCHES;France
+Mme;laurence;MERY;"19 RES. CORNEILLE";" ";78150;"LE CHESNAY";France
+Mme;Fernande;MOREAU;"173 AVENUE JEAN JAURES";" ";93370;MONTFERMEIL;France
+Mme;Suzanne;"VANDER MEEREN";"13 ALLEE DES PINS";" ";77170;"BRIE COMTE ROBERT";France
+Mme;Marie-Thérèse;RICHOU;"57 AVENUE DE LA COUPURE DU PARC";" ";37120;CHAVEIGNES;France
+Mme;Suzanne;COROT;"6 RUE SALEMBIER";" ";59700;"MARCQ EN BAROEUL";France
+Mme;Cécile;GRIGNARD;"11 BOULEVARD DES AIGUILETTES";" ";54600;"VILLERS LES NANCY";France
+M.;Claude;POIGNAVANT;"9 Rue des Juifs";" ";50880;"PONT HEBERT";France
+Mme;Marie-Josèphe;MESSAGER;"RES. LA GIRANDIERE";"2 RUE DE GAVRINIS ";35170;BRUZ;France
+M.;Alain;GUIRI;"23 AVENUE DE LA MEDITERRANEE";" ";06200;NICE;France
+Mme;Fabienne;COURTIN;"22 RUE COMTE FELIX GASTALDI";" ";98000;MONACO;Monaco
+M.;Daniel;GODON;"15 RUE GEORGE SAND";" ";18700;OIZON;France
+;"NOTRE DAME";"ABBAYE DE BENEDICTINES";"2 RUE DE L'ABBAYE";" ";61200;ARGENTAN;France
+Mme;Anne-Marie;LORIETTE;"5 ROUTE DE THIONVILLE";" ";57920;"KEDANGE SUR CANNER";France
+Mme;Clarisse;DURIF;"104 RUE KEMPF";" ";67000;STRASBOURG;France
+Mme;Anne-Marie;BOITEUX;"4 RUE DE BELLEHERBE";" ";25510;"PIERREFONTAINE LES VARANS";France
+M.;Césaré;PENZO;"4 RUE DU COLONEL BELLANDO CASTRO";" ";98000;MONACO;Monaco
+M.;Bruno;SCHNEIDER-MAUNOURY;"6 RUE SAINT CHRISTOPHE";" ";19130;VOUTEZAC;France
+M.;Claude;ROGUET;"3 PLACE VIARME";" ";44000;NANTES;France
+M.;Maxime;GUIEC;"PLACE DU CHATEAU";"3 RUE DE LA LIBERTE ";29260;LESNEVEN;France
+M.;Patrick;RICHER;"NEOVIAN PARTNERS";"15 RUE DE LA BANQUE ";75002;PARIS;France
+Mme;Colette;MURZI;"7 RUE DU PETIT VILLIERS";"ESTOUCHES ";91660;"LE MEREVILLOIS";France
+Mme;Anne-Marie;RETAT;"27 RUE SAINT LAURENT";" ";41800;"MONTOIRE SUR LE LOIR";France
+M.;Alain;ROYER;"LE MAS DE LA GARDANNE";"1052 CHEMIN DE LA TOURELLE ";83190;OLLIOULES;France
+M.;"Michel Jean";PILLET;PRESBYTERE;"3 PLACE DE LA TERRASSE ";01600;TREVOUX;France
+Mme;Anne;VICENTE;"LA MUSCADELLE";"342 CHEMIN FOND ";84800;"L ISLE SUR LA SORGUE";France
+Mme;Françoise;PREVOST;"23 RUE JEAN JAURES";" ";59580;ANICHE;France
+;Kolly;André;"Abbaye Saint Benoît de Port-Valais";"Route de l'Eglise 38 ";1897;"Le Bouveret";Switzerland
+Mme;"Cécile ";"Stoquart Wattiez ";"Rue des bruyères, 64";" ";1325;"Chaumont-Gistoux ";Belgium
+M.;"Fidele ";"Sibomana ";"39 route de mazeres ";" ";11400;"Villeneuve la Comptal ";France
+Mme;Isabelle;ROLLAND;"2 rue de Verdun";" ";14100;Lisieux;France
+M.;Giacomino;Saya;"Cote de Pallens N 6";"Les Murets ";1820;Montreux;Switzerland
+Mme;Marie-Edwige;LUSSIAUD;"62 Rue Jean Argelies";" ";91260;"JUVISY SUR ORGE";France
+Mme;monique;ALDUINI;"71 CHEMIN DU PILON";" ";06390;CONTES;France
+M.;Guy;" Valette";"965 Yves Brayer";"Domaine De Maure-vieil, Villa 102 ";06210;Mandelieu;France
+Mme;Françoise;GRANDIN;"28 RUE DE LA FONTAINE SAINT MAURICE";" ";51510;"VILLERS LE CHATEAU";France
+Mme;Anne-Marie;BOIRE;"91 AVENUE MAURICE FAURE";" ";26000;VALENCE;France
+Mme;Françoise;JEGAT;"8 LIEU-DIT KERDRAIN";" ";56690;LANDEVANT;France
+Mme;Marie-Claude;BOULARD-COSTE;"280 BOULEVARD NATIONAL";" ";13003;MARSEILLE;France
+M.;Alain;MACRAIGNE;"123 AVENUE BOLLEE";"HALL A3 ";72000;"LE MANS";France
+M.;Antoine;CLAVE;"235 rue Paul Doumer";" ";78510;"TRIEL / SEINE";France
+M.;Yves;BATIER;"8 SQUARE DE HOUAT";" ";78310;MAUREPAS;France
+M.;Michel;MATHON;"37 RUE GUSTAVE CHARPENTIER";" ";59223;RONCQ;France
+M.;Marcel;GUERRY;"8 AVENUE DE LA MEUNIERE";" ";44800;"SAINT HERBLAIN";France
+Mme;Gisèle;DENIN;"18 RUE JEAN-FRANCOIS MILLET";" ";45400;"FLEURY LES AUBRAIS";France
+Mme;Françoise;CHAUMEAUX;"4 RUE DE LA PAIX";" ";78690;"LES ESSARTS LE ROI";France
+Mme;Anne;VALLEE;"28 B Avenue Eva Salmon";" ";94400;"VITRY SUR SEINE";France
+Mme;VIVIANE;ORGEVAL;"12 RUE DERRIERE L EGLISE";" ";02130;VILLERS-SUR-FERE;France
+Mme;Mireille;COUDRAY;"106 AVENUE CHARLES DE GAULLE";" ";33200;BORDEAUX;France
+M.;Frédéric;FILLATRE;"1 RUE SAINT MARC";" ";85600;MONTAIGU;France
+Mme;Marie-Roseline;BEGUE;"38 RUE RAPHAËL BABET";" ";97431;"LA PLAINE DES PALMISTES";France
+Mme;Marie-Hélène;TARTEAUT;"1623 ROUTE DU SALEVE";" ";74350;"LE SAPPEY";France
+Mme;Elisabeth;LAMBERT;"4 RUE DES AUBEPINES";" ";95520;OSNY;France
+Mme;Madeleine;TRAVERT;"44 CHEMIN DES BUTTES";" ";94460;VALENTON;France
+M.;Vincent;BARBOT;"7 Rue de Balaneyer";" ";22700;"St QUAY PERROS";France
+M.;Bernard;HOLWECK;"24 Rue du jard";" ";88480;"ETIVAL CLAIREFONTAINE";France
+M.;Pierre;PELTRE;"18 Grande rue";" ";54370;ARRACOURT;France
+Mme;Jeanne;CARRE;"3 Chemin de Mélanie";" ";16450;"BEAULIEU SUR SONNETTE";France
+M.;André;CADORET;"Maison St MARTIN";"12 Place St Martin ";56120;JOSSELIN;France
+Mme;Marie;MARTINEZ;"4 Rue de Redditch";" ";89000;AUXERRE;France
+M.;Pierre;"de BODARD";"660 Chemin des gardes";" ";74410;"St JORIOZ";France
+M.;Claude;BARTHERE;"12 Rue de la fraternité";" ";47500;"MONSEMPRON LIBOS";France
+Mme;Odile;LANDELLE;"6 Allée du parc";" ";56350;ALLAIRE;France
+M.;Christian;L'EVESQUE;"49 Rue des frères Templé";" ";44520;"LA MEILLERAYE DE BRETAGNE";France
+M.;Yves;GILOT;"16 Rue de Cuvilleux";" ";38120;"St EGREVE";France
+M.;Jean;VERSAC;"720 Avenue de l'Europe";" ";34190;LAROQUE;France
+Mme;Geneviève;BANHOLZER;"38 Rue Albert Schweitzer";" ";68920;WINTZENHEIM;France
+Mme;Madeleine;"du BOURG de LUZENCON";"Résidence Tounis";"88 Quai de Tounis ";31000;TOULOUSE;France
+Mme;Michèle;FEBVRE;"88 Rue Armand Silvestre";" ";92400;COURBEVOIE;France
+Mme;Marie-Claude;HEMON;"51 Rue Patenôtre";" ";78120;RAMBOUILLET;France
+Mme;GEORGIANE;CHEZLEMAS;"12 rue de la Glacière";" ";91180;"ST GERMAIN LES ARPAJON";France
+Mme;Dominique;GAUDIN;"4 Château Milan";" ";17139;"DOMPIERRE SUR MER";France
+M.;Maurice;BONNEFOI;"9 Avenue du Général de Gaulle";" ";68000;COLMAR;France
+Mme;Jeanne;BONNIN;"23 Avenue de Limoges";" ";87270;COUZEIX;France
+M.;Jean-Pierre;ABRASSART;"1142 Route départementale 904";" ";01480;"ARS SUR FORMANS";France
+Mme;Martine;BOGARD;"Clinique de l'abbaye";" ";91170;"VIRY CHATILLON";France

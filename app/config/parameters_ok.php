@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'mdnproductions',
+    'database_user' => 'mdnproductions',
+    'database_password' => 'I$6YaZrZce7KuRbR',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'GziCOkI8Q3HPG8WH7aD4fx7rB96hjSStGLOATLAG0RLMsjcasM5D4Ker',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-06-18',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'bPFY1cPdnDsrLc0HYhmnqNU9VpYre86jCkaDiGHu4zP5GWtY5pimtyus',
+    'cookie_iv' => 'NNDkM7Cj',
+    'new_cookie_key' => 'def000003ceedca0ef0d03ecd668ed791ed3d8662172c47612a5fec84d565708fc35d4d03b2da6644945d3c06fdfd64f93a33564b5be40046bede684c3e92d28c19175ca',
+  ),
+);

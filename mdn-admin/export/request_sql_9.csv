@@ -1,0 +1,32 @@
+id_order_state;id_lang;name;template;invoice;send_email;module_name;color;unremovable;hidden;logable;delivery;shipped;paid;pdf_invoice;pdf_delivery;deleted
+1;1;"En attente du paiement par chèque";cheque;0;1;ps_checkpayment;#4169E1;1;0;0;0;0;0;0;0;0
+2;1;"Paiement accepté";payment;1;1;;#32CD32;1;0;1;0;0;1;1;0;0
+3;1;"En cours de préparation";preparation;1;1;;#FF8C00;1;0;1;1;0;1;0;0;0
+4;1;Expédié;shipped;1;1;;#8A2BE2;1;0;1;1;1;1;0;0;0
+5;1;Livré;;1;0;;#108510;1;0;1;1;1;1;0;0;0
+6;1;Annulé;order_canceled;0;1;;#DC143C;1;0;0;0;0;0;0;0;0
+7;1;Remboursé;refund;1;1;;#ec2e15;1;0;0;0;0;0;0;0;0
+8;1;"Erreur de paiement";payment_error;0;1;;#8f0621;1;0;0;0;0;0;0;0;0
+9;1;"En attente de réapprovisionnement (payé)";outofstock;1;1;;#FF69B4;1;0;0;0;0;1;0;0;0
+10;1;"En attente de virement bancaire";bankwire;0;1;ps_wirepayment;#4169E1;1;0;0;0;0;0;0;0;0
+11;1;"Paiement à distance accepté";payment;1;1;;#32CD32;1;0;1;0;0;1;0;0;0
+12;1;"En attente de réapprovisionnement (non payé)";outofstock;0;1;;#FF69B4;1;0;0;0;0;0;0;0;0
+13;1;"En attente de paiement à la livraison";cashondelivery;0;0;ps_cashondelivery;#4169E1;1;0;0;0;0;0;0;0;0
+14;1;"En attente de paiement par PayPal";payment;0;0;ps_checkout;#34209E;1;0;0;0;0;0;0;0;0
+15;1;"En attente de paiement par Carte de Crédit";payment;0;0;ps_checkout;#34209E;1;0;0;0;0;0;0;0;0
+16;1;"En attente de paiement par moyen de paiement local";payment;0;0;ps_checkout;#34209E;1;0;0;0;0;0;0;0;0
+17;1;"Autorisation. A capturer par le marchand";payment;0;0;ps_checkout;#3498D8;1;0;0;0;0;0;0;0;0
+18;1;"Remboursement partiel";payment;0;0;ps_checkout;#01B887;1;0;0;0;0;0;0;0;0
+19;1;"En attente de capture";payment;0;0;ps_checkout;#3498D8;1;0;0;0;0;0;0;0;0
+20;1;"En cours d’expédition";;0;0;colissimo;#e6600c;0;0;0;0;0;0;0;0;0
+21;1;"Remis au transporteur";;0;0;colissimo;#e6600c;0;0;0;0;0;0;0;0;0
+22;1;"En attente de paiement Sofort";;0;0;;#4169E1;0;0;0;0;0;0;0;0;0
+23;1;"Remboursement partiel Stripe";;0;0;;#FFDD99;0;0;1;0;0;0;0;0;0
+24;1;"En attente de capture Stripe";;0;0;;#03befc;0;0;1;0;0;0;0;0;0
+25;1;"En attente de paiement PayPal";;0;0;paypal;#4169E1;0;0;0;0;0;0;0;0;0
+26;1;"Waiting for SEPA payment";;0;0;;#fcba03;0;0;1;0;0;0;0;0;0
+27;1;"SEPA dispute";;0;0;;#e3e1dc;0;0;1;0;0;0;0;0;0
+28;1;"Chèque reçu ESAT";;0;0;;#00ff00;0;1;0;0;0;1;0;0;0
+29;1;"Chèque déposé Esat";;0;0;;#059900;0;1;0;0;0;0;0;0;0
+30;1;"Chèque reçu ALD";;0;0;;#00ff00;0;1;0;0;0;1;0;0;0
+31;1;"Chèque déposé ALD";;0;0;;#059900;0;1;0;0;0;0;0;0;0
