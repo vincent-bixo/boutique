@@ -1,0 +1,131 @@
+/*
+ * NOTICE OF LICENSE
+ *
+ * This file is licenced under the Software License Agreement.
+ * With the purchase or the installation of the software in your application
+ * you accept the licence agreement.
+ *
+ * You must not modify, adapt or create derivative works of this source code
+ *
+ *  @author    Frederic Moreau
+ *  @copyright 2016 BeComWeb
+ *  @license   LICENSE.txt
+ */
+
+/*Back Office*/
+div.atccb_search_field .input-group-addon{
+	cursor:pointer;
+}
+.atccb_product_details h4{
+	font-size:18px;
+	font-weight:bold;
+	line-height:24px;
+	margin-top:0; margin-bottom:1em;
+}
+.atccb_product_details p{
+	font-size:16px;/**/
+	line-height:20px;
+	margin-bottom:1em;
+}
+#atccb_admin_warnings{
+	margin-top:25px;
+	margin-bottom:0;
+}
+
+/*Front office*/
+#atccb_product_cart{
+	background-color:#fff;
+	padding:0;
+	margin-top:1em;
+}
+#atccb_product_cart .atccb_cart_title{
+	margin-top:0;
+	border:none;
+	background:#333;
+	color:#fff;
+	font-size:15px;
+	padding:12px;
+}
+#atccb_product_cart .atccb_product_img img{
+	max-width:100%;
+	height:auto;
+}
+#atccb_product_cart p{
+	margin:0.5em;
+}
+#atccb_product_cart #atccb_product_name{
+	font-weight:bold;
+	text-transform:uppercase;
+	color: #2fb5d2;
+}
+#atccb_product_cart #atccb_product_price_infos{
+	color: #2fb5d2;
+}
+#atccb_product_cart #atccb_product_price_infos .atccb_product_price{
+	font-weight:bold;
+}
+#atccb_product_cart #atccb_checkbox_container{
+	margin-top:0.5em;
+}
+#atccb_product_cart #atccb_checkbox_container input[type="checkbox"]{
+	transform-origin:50% 50%;
+	transform: scale(1.25);
+	margin-right:12px;
+}
+#atccb_product_cart #atccb_checkbox_container label{
+	font-weight:bold;
+}
+#atccb_product_cart #atccb_message_container span{
+	font-weight:bold;
+	display:none;
+}
+#atccb_product_cart #atccb_message_container #atccb_add_success_message,
+#atccb_product_cart #atccb_message_container #atccb_delete_success_message{
+	color:#36943e;
+}
+#atccb_product_cart #atccb_message_container #atccb_error_message{
+	color:#f3515c;
+}
+#atccb_product_cart #atccb_message_container #atccb_processing_message{
+	color:#4b80c3;
+}
+#atccb_product_cart #atccb_message_container #atccb_processing_message i{
+	animation: rotator 1.2s linear infinite;
+}
+@keyframes rotator {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@media screen and (max-width:767px){
+	#atccb_product_cart{
+		margin-bottom:25px;
+	}
+	#atccb_product_cart h3:after{
+		display:none;
+	}
+	#atccb_product_cart #atccb_product_name{
+		font-size:15px;
+	}
+}
+@media screen and (max-width:599px){
+	#atccb_product_cart .atccb_cart_title{
+		text-align:center;
+	}
+	#atccb_product_cart .atccb_product_img,
+	#atccb_product_cart .atccb_product_details{
+		width:100%;
+	}
+	#atccb_product_cart .atccb_product_img img{
+		display:block;
+		margin-right:auto;
+		margin-left:auto;
+		margin-bottom:15px;
+	}
+	#atccb_product_cart .atccb_product_details p{
+		text-align:center;
+	}
+	#atccb_product_cart #atccb_checkbox_container .checker{
+		float:none !important;
+		display:inline-block;
+	}
+}

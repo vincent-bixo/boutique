@@ -1,0 +1,386 @@
+Version 1.85.40 (2024-09-26)
+- Add page in charge to perform actions in bulk.
+- Check carriers for each package (according to the total weight and price for the products that belong to each package).
+- Access hookDisplayProductAdditionalInfo function only if product is handled by the A.S.M.
+- Change getEmbeddedProductData function by getWkEmbeddedProductDetails to avoid conflict with another one fom another places (module, theme, etc.).
+- Fix bug in hookDisplayProductPriceBlock: the price is erased by the hook content, so add this condition to fix it : $params['type'] == 'before_price'
+- Fix major bug: Uncaught ReferenceError: ceFrontend is not defined
+- Remove initCartButton function of product.js file and extract its content to be executed as event.
+- Extract the event inside initCartButton function and remove initCartButton function.
+- Fix problem in Prestashop orders list page controller: pagination does not work.
+- Fix problem if order contains a discount and get splited when placed => fix code error in hookActionValidateOrder hook.
+- Fix problem with pagination number when combinations features is disabled.
+
+Version 1.84.34 (2024-04-03)
+- Let customer choosing for each warehouse the carrier he wants among a list during checkout process => extend the carriers combinations choices.
+   + If multi-carriers and multi-warehouses options are enabled and no common carrier between warehouses during checkout, show product name below each carrier.
+   + If multi-carriers and multi-warehouses options are enabled and no common carrier between warehouses during checkout, show warehouse name below each carrier.
+   + Choose how to present carriers: As combinations or by warehouses.
+   + Make available only the best carriers (best price and grade) for non advanced stock management products. Otherwise, customer can choose among a list the best carrier that suits his need.
+- Cart page: disable the "Proceed to checkout" button if:
+   + there is at least one product that can not be delivered by any carrier to the selected delivery address.
+   + there are different warehouses in cart while the multi-warehouses option is disabled in config page.
+- "Manage products/warehouses" section:
+   + Add ability to look for products only with or without combinations.
+   + Add ability to look for enabled / disabled products.
+   + Change the status of product from the list.
+   + Do not storing filters selection into cookies.
+   + If warehouses filter is used, manage only stock for the selected warehouses.
+   + Look for products which warehouses reserved quantity don't match the global reserved quantity.
+   + Add new option in bulk filter: Fix if there is a gap between the warehouses reserved quantity and Prestashop reserved quantity.
+- "Orders/Warehouses Assignments" section:
+   + Improve the looking for orders (when using the product filter).
+   + Add combination filter to refine more search result.
+   + List orders that not yet delivered and shipped.
+   + Display only products without warehouse association.
+- Send an email for each warehouse manager (employee) after a new order is placed.
+- Add ability to add out-of-stock product when "Show out of stock warehouses" option is disabled from config page.
+- Add compatibilities to the "Creative Elements" module (content management module).
+- Improve coding and CSS display.
+- Fix once and for all the problem of getting the product attribute ID from product page (due to the non standard prestashop theme developed by prick developers).
+- Fix javascript problem when adding non A.S.M product with combinations: always the same default combination is added.
+- Fix problem when Multi-carriers option is disabled.
+
+Version 1.78.15 (2023-10-18)
+- Improve the way to look for carriers list by combination ID.
+- Change ctype_digit syntax with is_numeric to ensure PHP compatibility.
+- Improve the javascript getProductData function.
+- Add a check "$product->available_for_order" to disable the add-to-cart button when product isn't available for order.
+- Add a check to execute code in cart page only when there is at least one product using A.S.M.
+- Fix minor bug when accessing order details page (BO): Call to a member function getAddresses() on null. (Change Address.php override)
+- Fix minor bug : undefined $link in product BO page.
+
+Version 1.77.09 (2023-07-11)
+- Improve warehouses selection function if multi-warehouses feature is disabled.
+- Improve the getPackageList function inside the Cart.php override.
+- Add function to have one package if we have in cart products from differents warehouses but with common carrier (remove the Wk merge orders module dependency).
+- Fix the hookActionProductUpdate hook during creating new product.
+- Fix bug adding an ASM product to a cart when creating new order (from Backoffice).
+- Fix bug of looking for another warehouse with enough quantity when changing quantity of product in cart exceed the available quantity (if "deny order when out of stock" is enabled).
+- Fix bug when opening "Products/Warehouses management" page if Combinations features are disabled.
+
+Version 1.77.02 (2023-05-04)
+- Display for a selected product/combination the detailed informations of quantities in each warehouse during creating/editing an order.
+  This happen during searching product through the autocomplete system.
+- Fix bug when saving product from backoffice product form.
+- Fix bug when decreasing quantity (the target warehouse is false).
+
+Version 1.76.99 (2023-03-29)
+- Orders/Warehouses Assignments:
+   + Add new "Order status" filter.
+   + Add new filter to look for order by product (ID, reference or name).
+   + Add ability to assign in bulk a warehouse to a selected orders products according to a few conditions.
+- Product page: look for the warehouse that match the wanted quantity (if not allow ordering of out-of-stock products and priorities on warehouses).
+- Cart page: look for the warehouse that match the wanted quantity (if not allow ordering of out-of-stock products and priorities on warehouses).
+- Upgrade Italian translations.
+- Improve coding and display.
+  + Look for the right delivery address according to the warehouse country and its carriers if we're about to add in the cart the first product (see Address override).
+  + When creating a new warehouse, mark it as enabled by default.
+  + Discare virtual products from "Manage Warehouses, Locations and Stock For Products" controller.
+  + Some templates does not contain product-variants container in product page (removed by the theme developer), so force adding this container for simple product (not combination).
+  + Change getProductData in product-not-asm.js by the one that is right in product.js.
+- Fix the getAdminControllerNameAndAction function: $controller_param on some Prestashop version do find : instead of ::.
+- Fix bug adding a product (ASM) to a cart when creating new order (from Backoffice).
+- Fix bug deleting product from cart during creating new order (from Backoffice).
+- Fix "admin_warehouses_orders_url is not defined" bug when trying to assign a warehouse to a product from order (Orders/Warehouses assignement controller).
+
+Version 1.73.87 (2023-02-07)
+- Change PS_DEFAULT_WAREHOUSE_NEW_PRODUCT var name by ours to avoid error inside the hook responsible of adding new warehouse location to product after it is being added.
+  The problem is that combination add also a product location trace to db through the addAttribute() function of Product Class.
+- Improve the stock movement saving.
+- Change the way to execute the cron (use admin controller instead of a front controller to avoid script execution being stopped by a front private page or maintenance mode).
+- Fix error during calling the alignPsQuantitiesToWarehousesQuantity function: must be static function.
+- Fix error when displaying warehouses infos on product page, it still displayd them even no hook has been attached.
+- Fix the twig template override extending path: change it from @PrestaShopCore to @!PrestaShop.
+
+Version 1.73.83 (2023-01-21)
+- Integrate pagination with Ajax system to support the display of a lot combinations per product ("Manage Products/Warehouses" backoffice controller).
+  https://www.codexworld.com/pagination-with-jquery-ajax-php-mysql/
+- Add ability to fix automatically through a cron job the gap between the warehouses and Prestashop quantities.
+- Add ability to save customer order movement.
+- Add new override file Carrier.php to override the getCarriersForOrder function.
+- Fetch warehouse stock based on the country of the visitor or customer without delivery address (https://addons.prestashop.com/en/seller-contact.php?ict=716942).
+  See line 1004 of WarehouseStock.php file.
+- Add the warehouse filter ID parameter to the current index of Instant stock status and stock movements admin controller (sorting link hrefs and pagination form action link).
+- Recover the function that handle the form_shipping.html.twig during module installation for Prestashop less than 1.7.6.0.
+- Add compatibilities to Prestashop 8.0.
+- Improve coding.
+- Fix and improve the fetching of the unit price of a warehouse.
+- Fix bug: recover the exists function to the StoreHouse class.
+- Fix minor bug when adding a product (ASM) to an existant order (from Backoffice).
+- Fix minor bug during re-installing module : Notice: Undefined variable: path.
+- Fix bug: don't exclude disabled warehouses from the list in Backoffice mode.
+- Fix minor bug in StockManager.php override file: substract the reserved quantity from the physical quantity.
+- Fix the getReservedQuantityByProductAndWarehouse function (follow exactly the one used for PS 1.6 in StockManager.php line 677)
+- Fix the following error: Uncaught ReferenceError: allow_set_warehouse is not defined.
+- Fix the hookheader function concerning the product page settings.
+
+Version 1.69.76 (2022-04-23)
+- Orders/Warehouses Assignments page: display the available quantity by warehouse instead of the whole quantity.
+- Remove cart if it has no products (during changing warehouse from product page).
+- Add compatibilities to the "WK Merge Orders Products" module regarding the override getPackageList function to work correctly and easily.
+- Add "WK Merge Orders Products" module as link in "Other Related Modules" tab.
+- Improve and simplify the install of Cart override according to the Prestashop version.
+- Fix minor bug about displaying the whole Prestashop available quantities on product page.
+
+Version 1.69.72 (2022-04-02)
+- Add a check to not remove warehouse association if product/combination has been yet sold and reserved.
+- Add reserved quantities column for each warehouse when managing stock (A.S.M).
+- Add ability to hide a warehouse from being used in Frontoffice (but the backoffice features will remain, so you can manage it internally).
+- Add warehouse filter to the "Orders/Warehouses Assignments" page to look for orders whose their products must be delivered from the selected warehouse.
+- Improve the remove stock function: if product is not present yet in stock table, create a row in that table with quantity set to 0;
+- Improve hookActionGetProductPropertiesAfter by forcing disabling cart in product page when this latter is using ASM but not associated to any warehouse.
+- Improve the saving of warehouse address.
+- Add compatibility to OnePageCheckoutPS module (order.js).
+- Remove the php code regarding shop control inside the whole module.
+- Remove products not associated to any warehouse during duplicating order (Re-order button).
+- Add a new override /classes/checkout/DeliveryOptionsFinder.php to get arround empty delivery address when multi addresses option is enabled (PS >= almost 1.7.7).
+- Add a message warning if Prestashop standard stock management is disabled.
+- Fix the "Mark / Unmark all combinations as stored in this warehouse" checkbox (during assigning warehouses to all combinations).
+- Fix bug when changing / removing delivery address from checkout delivery addresses (the carriers selections didn't change accordingly correctly).
+- Fix bug regarding the change of warehouses from admin orders page.
+- Fix discounts problems when order is splitted.
+- Let automatic stock alignement (synchronization) between physical warehouses and physical Prestashop quantities during defining new warehouse stock (BO).
+
+Version 1.67.57 (2021-11-17)
+- Ability to exclude out of stock warehouses from display in product page.
+- Add new main feature : Instant stock status: Allow to display detailed information about the stock per warehouse (real / physical quantities, total valuation, etc.)
+- Instant stock status: let user make a csv export either by quantities or by prices.
+- Ability to indicate unit purchase price / currency for every positive stock movement.
+- Add new main feature : Warehouses Stock Movements: Save every warehouse stock change in database (table).
+- Warehouses Stock Movements: let user make a csv export.
+- Remove movements traces if product has been dissociated from a warehouse or removed from stock.
+- Turn off enabled depends_on_stock from stock available table to avoid troubles.
+- Disable advanced stock management from products during uninstalling module to avoid future troubles.
+- Force mono-shop selection during managing warehouses from backoffice.
+- During checkout, apply now the DECREASE priorities settings (parameters taken from config page) instead of using always stock priority.
+- Take into account the "Allow ordering of out-of-stock products" parameter during checkout.
+- Add displayProductAdditionalInfo hook to solve once and for all "Combination ID" selection in product page during loading /changing attributes variants.
+- Improve synchronization warehouses stocks with Prestashop quantities after every order status change (from backoffice).
+- Replace &amp; by & in generated URL by getModuleLink function (in templates files).
+- Add ability to remove the combination (product / warehouse) from cart from product page ( add an icon beside the warehouse dropdown list ) => only one product / warehouse can be added to the cart.
+- Improve security by replacing install.sql by install.php.
+- Improve coding and design.
+- Fix bug about getPackageShippingCost compatibility function (install the appropriate Cart.php override according to Prestashop version).
+- Fix bug when installing the module after an uninstalling action.
+- Fix bug when instanciating kernel object.
+- Fix minor bug about installing AdminOrdersController.php override according to the Prestashop version.
+
+Version 1.60.42 (2021-07-05)
+- If enabling or disabling module, enable / disable also the advanced stock management feature.
+- When adding warehouse stock trace, ensure ean13, upc, isbn and reference fields are validated.
+- Improvement for Gap Fix in bulk: Add stock trace if not yet to avoid future errors.
+- Fix bug when displaying carriers during checkout process with multi-shipping and multi-warehouses options disabled: display only the concerned carriers.
+- Fix bug when we trying to re-install module (Mysql bug). 
+- Fix order payments amounts if orders have been paid directly from shop (by credit card, paypal, etc.)
+- Fix bug when executing cron (manual) from "wk stock manager" module (about bad kernel initialization).
+- Fix discount problem: the reduction is applied to all order brothers when the discount is applied to the whole order.
+- Fix a display bug of displaying carriers selection when "Display a summary of all relevant order data" option has been enabled from order settings.
+- Fix bug : warehouses infos are lost everytime something happens (change quantity, remove product) on CART page.
+
+Version 1.60.32 (2021-05-13)
+- Add ability to display the delivery address in shopping cart page (if multi-addresses is not allowed).
+- Backoffice: Allow adding 0 quantity when managing warehouses quantities.
+- Add new rule: if new warehouse/product location is created, create accordingly the stock trace in database (with 0 quantity).
+- Add new rule: if new warehouse/product location is created, synchronize automatically the warehouses quantities to Prestashop quantity.
+- Add compatibility to addtocartincatalog module (add-to-cart button).
+- Disable adding to cart products of pack type (only if they have been turned on to A.S.M system).
+- Add support when adding product to cart from products lists (categories, brands, search, home and suppliers pages).
+- Include reset function in module to avoid reset errors.
+- Add "protected static $cachePackageList = [];" line in Cart.php override regarding getMyPackageList function (usefull for old 1.7 Prestashop versions).
+- Load only active carriers when managing warehouse from backoffice.
+- Adapt order details backoffice url for Prestashop 1.7.7 versions and above ("Orders/warehouses assignment").
+- If we have in cart products from differents warehouses and with commons carriers, no need to look again for a common carrier in Cart.php override.
+- Bring Prestashop 1.7.7.x compatibilities when adding/editing order from backoffice.
+- Prevent installing/uninstalling overrides functions during Enable/Disable module actions.
+- Discare products type packs when displaying list in AdminWkwarehousesManageQtyController page.
+- Don't allow setting ASM from product page and improve this part.
+- Fix bug when checking if order carrier is belonging to the warehouses carriers (get available carriers by reference ID and not carrier ID). 
+- Fix PHP Deprecated error: Non-static method WarehouseStock::getWarehouseQtyDecreasePriorityForCart() should not be called statically in...
+- Fix the display of warehouses infos after cart button on product page.
+- Fix the delivery address when adding the first product in already empty cart.
+- Fix PHP Warning: require_once(/var/www/vhosts/scarpinando.it/dev.scarpinando.it/override/classes/stock/../../modules/wkwarehouses/classes/WorkshopAsm.php): failed to open stream: No such file or directory in /var/www/vhosts/scarpinando.it/dev.scarpinando.it/override/classes/stock/StockManager.php on line 28.
+- Improve getCollection() function of StorehouseProductLocation class to take products only from valid warehouses. 
+- Fix bug regarding extra carrier contents: when multi-carriers have been displayed on the same line -> cumulate extra carrier contents for each carrier displayed.
+- Fix bug: don't change the cart delivery address when there is one product inside (see getCarriersByCustomerAddresses function).
+- Fix endless loop between delivery address step and carrier step in checkout process.
+- Fix Major Prestashop Bug (PS < 1.7.6) : when splitted orders, differents carriers but the carrier name is the same in order confirmation emails!
+
+Version 1.56.10 (2021-02-12)
+- Add ability to show the delivery time of each warehouse in product page.
+- Add a control when getting stock from warehouse => check if it has warehouse location.
+- Change "Switch to A.S.M" feature to be handled by Ajax Technology.
+- Add a control to switch only products not handled by advanced stok management (when using Switch to A.S.M button).
+- Modify Core CartController.php file located in /controllers/front/ folder to let our overrided file using updateOperationError var.
+- BO Orders Management EDIT mode (Add new product): add a control to add in cart only products that match the saved order carrier.
+- BO Orders Management (When we click on Use button): duplicate only the clicked order without its brothers.
+- BO Orders Management: remove from warehouse cart product table when deleting a product from cart.
+- BO Orders Management: add a control to add in cart only products with common carrier.
+- Test and adapt script when "Allow ordering of out-of-stock products" option is enabled.
+- Copy also warehouses cart associations when duplicating order (Reordering Option is enabled).
+- Adapt checkout process when "Enable final summary" is enabled.
+- Test payment with Guest account.
+- Create function to fix and assign the right delivery address for each product in cart.
+- Create function to fix and assign the right delivery address for each product in cart (just after the creation of a new delivery address).
+- Backoffice (Manage Products / Warehouses): add a check if product is really present in stock (in ps_stock table) to let user understanding the stock state.
+- Product page: Add a control if an A.S.M product can be delivered in the default country (if guest or customer without delivery address or customer with one delivery address).
+- Test module if customer hasn't any delivery address.
+- Override product template (twig file) instead of changing code in shipping twig template (more efficient after Prestashop upgrade).
+- Allow multishipping even if all products in cart use only normal stock management.
+- Save the right delivery address of saved product in cart even this product is handled by normal stock management.
+- Remove the PaymentModule.php override and replace it by getPackageList() override function in Cart.php (more efficient).
+- Hide Shipping method block from order confirmation page if multi-carriers.
+- Disable adding product to cart if it's handled by advanced stock management but not available in any warehouse.
+- Export products by stocks : add new column to show indicate the "Available quantity" in each warehouse.
+- Add support for visitors (without cart).
+- Validate informations integrity when accessing cart page (each product in cart must have its same matched product in warehouse cart table).
+- Ability to display warehouses infos below the product name or the cart line.
+- Allow to check stock/carrier when user change a warehouse from list.
+- Allow ordering products even products are out of stock.
+- Check the availability of a warehouse stock during adding a product to the cart.
+- When disabling A.S.M, remove also warehouses associations in addition of stocks.
+- If it's about cart movement or order placement, it will be the warehouse with enough stock that will be selected first unless you give to your customers the ability of choosing one from a list. 
+- Add ability to change warehouse association from order detail page directly (Backoffice) with taking into account the assigned order carrier.
+- Orders/Warehouses Assignments: load warehouses list of each product in order using ASM with taking into account the assigned order carrier.
+- After placing an order, change the warehouse priority to be the warehouse with enough quantity first (from the higher quantity to the lower).
+- Add ability to remove warehouses stocks traces from stock table when deleting a warehouse.
+- Remove the bulk delete button of warehouses.
+- Add compatibility to RockPos module (hspointofsalepro) when order is being created from its interface.
+- Add new extra hook (tabs content in product page) to display warehouses stocks and locations.
+- Switch to tabs navigation system in configuration page.
+- Add new tab in config page called "Other Related Modules".
+- Add option to activate FONT AWESOME library which is responsible of showing icons (to avoid conflicts with the theme).
+- Improve validating price (unit or wholesale price) during adding stock to warehouse (addProduct function).
+- Improve and fix canManageQuantity function.
+- Minimal module compatibility becomes 1.7.3.0.
+- Add compatibilities to 1.7.3.x.
+- Add 1.7.7 compatibility when displaying the warehouse column in admin order details page.
+- Fix bug related to product.js file (the product page refresh automatically when it is loading).
+- Fix minor bug about displaying warehouses list in configuration page (deleted are also shown).
+- Fix minor bug about undefined reference index when searching products by warehouse (Manage Products/Warehouses page).
+- Fix bug when setting carriers (with references) for a warehouse (when adding or editing form).
+- Fix bug: exporting warehouses names to new language table is missing during upgrading module. 
+- Fix bug of adding payments during changing order (with orders brothers) status to "Payment Accepted" status.
+- Fix minor bug about "Look for products which warehouses quantities sum don't match the physical quantity" filter by displaying only A.S.M products.
+- Add new feature to allow customers to ship orders to one or multiple addresses.
+- Add ability to show the country of each warehouse on cart page.
+- Add ability to show the country of each warehouse on product page.
+- Add ability to show the country of each warehouse in dropdown list (used as combination) or panel info (as best warehouse information).
+- Add ability to align in bulk Prestashop quantities to Warehouses physical quantities.
+- Add ability to align in bulk Warehouses quantities to Prestashop physical quantities.
+- Add ability to disable in bulk Advanced Stock Management from products.
+- Add ability to switch all or a selection of products to A.S.M.
+- Addresses checkout step: Display a table of products to let user ship to multiple addresses.
+- Allow adding products of different carriers in the cart.
+- Allow adding products of different warehouses in the cart.
+- Shipping method checkout step: display a table of available carriers related to each delivery address to let user choosing his preferred shipping option.
+- Ability to display the warehouse name / location / quantity / delivery time of each product in cart.
+- Allow visitors and customers choosing a warehouse from a dropdown list (like a combination).
+- Add ability to define which warehouse has priority to be updated first if it's about a decrease of stock movement (placing an order, decrease from product page, etc.)
+- Add ability to define which warehouse has priority to be updated first based on which warehouse has enough stock.
+- Display the best warehouse informations above the add-to-cart button instead of a dropdown list (product page).
+- Checkup if product can be delivered by any carrier to the selected customer address before adding it to the cart (on product page).
+- Checkup cart for undelivered products according to the selected customer address (if no carrier is available).
+- Add a carrier availability check in product page (before going to the cart).
+- Improve coding and CSS display.
+
+Version 1.7.60 (2020-06-05)
+- Add condition: IF creating order from BO with product which is associated to at least one warehouse but stocks have not been defined yet.
+- Improve ActionUpdateQuantity hook.
+- Fix bug when changing order status from shipped to delivered status [from status (shipped=1) to another one (shipped=1)].
+- Fix bugs about warehouses stock synchronization when performing "Return product", "Partial refund" and "Standard refund" actions from Orders management page.
+- Fix minor display bug when order is splitted into several orders.
+- Fix bug when joining splitted orders into one order for PS < 1.7.6.
+- Fix some other bugs.
+
+Version 1.7.54 (2020-05-20)
+- Synchronize stock to warehouses when switching product to advanced stock management.
+- Export stocks by products in Excel format.
+- Export stocks by warehouses in Excel format.
+- Fix bug in PaymentModule.php override class: (put back $specific_price as parameter for getPriceStatic function).
+
+Version 1.5.52 (2020-05-04)
+- Add ability to accept negative values for physical quantities like Prestashop does.
+- Add ability to merge all products of generated orders (for each warehouse) into one order.
+- Display all products in order confirmation page when order is splitted.
+- Ability to define a multi-language name for each warehouse.
+- Ability to display icon telling that the warehouse stock is ok or out of.
+- Save wholesale price instead of retail price when adding quantity to warehouse.
+- Preserve warehouses quantities warehouses after adding new product to order (BO).
+- Synchronize warehouses stocks when admin returns product from order page.
+- Synchronize warehouses stocks when admin delete product from order page.
+- Synchronize warehouses stocks when admin try to refund quantities from order page.
+- Improve products search by warehouses (display only products/combinations that match the warehouse filter).
+- Display the warehouse(s) physical quantity total in products list in addition of shop physical quantity (Manage Products/Warehouses page).
+- Improve the warehouses stock alignement process.
+- Add new language : Russia.
+- Warn user if missing overrides files.
+- Fix bug about the display of warehouses quantities in product page (frontoffice).
+- Fix bug it happens when changing order status from Delivered / Shipped status to "Awaiting payment" status.
+
+Version 1.4.34 (2020-03-18)
+- Remove available and reserved quantities columns for each product/warehouse when managing stock (A.S.M) because problems.
+- Take into account the statuses that are marked as shipped after changing order status.
+- Include the reserved stock from each warehouse a product has been taken in order details page (Products panel).
+- Improve ActionUpdateQuantity hook by disabling resetting warehouse physical stock if quantity is 0 or negative.
+- Fix minor bug: remove dni field address when it's required field (when adding new warehouse).
+- Fix bug about displaying warehouses & locations of each product in customer's order details page.
+
+Version 1.4.29 (2020-02-20)
+- Display the right warehouses from which product has been taken in order details page (Products panel)(Add multi-warehouses support - Backoffice).
+- Add available and reserved quantities columns for each product/warehouse when managing stock (A.S.M).
+- Add icon to module tab in backoffice menu (For Prestashop 1.7).
+- Fix bug about warehouses stock management (after marking order shipped or delivered => take into account muli-warehouses).
+- Fix minor bug regarding the display of the right physical quantity in each warehouse in product page (must be the available quantity).
+- Fix minor bug: display the right number of product when it's out of stock (don't display NAN).
+
+Version 1.4.22 (2019-12-11)
+- Add ability to fix quickly and align manually through a button warehouses quantities to the global physical quantity.
+- Display warehouses & locations of each product in customer's order details page (Backoffice) even if an order product is not assigned to a warehouse.
+- Fix minor bug regarding warehouses quantities when customer' order has been refunded.
+- Fix bug regarding warehouses quantities when customer' order has been delivered or shipped.
+
+Version 1.3.19 (2019-12-02)
+- Synchronize quantities after canceling customer order.
+- Adapt script after creating customer's order from backoffice.
+- Add a control if user modifies the warehouse assignment of an order' product while the order is already assigned to "Delivered" status.
+- Fix bugs regarding orders statuses changes.
+- Fix bug that block editing physical quantity (button still always disabled).
+
+Version 1.3.14 (2019-10-09)
+- Install fontawesome library for icons used on product page (can be used for other purposes).
+- Fix bug about missing class when log in during order process.
+
+Version 1.3.12 (2019-09-01)
+- Add "Quantity by carrier" availability check during checkout (order).
+- Display in product page the stored physical quantity in each warehouse.
+- Display in product page the location' information in each warehouse.
+
+Version 1.2.10 (2019-08-09)
+- Assign the right warehouse for each product (using advanced stock management) after an order has been placed (according to the warehouses' priority).
+- Add ability to synchronize physical quantity with warehouses' physical quantities once an order has been shipped or delivered.
+- Use the already assigned warehouse of product order for synchronization once an order has been shipped or delivered (don't use in this case the warehouses' priority).
+- Remove the useless "Quantity to supply" column from Orders/Warehouses Assignments page.
+- Fix minor bug about updating physical quantities from backoffice product when the global physical stock is the same as the sum of the ones on warehouses.
+
+Version 1.1.7 (2019-06-06)
+- Improve searching by categories in "Manage Products/Warehouses" page.
+- Remove Override' functions (it becomes automatic by Prestashop).
+- Fix bug when displaying products images in "Manage Products/Warehouses" page.
+- Fix bug when saving product (empty the depends_on_stock_div panel to avoid script entering StockAvailable::synchronize function);
+- Fix bug when searching for products that do not match the sum of the warehouses;
+
+Version 1.1.3 (2019-02-19)
+- Save stock movement (named : customer order) after payment process.
+- Don't update warehouses stock after process payments (from frontoffice).
+- Add new language : Italian.
+- Fix minor bug when updating product warehouse' datas (location, stock) after doing a search.
+- Fix minor bug about saving useless required fields of warehouse's address.
+- Add Prestashop 1.7.5 & PHP 7.2 compatibilities.
+
+Version 1.1.0 (2018-08-25)
+- Add the warehouse's location data for each product in PDF Delivery Slip document as additional information.
+- Prestashop 1.7.4: Improve code and fix some minor bugs.
+
+Version 1.0.0 (2018-06-04)
+ - Initial commit

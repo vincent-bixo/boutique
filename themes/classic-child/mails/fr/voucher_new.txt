@@ -1,0 +1,14 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Le bon de réduction a été généré
+
+Voici votre nouveau bon de réduction : {voucher_num}
+
+Pour en bénéficier, copier/coller ce code lors de l'achat.
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

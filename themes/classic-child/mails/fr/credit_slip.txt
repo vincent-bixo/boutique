@@ -1,0 +1,14 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Identifiant de commande {order_name} - Avoir
+
+Un avoir a été généré à votre nom relatif à votre commande ayant pour référence {order_name}.
+
+Accédez à cet avoir et téléchargez votre facture sur notre site, rendez-vous dans la section [Avoirs]({history_url}) de votre compte client.
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

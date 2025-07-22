@@ -1,0 +1,8 @@
+.product-add-to-cart {
+  display: unset;
+}
+
+.product-add-to-cart .control-label, .product-add-to-cart .control-label, .product-add-to-cart .qty, .product-add-to-cart .add {
+    display: none;
+}
+

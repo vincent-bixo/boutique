@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <template file="form.tpl" admin="AdminOrdersController">
+        <pattern>
+            <match><![CDATA[<div class="panel" id="vouchers_part"]]></match>
+            <replace><![CDATA[{hook h="displayCartRuleAdminOrders"}
+                                <div class="panel" id="vouchers_part"]]></replace>
+        </pattern>
+    </template>
+</templates>

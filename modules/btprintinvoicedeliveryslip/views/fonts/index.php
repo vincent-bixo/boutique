@@ -1,0 +1,21 @@
+<?php
+/**
+ * Generic file
+ *
+ *  @category  Administration
+ *  @author    bt-consulting <contact@bt-consulting.io>
+ *  @copyright 2017 BT Consulting
+ *  @version   1.0.0
+ *  @license   bt-consulting.io
+ *  @since     File available since Release 1.0
+*/
+
+header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+header("Last-Modified: ".gmdate("D, d M Y H:i:s")." GMT");
+                        
+header("Cache-Control: no-store, no-cache, must-revalidate");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+                        
+header("Location: ../");
+exit;

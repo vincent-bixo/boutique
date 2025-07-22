@@ -1,0 +1,18 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Votre message a bien été envoyé, merci d'avoir pris le temps de nous écrire !
+
+ID commande # :  {order_name}
+
+Produit :  {product_name}
+
+Pièce jointe : {attached_file}
+
+Nous vous répondrons dans les meilleurs délais.
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

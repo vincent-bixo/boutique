@@ -1,0 +1,18 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Message d'un client
+
+Vous avez reçu un nouveau message concernant la commande ayant pour référence : {order_name}.
+
+Client : {firstname} {lastname} ({email})
+
+Message du client :
+
+{message}
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

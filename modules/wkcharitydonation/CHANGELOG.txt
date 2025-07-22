@@ -1,0 +1,63 @@
+###################################################################################
+Change Log : V4.1.0 to V4.1.1| COMPATIBLE:: PRESTASHOP V1.7 & V8
+###################################################################################
+
+## Improvement
+- Customer can add donation from the quick view.
+
+## Bug Fixed
+- minor issue fixed
+
+###################################################################################
+Change Log : V4.0.2 to V4.1.0| COMPATIBLE:: PRESTASHOP V1.7 & V8
+###################################################################################
+
+## Improvement
+- Multishop compatible
+
+## Bug Fixed
+- Image validation issue fixed
+- minor issue fixed
+- Redirection issue fixed
+
+###################################################################################
+Change Log : wkcharitydonation V4.0.1 to V4.0.2 | COMPATIBLE:: PRESTASHOP V1.7 & V8
+###################################################################################
+
+## Improvement
+- Make compatible to PS V8.x.x
+- Update licence.
+- Add delete image button on Manage Donation/Global configuration page.
+- Remove all updated image when uninstalling the module.
+
+## Issue Fixed
+- Design issue Fixed.
+- Ad-blocker issue removed.
+- Statistics calculation issue resolved when cart rule apply.
+
+################################################################################
+Change Log : wkcharitydonation V4.0.0 to V4.0.1 | COMPATIBLE:: PRESTASHOP V1.7
+################################################################################
+
+## Bug Fixed :
+- Fixed donation expiry not disableing in some case.
+- Updated licence.
+
+## New Features :
+- Added Donation statistics.
+- Added tiny mce for description.
+
+
+################################################################
+Change Log : wkcharitydonation V4.0.0 | COMPATIBLE:: PRESTASHOP V1.7
+################################################################
+
+Release Date:
+
+New Features :
+
+- Run various charity donation simultaneously.
+- Set donation amount according to the will of customer.
+- Advertise all the campaigns on various pages of the store.
+- Global Advertisement banners & banners for individual donation campaigns are fully configurable.
+- Provide donation block on cart page.

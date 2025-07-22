@@ -1,0 +1,9 @@
+
+[{shop_url}]
+
+Here is the list of products and combinations for shop {shop_name} reaching stock alert level
+
+{included_list_txt}
+
+{shop_name} [{shop_url}]
+

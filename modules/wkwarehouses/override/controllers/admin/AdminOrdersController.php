@@ -1,0 +1,32 @@
+<?php
+/**
+* NOTICE OF LICENSE
+*
+* This file is part of the 'Wk Warehouses Management' module feature.
+* Developped by Khoufi Wissem (2018).
+* You are not allowed to use it on several site
+* You are not allowed to sell or redistribute this module
+* This header must not be removed
+*
+*  @author    KHOUFI Wissem - K.W
+*  @copyright Khoufi Wissem
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*/
+if (!defined('_PS_VERSION_')) {
+    exit;
+}
+
+class AdminOrdersController extends AdminOrdersControllerCore
+{
+    protected function reinjectQuantity($order_detail, $qty_cancel_product, $delete = false)
+    {
+        if (class_exists('WorkshopAsm')) {
+			$override_reinject = (new WorkshopAsm())->reinjectRefundedQuantity($order_detail, $qty_cancel_product, $delete);
+			if (!$override_reinject) {
+				return parent::reinjectQuantity($order_detail, $qty_cancel_product, $delete);
+			}
+		} else {
+			return parent::reinjectQuantity($order_detail, $qty_cancel_product, $delete);
+		}
+    }
+}

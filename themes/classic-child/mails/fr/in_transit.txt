@@ -1,0 +1,20 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+{meta_products}
+
+Identifiant de commande {order_name} - En cours d'expédition
+
+Votre commande ayant pour référence {order_name} est en route.
+
+Vous pouvez suivre la progression de votre livraison à l'adresse suivante: {followup}
+
+Suivez votre commande et téléchargez votre facture sur notre site, rendez-vous dans la section [Historique et détails de mes commandes]({history_url}) de votre compte client.
+
+Si vous avez un compte invité, vous pouvez suivre votre commande via la section [Suivi invité]({guest_tracking_url}) sur notre boutique.
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

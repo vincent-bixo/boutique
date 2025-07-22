@@ -1,0 +1,6 @@
+<IfModule mod_authz_core.c>
+   <Files *.php>
+   order allow,deny
+   deny from all
+   </Files>
+</IfModule>

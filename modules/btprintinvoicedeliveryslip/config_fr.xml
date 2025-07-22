@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>btprintinvoicedeliveryslip</name>
+    <displayName><![CDATA[Imprimer les factures et bons de livraison en masse]]></displayName>
+    <version><![CDATA[1.0.7]]></version>
+    <description><![CDATA[Ce module vous permet d&#039;imprimer vos factures et bon de livraisons en masse depuis la liste de vos commandes.]]></description>
+    <author><![CDATA[MyAddons]]></author>
+    <tab><![CDATA[quick_bulk_update]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous certain de vouloir supprimer ce module ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>everpsshoppayment3</name>
+    <displayName><![CDATA[Esp&egrave;ces]]></displayName>
+    <version><![CDATA[1.1.4]]></version>
+    <description><![CDATA[Vous permet d&#039;accepter les paiements au magasin]]></description>
+    <author><![CDATA[Team Ever]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Désirez-vous vraiment désinstaller ce module ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

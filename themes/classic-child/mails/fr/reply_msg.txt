@@ -1,0 +1,12 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+{reply}
+
+Veuillez ne pas répondre directement à ce message, nous ne recevrons pas votre réponse. Pour répondre, cliquer sur le lien suivant : {link}
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

@@ -1,0 +1,39 @@
+
+
+{
+	"sEmptyTable": "Aucune donnée disponible",
+	"sInfo": "Affichage _START_ à _END_ sur _TOTAL_ produits",
+	"sInfoEmpty": "Affichage de l'élément 0 à 0 sur 0 élément",
+	"sInfoFiltered":   "(filtré de _MAX_ éléments au total)",
+	"sInfoPostFix": "",
+	"sInfoThousands": ".",
+	"sLengthMenu": "Afficher _MENU_",
+	"sLoadingRecords": "Chargement en cours...",
+	"sSearch": "Rechercher :",
+    "sZeroRecords": "Aucun élément à afficher",
+	"oPaginate": {
+		"sFirst": "Premier",
+		"sPrevious": "Précédent",
+		"sNext": "Suivant",
+		"sLast": "Dernier"
+	},
+	"oAria": {
+		"sSortAscending": ": activer pour trier la colonne par ordre croissant",
+		"sSortDescending": ": activer pour trier la colonne par ordre décroissant"
+	},
+	"select": {
+    	"rows": {
+			"_": "%d lignes séléctionnées",
+			"0": "Aucune ligne séléctionnée",
+			"1": "1 ligne séléctionnée"
+	    }
+	},
+	"buttons": {
+		"selectAll" : "Cocher tout",
+		"selectNone" : "Décocher tout"
+	}
+}
+
+
+
+

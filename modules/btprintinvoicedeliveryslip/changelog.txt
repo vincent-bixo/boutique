@@ -1,0 +1,30 @@
+Print Invoice Delivery Slip in mass
+Contact: support@myaddons.io
+
+
+Change history for Print invoice delivery slip
+———————————————————
+
+Version 1.0.0 (31/10/2017):
+- Original release
+
+Version 1.0.1 (28/11/2017):
+- Fix bug output PDF when you want open with Acrobat Reader
+
+Version 1.0.2 (31/01/2018):
+- Fix bug output All orders PDF when you want open with Acrobat Reader
+
+Version 1.0.3 (24/03/2018) :
+- Add PrestaTrust
+
+Version 1.0.4 (27/04/2018) :
+- Fix bug when you print invoices and after you want update order status in mass
+
+Version 1.0.5 (11/12/2018) :
+- Fix bug in order list view with pagination
+
+Version 1.0.6 (11/12/2018) :
+- Fix bug in order list view with pagination
+
+Version 1.0.7 (21/02/2019) :
+- Refresh action from after clicking on bulk action

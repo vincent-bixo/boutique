@@ -1,0 +1,41 @@
+#block-warehouses-stock {
+	margin-top:2rem;
+}
+.warehousesExtraTabContent #block-warehouses-stock {/* override */
+	margin-top:auto!Important;
+}
+#block-warehouses-stock li {
+	border-bottom:1px solid rgba(0, 0, 0, .25);
+	text-align: left!Important;
+}
+#block-warehouses-stock li:last-child {
+	border:0;
+}
+#block-warehouses-stock li {
+	padding:1rem 1.5rem;
+}
+#product #block-warehouses-stock {
+	box-shadow:2px 2px 8px 0 rgba(0, 0, 0, .2);
+	background:#fff;
+}
+#product #block-warehouses-stock span {
+	margin-left:15px;
+}
+#block-warehouses-stock li.item {
+	padding-left: 50px;
+}
+#block-warehouses-stock li.item i {
+	font-size:11px;
+}
+.green-color {
+	color:green;
+	font-size:15px!Important;
+}
+.red-color {
+	color:red;
+	font-size:15px!Important;
+}
+.warehouses-select .form-control option:disabled {
+	color:#c0c2c4!Important;
+	opacity:0.75!Important;
+}

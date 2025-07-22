@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "a142c054e17cd1369b34e989c00b80b4",
+    "packages": [
+        {
+            "name": "sendcloud/integration-core",
+            "version": "1.4.9",
+            "source": {
+                "type": "git",
+                "url": "ssh://git@gitlab.com/sendcloud/logeecom/logeecom-core.git",
+                "reference": "3a28daa5be6301b2129190e21fae6b6a85cddf5d"
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SendCloud\\BusinessLogic\\": "src/BusinessLogic",
+                    "SendCloud\\Infrastructure\\": "src/Infrastructure"
+                }
+            },
+            "autoload-dev": {
+                "psr-4": {
+                    "SendCloud\\Tests\\BusinessLogic\\": "tests/BusinessLogic",
+                    "SendCloud\\Tests\\Infrastructure\\": "tests/Infrastructure",
+                    "SendCloud\\Tests\\Common\\": "tests/Common"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "SendCloud integrations core library",
+            "time": "2024-03-11T12:35:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-openssl": "*"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

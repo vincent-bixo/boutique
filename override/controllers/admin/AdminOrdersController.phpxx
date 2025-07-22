@@ -1,0 +1,77 @@
+<?php
+
+
+class AdminOrdersController extends AdminOrdersControllerCore {
+       public function __construct() {
+           parent::__construct();
+           $this->_join .= 'LEFT JOIN `'._DB_PREFIX_.'carrier` cr ON (cr.`id_carrier` = a.`id_carrier`)';
+           $this->_select .= ', cr.name as carrier';
+           $this->fields_list['carrier'] = array(
+               'title' => $this->l('Carrier'),
+               'align' => 'text-center'
+           );
+       }
+    /*
+    * module: wkwarehouses
+    * date: 2020-09-13 20:29:01
+    * version: 1.7.60
+    */
+    protected function reinjectQuantity($order_detail, $qty_cancel_product, $delete = false)
+    {
+        $id_lang = (int)$this->context->language->id;
+        $id_shop = (int)$order_detail->id_shop;
+        $id_product = (int)$order_detail->product_id;
+        $product = new Product($id_product, false, $id_lang, $id_shop);
+        if (!Configuration::get('PS_ADVANCED_STOCK_MANAGEMENT') || !class_exists('WorkshopAsm') ||
+            !$product->advanced_stock_management) {
+            return parent::reinjectQuantity($order_detail, $qty_cancel_product, $delete);
+        }
+        $reinjectable_quantity = (int)$order_detail->product_quantity - (int)$order_detail->product_quantity_reinjected;
+        $quantity_to_reinject = $qty_cancel_product > $reinjectable_quantity ? $reinjectable_quantity : $qty_cancel_product;
+        if ($order_detail->id_warehouse != 0) {
+            $id_product_attribute = (int)$order_detail->product_attribute_id;
+            StockAvailable::updateQuantity(
+                $id_product,
+                $id_product_attribute,
+                $quantity_to_reinject,
+                $id_shop,
+                true,
+                array(
+                    'id_order' => $order_detail->id_order,
+                    'id_stock_mvt_reason' => Configuration::get('PS_STOCK_CUSTOMER_RETURN_REASON')
+                )
+            );
+            if (class_exists('PrestaShop\PrestaShop\Adapter\StockManager')) {
+                (new PrestaShop\PrestaShop\Adapter\StockManager())->updatePhysicalProductQuantity(
+                    $id_shop,
+                    (int)Configuration::get('PS_OS_ERROR'),
+                    (int)Configuration::get('PS_OS_CANCELED'),
+                    null,
+                    (int)$order_detail->id_order
+                );
+            }
+            if ($delete) {
+                $order_detail->delete();
+                
+                if (class_exists('PrestaShop\PrestaShop\Adapter\StockManager')) {
+                    (new PrestaShop\PrestaShop\Adapter\StockManager())->updatePhysicalProductQuantity(
+                        (int)$id_shop,
+                        (int)Configuration::get('PS_OS_ERROR'),
+                        (int)Configuration::get('PS_OS_CANCELED'),
+                        $id_product
+                    );
+                }
+                (new WorkshopAsm())->synchronize(
+                    (int)$order_detail->product_id,
+                    (int)$order_detail->product_attribute_id,
+                    null,
+                    array(),
+                    false,
+                    $order_detail->id_warehouse
+                );
+            }
+        } else {
+            $this->errors[] = $this->trans('This product cannot be re-stocked.', array(), 'Admin.Orderscustomers.Notification');
+        }
+    }
+}

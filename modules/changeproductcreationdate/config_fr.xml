@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>changeproductcreationdate</name>
+    <displayName><![CDATA[Date de cr&eacute;ation du produit]]></displayName>
+    <version><![CDATA[1.2.0]]></version>
+    <description><![CDATA[Modifier la date de cr&eacute;ation du produit depuis la fiche-article]]></description>
+    <author><![CDATA[BeComWeb]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr(e) de vouloir désinstaller ce module ?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

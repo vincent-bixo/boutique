@@ -1,0 +1,12 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Import terminé
+
+Le fichier {filename} a bien été importé dans votre boutique.
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

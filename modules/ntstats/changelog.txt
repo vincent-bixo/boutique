@@ -1,0 +1,206 @@
+2024.09.30 - 4.16.2 :
+    - Compatibility Prestashop 8.2.0
+2024.05.21 - 4.16.1 :
+    - Fix issue with countries when in group shop context
+2024.02.27 - 4.16.0 :
+    - Add customer ID everywhere with customer infos
+    - Add customers products details tab
+2024.02.12 - 4.15.3 :
+    - Fix issue with missing config shop info
+    - Fix issue with division by zero
+    - Fix issue with unreceived data in js for list display
+2024.01.26 - 4.15.2 :
+    - Adapt module to new Prestashop's rules
+    - Fix issue with some reloaded select
+2023.11.21 - 4.15.1 :
+    - Fix issue with 4.15.0 new install
+2023.09.06 - 4.15.0 :
+    - Add configuration of default dates
+    - Add scrollbar to the menu
+    - Improve data loading performance
+    - Fix issue with dashboard data in a specific case
+    - Fix export issue
+2023.07.03 - 4.14.3 :
+    - Compatibility with Prestashop 8.1
+2023.02.16 - 4.14.2 :
+    - Fix compatibility with Prestashop 1.7
+2023.02.03 - 4.14.1 :
+    - Fix issue when customer does not have gender (in "Customers products" tab)
+2023.01.31 - 4.14.0 :
+    - Add some columns in total sales, total products sales, total combinations sales, products, orders, customers and customers orders details tabs
+    - Add tax excl. or tax incl. in amount columns
+    - Stay on the current tab when refreshing page
+2023.01.23 - 4.13.0 :
+    - Add option to choose what order location to use (invoice or delivery)
+    - Add some columns in the "Customers products" tab
+    - Add "Sellout %" columns in the "Total products sales" tab
+    - Add Polish translation thanks to Piter
+2022.11.28 - 4.12.0 :
+    - Add option to choose what order date to use for period filter
+    - Add option to choose what return statuses are valid return
+2022.11.24 - 4.11.2 :
+    - Fix issue with refund and return dates
+2022.11.17 - 4.11.1 :
+    - Fix compatibility issue with Prestashop 8.0.0
+2022.11.04 - 4.11.0 :
+    - Great speed improvement on big shop
+2022.09.07 - 4.10.0 :
+    - Add option to limit backoffice users profiles view by countries
+2022.09.01 - 4.9.1 :
+    - Fix missing currency conversion in Cart rules tab and Customer single order amount
+    - Improve table size
+2022.08.29 - 4.9.0 :
+    - Compatibility with Prestashop 8.0.0
+    - Better file name for exports (Shop/Group name - Graph name - Date and hour)
+    - Add country filter to products and combinations total sales
+    - Add some new infos in orders stats tabs
+2022.07.06 - 4.8.0 :
+    - Add filters to "Customers orders details"
+2022.06.30 - 4.7.0 :
+    - Great speed improvement for big shop
+    - Fix some filter issues
+    - Fix issues when products do not have references
+2022.06.08 - 4.6.1 :
+    - Fix issue in "Total payment methods sales"
+2022.05.24 - 4.6.0 :
+    - Add filters to "Customers orders details"
+    - Improve filters layout
+2022.05.18 - 4.5.0 :
+    - Add new columns to Cart rules tab
+2022.05.11 - 4.4.0 :
+    - Add new columns to Orders tab
+    - Add Italian translation
+    - Improve translations
+    - Fix some css issue with order states borders
+2022.05.10 - 4.3.0 :
+    - Add an option to prevent stats autoload. Useful on big shops.
+2022.04.29 - 4.2.0 :
+    - Add a new tab (Customers orders details) where you can see at once customers, orders and orders details
+2022.03.30 - 4.1.2 :
+    - Improve ajax to not raise false positive on WAF
+2022.03.16 - 4.1.1 :
+    - Add taxes amount in countries sales
+    - Add configuration for time and memory limit increase
+2022.01.13 - 4.1.0 :
+    - Add new columns (margins, discounts, delivery refund, products refund) in some tabs
+    - Add color line when mouse is over a line
+	- Add color line selection on mouse click a line
+    - Fix some margin/sales calculation
+2021.12.13 - 4.0.1 :
+    - Fix installation issue
+2021.11.24 - 4.0.0 :
+    - Add on dashboard a comparison chart of last 3 years of sales
+    - Add on dashboard a comparison chart of last 3 years of orders
+    - Add low stock email alert with simple or advanced automation
+    - Add margin to manufacturers sales
+    - Add active filter to products with out of stock combinations
+    - Add a row of average values in total sales tab
+    - Add a row of total values in products tab
+    - Columns can be reordered
+    - Columns order and sort order are automatically remembered
+    - Improve shop management when displaying a shop group stats
+    - Simplify some columns name
+2021.10.20 - 3.2.0 :
+    - Fix issue with discount and margin in products sales
+2021.09.03 - 3.1.1 :
+    - Improve some SQL requests
+    - Fix issue in JS when trying to loop on empty value
+2021.08.23 - 3.1.0 :
+    - Add Excel export
+    - Add features filter
+    - Add "Need" column (Quantity current - Quantity sold)
+    - Fix some columns display in export
+    - Improve default sorting when there are accented characters
+    - Remove price display for export (display as rounded float instead)
+2021.08.13 - 3.0.2 :
+    - Fix natural sorting of numbers for thousands
+2021.08.12 - 3.0.1 :
+    - Fix natural sorting of numbers
+    - Fix price display across Prestashop versions
+2021.07.15 - 3.0.0 :
+    - Add option to group or separate products/combinations sales line if their reference has changed
+    - When a product/combination reference has changed, the newest one found is displayed in sales tabs (if grouped)
+    - Products sales and Combinations sales now have a category filter
+    - Products sales and Combinations sales now display current stock available
+    - Products sales can now display either all kind of products or only those without combination
+    - Combinations sales can now display either all kind of products or only those with combinations
+    - Products can now display either all kind of products or only those without combination or only those with combinations
+    - Add manufacturer filter in Products/Combinations and Products sales/Combinations sales
+    - In Customers an option allows to only display customers having bought at least one of the chosen product
+    - Add a tab to display customers products infos
+    - Selections can now be multiple
+2021.07.02 - 2.11.1 :
+    - Fix issue with shop restriction on stock available
+2021.06.14 - 2.11.0 :
+    - Add unit price, whole price, margin tax excl. to the combination list
+2021.04.20 - 2.10.2 :
+    - Fix some division by zero
+2021.04.20 - 2.10.1 :
+    - Fix an issue with total products sale when in all shops mode
+2021.03.24 - 2.10.0 :
+    - Can compute stats even if invoices are not enabled in Prestashop or have not date in database
+    - Fix some errors
+2021.03.23 - 2.9.0 :
+    - Add commercial margin to total sales products and combinations
+2021.03.17 - 2.8.0 :
+    - Add payment method stats
+2021.03.01 - 2.7.0 :
+    - Fix issue with sub sql requests
+2021.02.12 - 2.6.2 :
+    - Fix compatibility issue with Prestashop 1.7.7 when an error happen on install
+    - Improve multishop management
+2021.02.10 - 2.6.1 :
+    - Fix multishop issue
+2021.01.26 - 2.6.0 :
+    - Add an option to be notified by email when a new version is available
+2021.01.13 - 2.5.1 :
+    - Fix compatibility issue with Prestashop 1.7.7.0 : improvement of font resolution
+2020.11.05 - 2.5.0 :
+    - Add tab manufacturers
+    - Add tab manufacturers sales
+    - Add tab compare manufacturers sales
+    - Add tab customers
+    - Add tab categories
+    - Add tab orders statuses duration
+    - Add product active filter on products with out of stock combinations
+    - Add product active filter on products with combinations without enough stock
+    - Improve user interaction with Addons (contact, rate and comment link and 2N modules access)
+2020.10.23 - 2.4.0 :
+    - Add tab orders to display orders invoiced between chosen dates
+    - Fix issue with prices with different currencies
+2020.08.03 - 2.3.2 :
+    - Upgrade DataTables to 1.10.22
+2020.08.03 - 2.3.1 :
+    - Fix issue in total sales combination for products without combination
+    - Improve sorting
+2020.07.28 - 2.3.0 :
+    - Improve some sql requests
+    - Fix some sql request issues
+2020.07.27 - 2.2.2 :
+    - Add some translations
+2020.07.24 - 2.2.1 :
+    - Remove href link in exported files
+2020.07.23 - 2.2.0 :
+    - Fix issue with some result
+    - Add total combinations sales
+    - Add compare total combinations sales
+2020.04.10 - 2.1.0 :
+    - Add graphics
+    - Add linkk to products in products and combinations stats
+    - Add titles on columns headers
+2020.04.08 - 2.0.1 :
+    - Add id_product to the contact link
+2020.04.08 - 2.0.0 :
+    - Complete rewrite for Prestashop 1.7
+2020.01.31 - 1.3.1 :
+    - Add product name to list when there is reference but no name
+2020.01.22 - 1.3.0 :
+    - Add product name to select of product reference
+    - The list of product informations works even without attribute now
+    - Fix compatibility issue with meta_title and version >= 1.6.0.12
+2015.07.30 - 1.2.0 :
+    - Compatibility with Presta 1.6.1
+2015.05.07 - 1.1.0 :
+    - Structure improvement for Presta 1.6
+2015.01.19 - 1.0.0 :
+    - First version for Prestashop 1.5 and 1.6

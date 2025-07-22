@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>orderfees_shipping</name>
+    <displayName><![CDATA[Frais de port Avanc&eacute;]]></displayName>
+    <version><![CDATA[1.23.11]]></version>
+    <description><![CDATA[G&eacute;rez facilement vos frais de port.]]></description>
+    <author><![CDATA[motionSeed]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

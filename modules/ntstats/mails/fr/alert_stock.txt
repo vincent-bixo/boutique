@@ -1,0 +1,9 @@
+
+[{shop_url}]
+
+Voici la liste des produits et déclinaisons ayant atteint le niveau d'alerte de stock pour la boutique {shop_name}
+
+{included_list_txt}
+
+{shop_name} [{shop_url}]
+

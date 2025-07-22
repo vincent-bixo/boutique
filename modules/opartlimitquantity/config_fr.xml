@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>opartlimitquantity</name>
+    <displayName><![CDATA[Gestion avanc&eacute;e des quantit&eacute;s]]></displayName>
+    <version><![CDATA[1.4.6]]></version>
+    <description><![CDATA[Limite la quantit&eacute; de produits ajout&eacute;s au panier]]></description>
+    <author><![CDATA[&quot;R&eacute;ussir mon ecommerce]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr de vouloir désinstaller ce module ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

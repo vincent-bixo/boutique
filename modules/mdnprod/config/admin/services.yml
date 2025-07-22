@@ -1,0 +1,6 @@
+services:
+    mdnprod.twig.path_override:
+        class: Symfony\Component\DependencyInjection\Definition
+        factory: ['@twig', 'getLoader']
+        calls:
+            - ['addPath', ['modules/mdnprod/views/PrestaShopBundle', 'PrestaShopBundle']]

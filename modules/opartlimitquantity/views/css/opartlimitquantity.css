@@ -1,0 +1,27 @@
+.batchAction {
+  margin: 10px 0 50px;
+  display: flex;
+  justify-content: center;
+}
+.batchAction .addBatch {
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+}
+.removeBatch {
+  color: #c05c67;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.removeBatch .icon-trash {
+  font-size: 20px;
+}
+.popover-body {
+  white-space: break-spaces;
+}
+.tooltip {
+  text-transform: none;
+}
+.tooltip .tooltip-inner {
+  text-align: left !important;
+}

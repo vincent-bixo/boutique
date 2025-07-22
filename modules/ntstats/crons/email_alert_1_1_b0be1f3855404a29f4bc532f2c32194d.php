@@ -1,0 +1,1 @@
+<?php header("Location: https://editions.mariedenazareth.com/modules/ntstats/crons/email_alert.php?secure_key=b0be1f3855404a29f4bc532f2c32194d&id_shop_group=1&id_shop=1"); exit();

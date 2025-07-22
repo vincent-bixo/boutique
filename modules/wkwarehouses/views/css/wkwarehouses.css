@@ -1,0 +1,8 @@
+/* Order confirmation page: hide Shipping method block if multi-carriers */
+#order-details li:nth-child(3) {
+	display:none;
+}
+.delivery-option hr {
+	margin-bottom:10px!Important;
+	margin-top:10px!Important;
+}

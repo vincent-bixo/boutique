@@ -1,0 +1,397 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Overlock');
+body{
+  font-family: 'Overlock';
+}
+
+h1, .h1, h2, .h2 {
+  font-family: 'Bree Serif', serif;
+}
+
+#top-menu a {
+  font-family: 'Bree Serif', serif;
+  font-weight: 500;
+}
+
+/*#index #carousel .caption-description{font-family: 'Syncopate', sans-serif;}*/
+
+
+#wrapper {
+  background: #ffffff;
+  box-shadow: none;
+}
+
+
+/* largeur du bouton "Faire un don" qui déborde */
+.donation-btn-text {
+  padding: 10px 4px;
+}
+
+/* symbole euro avant pour un don */
+.input-group-addon {
+  line-height: 0.25;
+}
+
+.btn-primary {
+  background-color: #4E9C72;
+}
+
+#header .header-nav .cart-preview.active {
+  background: #4E9C72;
+}
+
+#header .header-nav {
+  background-color: #d1d2d4;
+}
+
+#_desktop_logo .titre {
+  color: #005aa8;
+  font-weight: 500;
+  font-family: 'Bree Serif', serif;
+  font-size: 1.375rem;
+/*  line-height: 1.1;
+  margin: .67em 0;
+  margin-bottom: .5rem;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;*/
+}
+
+#_desktop_logo {
+  margin: 0 0 8px;
+}
+
+@media (max-width: 575px) {
+  #_mobile_logo .titre {
+    display: none;
+  }
+}
+
+.top-menu{position:relative;}
+.menu .top-menu>li{ float:right; }
+.top-menu .sub-menu{margin-right:0;}
+#header .menu,#header .menu>ul>li{display:block}
+
+#header #top-menu a {
+  text-transform: uppercase;
+  color: #8d8e8e;
+}
+#_desktop_top_menu {
+  line-height: 25px;
+  border-top: 1px solid #8d8e8e;
+  border-bottom: 1px solid #8d8e8e;
+}
+
+#content h2 {
+  color: #E9AF59;
+  font-weight: 500;
+  font-size: 1.563rem;
+  
+  display: table;
+  white-space: nowrap;
+  text-align: center;
+  
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+#content h2.titre {
+  white-space: normal;
+  bottom: -4px;
+  margin-bottom: 9px;
+  position: absolute;
+  color: white;
+  padding: 12px;
+}
+@media (min-width: 992px) {
+  #content h2:not(.titre) {
+    font-size: 32px;
+  }
+}
+@media (max-width: 991px) {
+  #content h2.titre {
+    font-size: 21px;
+  }
+}
+
+.padding20px {
+  padding: 30px;
+}
+
+#content #custom-text h2:before, #content #custom-text h2:after, #content .featured-products h2:before, #content .featured-products h2:after {
+  content: "";
+  display: table-cell;
+  width: 50%;
+  background: linear-gradient(#59a9c5, #59a9c5) repeat-x right center;
+  background-size: 1px 2px;
+}
+
+#header .header-top {
+  padding-bottom: 0;
+}
+
+.slider-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: -7px;
+}
+#carousel {
+  margin-top: 2%;
+}
+
+.slider-top .titre {
+  text-transform: uppercase;
+  background-color: black;
+  opacity: 0.6;
+  width: 100%;
+}
+
+.slider-top .col-sm-6 {
+  padding: 0;
+}
+
+.slider-top img {
+  width: 100%;
+  vertical-align: unset;
+}
+
+/*#top-menu {
+  margin-top: 14px;
+}*/
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  border-top: 1px solid rgba(0,0,0,1);
+}
+
+#custom-text {
+  padding: 0.25rem 0;
+}
+
+@media (max-width: 575px) {
+  .slider-top .col-sm-6 {
+    width: 100%;
+  }
+}
+
+@media (min-width: 576px) {
+  .col-sm-6 {
+    width: 49%;
+  }
+}
+
+dl, ol, ul {
+  margin-top: 5px;
+}
+
+#products .products, .featured-products .products, .product-accessories .products, .product-miniature .products {
+  justify-content: center;
+}
+
+.footer-container {
+  background-color: #003767;
+}
+
+.footer-container li a {
+  color: white;
+}
+
+#footer .h3, #block_myaccount_infos .myaccount-title a {
+  color: #fa974f;
+}
+
+.block_newsletter .col-xs-12 {
+  text-align: center;
+}
+
+#footer .logo {
+  margin-bottom: 25px;
+}
+
+#footer, #footer p {
+  color: white;
+}
+
+#footer {
+  background-color: #f6f6f6;
+  padding-top: 0;
+}
+
+#footer .footer-container .container>.row:nth-child(3n) {
+  background-color: #00264c;
+}
+#footer .footer-container .container>.row:nth-child(3n) a {
+  color: white;
+  line-height: 38px;
+}
+#footer p {
+  margin-bottom: 0;
+}
+
+@media (min-width: 576px) {
+  #footer .footer-container .container>.row:nth-child(3n) {
+    margin-right: -70%;
+    margin-left: -70%;
+  }
+}
+
+@media (min-width: 768px) {
+  .blockreassurance .offset-md-3 {
+    margin-right: 0;
+  }
+}
+
+#header, #header a, #header .header-nav .cart-preview.active a, #header .header-nav .cart-preview.active i {
+  color: #003767;
+}
+
+.featured-products .all-product-link {
+  width: 100%;
+  text-align: center;
+  color: #59a9c5;
+}
+.featured-products .all-product-link .material-icons {
+  line-height: 0.8;
+}
+
+#footer .btn-primary {
+  background-color: #59a9c5;
+}
+
+#custom-text .btn {
+  border-radius: 20px;
+  padding: 8px 35px;
+  background-color: #59a9c5;
+  color: white;
+}
+
+/*.promo-code-button, .block-promo {display:none;}*/
+
+.block-category .block-category-inner #category-description strong {
+  font-weight: bold;
+  color: black;
+}
+
+.block-category .block-category-inner #category-description p, .block-category .block-category-inner #category-description p:first-child {
+  margin-bottom: 0.5rem;
+}
+
+.card-block.cart-summary-totals .cart-summary-line:last-child {
+  margin-top: -15px;
+}
+
+@media (min-width: 992px) {
+  #main .col-lg-4, #main .col-lg-8 {
+    width: 100%;
+  }
+}
+
+/*masque paiement espèces A REVOIR*/
+#payment-option-5-container {
+  display: none;
+}
+
+.product-quantity {
+  flex-direction: column;
+}
+
+/*input[type=number]::-webkit-inner-spin-button {
+  opacity: 1;
+}*/
+
+#donation-price-input::-webkit-outer-spin-button, 
+#donation-price-input::-webkit-inner-spin-button {
+    -webkit-appearance: inner-spin-button !important;
+}
+
+/*.input-group {
+  display: unset;
+}*/
+
+/*.product-quantity .qty {
+  display: unset;
+}*/
+
+.qty .input-group {
+  /*width: 270px;*/
+  box-shadow: unset;
+}
+
+.qty .input-group.bootstrap-touchspin {
+  margin-left: 10px;
+  min-width: 80px;
+}
+
+#product-availability {
+  /*margin-top: unset;*/
+  margin: auto 0;
+  color: #4E9C72;
+}
+
+.tabs {
+  margin-bottom: 2rem;
+}
+
+p {
+  color: #202020;
+  font-size: 16px;
+}
+
+#wrapper .col-md-12, #wrapper .col-md-12 .product-prices {
+  display: flex;
+}
+
+#wrapper .col-md-12 .product-prices {
+  /*margin: 0.3rem 0px 22px 27px;*/
+  margin: 0 0px 13px 0px;
+  display: inline-flex;
+}
+/*
+#wrapper .card-block .col-md-12 {
+  display: unset;
+}
+*/
+#wrapper .card-block .col-md-12, #wrapper #order-items.col-md-12 {
+  display: unset;
+}
+
+#wrapper .col-md-12 .product-prices.product-price h5 {
+  margin: 0 5px 0px 0px;
+}
+
+#product-availability .product-available {
+  margin: -14px 0px -10px 0px;
+}
+
+.product-discounts {
+  margin-bottom: 0;
+}
+
+.label, label, .donation-description, donation-note, #products .product-title a, .featured-products .product-title a, .product-accessories .product-title a, .product-miniature .product-title a {
+  font-size: 16px;
+}
+
+.breadcrumb {
+  margin-bottom: 2rem;
+}
+
+#wrapper .breadcrumb li a {
+  color: #8d8e8e;
+}
+
+.qty .product-prices {
+  margin: auto 0px 0px 10px;
+}
+
+#_desktop_top_menu .top-menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around/*center*/;
+  margin-bottom: 0px;
+}

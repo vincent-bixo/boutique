@@ -1,0 +1,9 @@
+#product .tree-top{margin-bottom:5px;font-weight:bold;}
+#product #title_categories{font-weight:bold;text-decoration:underline;font-size:15px;}
+
+#customexporter_bo input[type=text]{margin:5px 0 0 0;display:inline!important;width:150px;}
+#customexporter_bo select{margin:5px 0 0 0;width:330px!important;}
+#customexporter_bo #export_type{width:250px;margin-top:10px;}
+#customexporter_bo .sub_title{color:#333;}
+#customexporter_bo input[type=checkbox]{margin:0 5px 0 5px!important;}
+#customexporter_bo .checkboxTree img{vertical-align:top;padding-top:2px!important;}

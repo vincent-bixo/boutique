@@ -1,0 +1,30 @@
+{
+  "name": "sendcloud/prestashop",
+  "description": "Sendcloud Shipping PrestaShop plugin",
+  "type": "library",
+  "version": "2.0.16",
+  "require": {
+    "sendcloud/integration-core": "1.4.9",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-openssl": "*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "no-api": true,
+      "url": "ssh://git@gitlab.com/sendcloud/logeecom/logeecom-core.git"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sendcloud\\PrestaShop\\Classes\\": "classes"
+    },
+    "classmap": [
+      "controllers/admin/AdminSendcloudv2Controller.php"
+    ]
+  },
+  "config": {
+    "prepend-autoloader": false
+  }
+}

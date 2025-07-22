@@ -1,0 +1,16 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+SAV - Discussion transférée
+
+{employee} souhaiterait vous transférer cette discussion.
+
+Historique de la discussion : {messages}
+
+{employee} a ajouté {comment}
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

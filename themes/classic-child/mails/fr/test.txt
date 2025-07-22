@@ -1,0 +1,12 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Ceci est un e-mail de test depuis votre boutique.
+
+Si vous pouvez le lire, cela veut dire que le test a réussi !
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

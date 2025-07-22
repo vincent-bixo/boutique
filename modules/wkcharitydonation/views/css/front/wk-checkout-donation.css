@@ -1,0 +1,55 @@
+/**
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License version 3.0
+* that is bundled with this package in the file LICENSE.txt
+* It is also available through the world-wide-web at this URL:
+* https://opensource.org/licenses/AFL-3.0
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade this module to a newer
+* versions in the future. If you wish to customize this module for your needs
+* please refer to CustomizationPolicy.txt file inside our module for more information.
+*
+* @author Webkul IN
+* @copyright Since 2010 Webkul
+* @license https://opensource.org/licenses/AFL-3.0 Academic Free License version 3.0
+*/
+
+.charity-block {
+    padding: 16px;
+}
+.donation-block {
+    padding-top: 12px;
+}
+.donation-title {
+    padding-top: 5px;
+    font-size: 15px;
+}
+.donation-description, .donation-note {
+    padding-top: 10px;
+    font-size: 14px;
+    color: #555555;
+    line-height: 22px;
+}
+.donation-price-div, .donation-btn {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 0%;
+}
+.hide {
+    display: none;
+}
+.donation-price{
+    font-size: 16px;
+}
+.donation-btn-text {
+    padding: 10px 16px;
+    font-size: 12px;
+}
+.price-error {
+    font-size: 14px;
+}

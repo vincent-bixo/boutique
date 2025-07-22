@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>wkwarehouses</name>
+    <displayName><![CDATA[Wk Gestion Entrep&ocirc;ts]]></displayName>
+    <version><![CDATA[1.85.40]]></version>
+    <description><![CDATA[G&eacute;rez les entrep&ocirc;ts, leurs emplacements et les quantit&eacute;s en stock pour vos produits.]]></description>
+    <author><![CDATA[Khoufi Wissem]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Tous les produits utilisant déjà la gestion des stocks avancée passeront en gestion de stock normale et perdront en conséquence les configurations de stocks des entrepôts. Êtes-vous sur de vouloir désinstaller ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

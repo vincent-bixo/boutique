@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ntstats</name>
+    <displayName><![CDATA[2N Technologies Statistiques]]></displayName>
+    <version><![CDATA[4.16.2]]></version>
+    <description><![CDATA[Affiche des statistiques pour votre boutique]]></description>
+    <author><![CDATA[2N Technologies]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,14 @@
+
+[/{shop_url}]
+
+Bonjour {firstname} {lastname},
+
+Étiquette de retour pour votre commande : {reference}
+
+Veuillez trouver, en pièce jointe, l'étiquette de retour concernant votre commande : {reference}
+
+Cordialement,
+
+{shop_name} [/{shop_url}] rÃ©alisÃ© avec PrestaShop(tm)
+[http://www.prestashop.com/]
+

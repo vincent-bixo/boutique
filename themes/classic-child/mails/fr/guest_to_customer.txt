@@ -1,0 +1,16 @@
+{shop_url}
+
+Cher(e) {firstname} {lastname},
+
+Votre compte invité a été transformé en compte client
+
+Félicitations, votre compte invité sur {shop_name} a bien été transformé en compte client !
+
+Adresse e-mail : {email}
+
+Vous pouvez accéder à votre compte sur notre site Internet : [{shop_name}]({shop_url})
+
+En union de prière avec la Vierge Marie
+L'équipe de Marie de Nazareth et MDN Productions
+
+[{shop_name}]({shop_url})

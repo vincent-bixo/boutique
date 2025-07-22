@@ -1,0 +1,9 @@
+
+[{shop_url}]
+
+Ecco l'elenco dei prodotti e delle combinazioni per il negozio {shop_name} che raggiunge il livello di allerta delle scorte
+
+{included_list_txt}
+
+{shop_name} [{shop_url}]
+

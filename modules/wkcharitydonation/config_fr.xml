@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>wkcharitydonation</name>
+    <displayName><![CDATA[Donner a une oeuvre de charit&eacute;]]></displayName>
+    <version><![CDATA[4.1.1]]></version>
+    <description><![CDATA[En utilisant ce module, vous pouvez cr&eacute;er et obtenir des dons pour des organisations caritatives.]]></description>
+    <author><![CDATA[Webkul]]></author>
+    <tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

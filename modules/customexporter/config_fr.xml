@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>customexporter</name>
+	<displayName><![CDATA[Custom Exporter]]></displayName>
+	<version><![CDATA[1.7.19]]></version>
+	<description><![CDATA[Exporter les informations de votre boutique]]></description>
+	<author><![CDATA[Webbax]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr de vouloir supprimer le module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
