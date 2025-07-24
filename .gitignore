@@ -4,6 +4,8 @@
 *.log
 *.zip
 
+# DDev
+.ddev/
 # Cache
 /cache/*
 !/cache/.htaccess
@@ -101,6 +103,11 @@
 /admin-dev/themes/new-theme/css/right-sidebar_rtl.css
 
 themes/*/cache/*
+themes/classic-child/assets/cache/*
+mdn-admin/yaml/*
+config/defines.inc.php
+modules/sendcloudv2/*
+modules/stripe_official/*
 
 # Config
 

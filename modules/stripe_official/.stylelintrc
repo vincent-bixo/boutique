@@ -1,8 +1,0 @@
-{
-  "extends": [
-    "stylelint-config-twbs-bootstrap/scss"
-  ],
-  "rules": {
-    "block-opening-brace-space-before": "always"
-  }
-}

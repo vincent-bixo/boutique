@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="/home/robi/prestashop-stripe/stripe_official/tests" tests="1" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.004035">
-    <testsuite name="StripeWebhookTest" file="/home/robi/prestashop-stripe/stripe_official/tests/Unit/classes/StripeWebhookTest.php" tests="1" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="0.004035">
-      <testcase name="testDeleteStripeWebhook" class="StripeWebhookTest" classname="StripeWebhookTest" file="/home/robi/prestashop-stripe/stripe_official/tests/Unit/classes/StripeWebhookTest.php" line="15" assertions="2" time="0.004035"/>
-    </testsuite>
-  </testsuite>
-</testsuites>
